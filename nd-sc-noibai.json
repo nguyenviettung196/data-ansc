@@ -1,0 +1,1836 @@
+{
+  "questions":[
+		{
+			"question": "Câu 1: Những trường hợp vi phạm nào sau đây thì bị cấm vận chuyển bằng đường hàng không từ 03 đến 12 tháng?",
+			"options": [
+				"A- Hành khách gây rối.",
+				"B- Không thực hiện các quyết định xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng.",
+				"C- Sử dụng giấy tờ giả để đi tàu bay.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Trường hợp vi phạm nào sau đây thì bị cấm vận chuyển bằng đường hàng không trên 12 tháng đến 24 tháng?",
+			"options": [
+				"A- Hành khách gây rối.",
+				"B- Có hành vi vi phạm trật tự công cộng, kỷ luật tại cảng hàng không, sân bay, trên tàu bay.",
+				"C- Đối tượng đã bị xử lý cấm vận chuyển mà vẫn tái phạm.",
+				"D- Phát ngôn mang tính đe dọa sử dụng bom, mìn, chất nổ, vật liệu nổ, chất phóng xạ, vũ khí sinh học trong khu vực làm thủ tục vận chuyển, khu vực cách ly, sân bay, trên tàu bay."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Ai là người có thẩm quyền quyết định việc lục soát an ninh hàng không tại cảng hàng không, sân bay?",
+			"options": [
+				"A- Người đứng đầu lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay.",
+				"B- Người đứng đầu bộ phận kiểm tra, soi chiếu an ninh hàng không tại cảng hàng không, sân bay.",
+				"C- Người đứng đầu bộ phận an ninh kiểm soát, an ninh cơ động tại cảng hàng không, sân bay.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Hành lý thất lạc, nhầm địa chỉ trước khi đưa vào khu vực lưu giữ và đưa lại lên tàu bay phải được thực hiện biện pháp kiểm tra an ninh nào?",
+			"options": [
+				"A- Kiểm tra trực quan.",
+				"B- Kiểm tra, soi chiếu an ninh hàng không.",
+				"C- Thông báo cho Hãng hàng không.",
+				"D- Thông báo cho Cảng vụ hàng không khu vực."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Biện pháp tăng cường an ninh cấp độ 1 được áp dụng trong trường hợp nào sau đây?",
+			"options": [
+				"A- Có tình hình mất an ninh chính trị tại địa phương.",
+				"B- Có sự kiện chính trị, xã hội trọng đại của đất nước.",
+				"C- Có tình hình mất trật tự xã hội tại địa phương.",
+				"D- Có tình hình mất an ninh chính trị, trật tự xã hội đặc biệt nghiêm trọng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Biện pháp tăng cường an ninh cấp độ 2 được áp dụng trong trường hợp nào sau đây?",
+			"options": [
+				"A- Có sự kiện chính trị, xã hội trọng đại của đất nước.",
+				"B- Có tình hình mất an ninh chính trị, trật tự xã hội nghiêm trọng tại địa phương.",
+				"C- Có tình hình an ninh chính trị, trật tự xã hội phức tạp.",
+				"D- Có thông tin xác thực về một âm mưu can thiệp bất hợp pháp vào hoạt động hàng không dân dụng có địa điểm, mục tiêu, thời gian cụ thể."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Lục soát an ninh hàng không là gì?",
+			"options": [
+				"A- Là việc sử dụng riêng lẻ hoặc kết hợp biện pháp soi chiếu, kiểm tra trực quan và các biện pháp khác để nhận biết, phát hiện, ngăn chặn các hành vi vi phạm hoặc có dấu hiệu vi phạm về an ninh hàng không.",
+				"B- Là việc sử dụng riêng lẻ hoặc kết hợp con người, động vật, trang bị, thiết bị kỹ thuật để quản lý, theo dõi nhằm phát hiện, ngăn chặn các hành vi vi phạm hoặc có dấu hiệu vi phạm về an ninh hàng không.",
+				"C- Là việc kiểm tra chi tiết từng đồ vật, vị trí của đối tượng, người bị lục soát nhằm phát hiện, ngăn chặn vũ khí, chất nổ hoặc thiết bị, vật phẩm nguy hiểm khác để loại trừ yếu tố gây uy hiếp an ninh hàng không. Việc lục soát an ninh hàng không do người có thẩm quyền quyết định.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Hành lý ký gửi bị rách, vỡ, bung khóa không còn nguyên vẹn trước khi chất xếp lên tàu bay hoặc có dấu hiệu bị can thiệp trái phép phải được xử lý như thế nào?",
+			"options": [
+				"A- Đóng gói lại rồi cho chất xếp lên tàu bay.",
+				"B- Tái kiểm tra an ninh hàng không.",
+				"C- Từ chối hoàn thành thủ tục an ninh hàng không.",
+				"D- Thông báo cho Cảng vụ hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Trường hợp có dấu hiệu hoặc có thông tin đe dọa liên quan đến an ninh, an toàn của chuyến bay thì hành lý thất lạc, hành lý không có người nhận phải được thực hiện bằng biện pháp kiểm tra nào sau đây?",
+			"options": [
+				"A- Kiểm tra bằng máy soi tia X.",
+				"B- Kiểm tra bằng thiết bị phát hiện kim loại cầm tay.",
+				"C- Lục soát an ninh hàng không.",
+				"D- Kiểm tra bằng thiết bị phát hiện chất nổ."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Kiểm tra bổ sung ngẫu nhiên tối thiểu 10% sau kiểm tra an ninh hàng không lần đầu đối với hành khách, hành lý xách tay được thực hiện bằng biện pháp nào sau đây?",
+			"options": [
+				"A- Kiểm tra bằng cổng từ kết hợp thiết bị phát hiện kim loại cầm tay.",
+				"B- Kiểm tra bằng máy soi ở nhiều tư thế khác nhau.",
+				"C- Kiểm tra trực quan hoặc kiểm tra bằng dụng cụ, thiết bị, động vật phát hiện chất nổ.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Biện pháp tăng cường an ninh cấp độ 3 được áp dụng trong trường hợp nào sau đây?",
+			"options": [
+				"A- Có thông tin xác thực về một âm mưu can thiệp bất hợp pháp vào hoạt động hàng không dân dụng có địa điểm, mục tiêu, thời gian cụ thể.",
+				"B- Có tình hình mất an ninh chính trị, trật tự xã hội đặc biệt nghiêm trọng tại địa phương.",
+				"C- Có thông tin xác thực về một âm mưu can thiệp bất hợp pháp vào hoạt động hàng không dân dụng.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Ngoại trừ túi ngoại giao, túi lãnh sự, hành lý ký gửi vận chuyển không cùng với hành khách trên chuyến bay theo quy định của Luật Hàng không dân dụng Việt Nam phải áp dụng các biện pháp kiểm tra an ninh hàng không bổ sung nào sau đây?",
+			"options": [
+				"A- Soi chiếu bằng máy soi tia X đối với đồ vật ở các tư thế khác nhau.",
+				"B- Kiểm tra bằng dụng cụ, thiết bị phát hiện chất nổ.",
+				"C- Phải được lập biên bản kiểm tra.",
+				"D- Kiểm tra như hành lý của khách bình thường.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Việc kiểm tra túi ngoại giao, túi lãnh sự được nhân viên kiểm soát an ninh hàng không thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra niêm phong, những dấu hiệu nhận biết bên ngoài của túi ngoại giao, túi lãnh sự theo quy định của pháp luật về ngoại giao và lãnh sự.",
+				"B- Kiểm tra hộ chiếu, giấy ủy quyền mang túi ngoại giao, túi lãnh sự, văn bản của cơ quan đại diện ngoại giao, cơ quan lãnh sự xác nhận số kiện của túi ngoại giao, túi lãnh sự.",
+				"C- Kiểm tra như hành lý của khách bình thường.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Hành khách nối chuyến, quá cảnh, tạm dừng nội địa và hành lý xách tay phải được kiểm tra an ninh hàng không bằng biện pháp soi chiếu như hành khách xuất phát trước khi lên lại tàu bay, trừ những trường hợp đáp ứng các yêu cầu nào sau đây?",
+			"options": [
+				"A- Hành khách được dán thẻ hành khách tạm dừng, nối chuyến, quá cảnh.",
+				"B- Hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục.",
+				"C- Hành khách được dán thẻ hành khách tạm dừng, nối chuyến, quá cảnh và từ lúc xuống khỏi tàu bay, hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục.",
+				"D- Hành khách có biểu hiện nghi vấn."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Không được phép chuyên chở trên tàu bay hành lý không có người đi cùng khi đang áp dụng biện pháp tăng cường an ninh cấp độ mấy?",
+			"options": [
+				"A- Tăng cường an ninh cấp độ 1.",
+				"B- Tăng cường an ninh cấp độ 2.",
+				"C- Tăng cường an ninh cấp độ 3.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Túi ngoại giao, túi lãnh sự được soi chiếu tia X trong trường hợp nào?",
+			"options": [
+				"A- Hãng hàng không trực tiếp vận chuyển có yêu cầu bằng văn bản gửi người đứng đầu lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay và được sự đồng thuận của giao thông viên ngoại giao hoặc giao thông viên lãnh sự.",
+				"B- Việc soi chiếu tia X phải được ghi nhận bằng văn bản có sự xác nhận của hãng hàng không, giao thông viên ngoại giao hoặc giao thông viên lãnh sự, nhân viên kiểm soát an ninh hàng không và Cảng vụ hàng không; biên bản phải được gửi cho cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự.",
+				"C- Tất cả các túi ngoại giao, túi lãnh sự phải được soi chiếu tia X trong mọi trường hợp.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Việc lục soát an ninh hàng không đối với tàu bay phải được thông báo cho cơ quan, đơn vị nào?",
+			"options": [
+				"A- Người khai thác tàu bay.",
+				"B- Cảng vụ hàng không liên quan và Cục Hàng không Việt Nam.",
+				"C- Người khai thác tàu bay, Cảng vụ hàng không liên quan và chịu sự giám sát của Cảng vụ hàng không.",
+				"D- Người khai thác tàu bay và Cục Hàng không Việt Nam."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Người chỉ huy tàu bay phải được thông báo những thông tin gì của người được phép mang vũ khí, công cụ hỗ trợ trên chuyến bay?",
+			"options": [
+				"A- Tên, chỗ ngồi người được phép mang vũ khí, công cụ hỗ trợ.",
+				"B- Loại vũ khí, công cụ hỗ trợ được phép mang trên chuyến bay.",
+				"C- Tên, chỗ ngồi, loại vũ khí, công cụ hỗ trợ được phép mang trên chuyến bay.",
+				"D- Loại vũ khí, chỗ ngồi người được phép mang vũ khí, công cụ hỗ trợ."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Nghị định 92/2015/NĐ-CP quy định việc lục soát an ninh hàng không đối với tàu bay như thế nào?",
+			"options": [
+				"A- Việc lục soát an ninh hàng không đối với tàu bay phải được thông báo người khai thác tàu bay, cảng vụ hàng không kiên quan và chịu sự giám sát của Cảng vụ hàng không.",
+				"B- Lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay trực tiếp thực hiện lục soát an ninh hàng không. Hãng hàng không liên quan có trách nhiệm cử nhân viên thợ kỹ thuật tàu bay tham gia, tư vấn trong quá trình lục soát an ninh tàu bay.",
+				"C- Việc lục soát an ninh hàng không phải được lập biên bản lục soát.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Khi qua điểm kiểm tra soi chiếu an ninh hàng không, hành khách phải tuân thủ những quy định nào?",
+			"options": [
+				"A- Hành khách cởi bỏ áo khoác, mũ, giầy, dép, thắt lưng, vật dụng cá nhân và các đồ vật khác mang theo người; đặt các đồ vật, chất lỏng, thiết bị điện tử vào khay đưa qua máy soi tia X trước khi đi qua cổng từ.",
+				"B- Hành khách đi qua cổng từ hoặc thiết bị soi chiếu cơ thể (nếu có), nếu cổng từ hoặc thiết bị soi chiếu cơ thể báo động hoặc hành khách có biểu hiện nghi vấn thì nhân viên kiểm soát an ninh hàng không sử dụng kết hợp thiết bị phát hiện kim loại cầm tay và kiểm tra trực quan.",
+				"C- Hành khách đặt hành lý xách tay lên băng truyền đưa qua máy soi tia X; Khi hành lý có nghi vấn, nhân viên kiểm soát an ninh hàng không phải tiến hành kiểm tra trực quan hoặc lục soát an ninh hàng không theo qui định.",
+				"D- Đáp án B và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Tối thiểu mấy năm một lần Cục Hàng không Việt Nam chủ trì phối hợp với cơ quan, đơn vị liên quan trong và ngoài ngành hàng không tổ chức diễn tập đối phó với hành vi can thiệp bất hợp pháp cấp ngành tại 01 cảng hàng không hoặc 01 cơ sở cung cấp dịch vụ không lưu?",
+			"options": [
+				"A- 01 năm một lần.",
+				"B- 02 năm một lần.",
+				"C- 03 năm một lần.",
+				"D- 04 năm một lần."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Thời gian tối đa giám sát màn hình máy soi tia X và thời gian tối thiểu để quay trở lại thực hiện đối với nhân viên soi chiếu hành lý ký gửi, hàng hóa là bao lâu ?",
+			"options": [
+				"A- 30 phút - 20 phút.",
+				"B- 30 phút - 15 phút.",
+				"C- 30 phút - 30 phút.",
+				"D- 20 phút - 15 phút."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Thời gian tối đa giám sát màn hình máy soi tia X và thời gian tối thiểu để quay trở lại thực hiện đối với nhân viên soi chiếu hành lý xách tay là bao lâu?",
+			"options": [
+				"A- 30 phút - 15 phút.",
+				"B- 30 phút - 30 phút.",
+				"C- 20 phút - 20 phút.",
+				"D- 20 phút - 15 phút."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Khi phát hiện hành lý, đồ vật không xác định được chủ sở hữu hoặc người quản lý, sử dụng tại cảng hàng không, sân bay và các khu vực hạn chế khác thì lực lượng kiểm soát an ninh hàng không phải thực hiện biện pháp gì?",
+			"options": [
+				"A- Thực hiện ngay việc lục soát an ninh hàng không đối với hành lý, đồ vật đó.",
+				"B- Thông báo cho Hãng hàng không và lục soát hành lý, đồ vật đó.",
+				"C- Thông báo cho Cảng vụ hàng không và lục soát hành lý, đồ vật đó.",
+				"D- Thông báo cho Công an địa phương."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Cán bộ áp giải bị can, bị cáo, phạm nhân, người bị trục xuất, dẫn độ, người bị bắt theo quyết định truy nã, người bị từ chối nhập cảnh được phép mang theo người lên tàu bay loại công cụ hỗ trợ nào?",
+			"options": [
+				"A- Vũ khí thô sơ.",
+				"B- Công cụ hỗ trợ thích hợp.",
+				"C- Vũ khí quân dụng.",
+				"D- Súng cầm tay hạng nhỏ."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Người sử dụng thẻ, người sử dụng phương tiện được cấp giấy phép sẽ bị thu hồi thẻ, giấy phép trong trường hợp nào sau đây?",
+			"options": [
+				"A- Vi phạm quy định về an ninh, an toàn hàng không; Vi phạm qui định về sử dụng thẻ, giấy phép.",
+				"B- Gây rối trật tự tại cảng hàng không, sân bay.",
+				"C- Không còn đáp ứng điều kiện cấp thẻ, giấy phép.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Cơ quan nào chịu trách nhiệm kiểm tra để bảo đảm đồ vật cá nhân, hành lý xách tay của hành khách nối chuyến, quá cảnh, tạm dừng nội địa xuống khỏi tàu bay, không để lại trên tàu bay?",
+			"options": [
+				"A- Người khai thác cảng hàng không.",
+				"B- Người khai thác tàu bay.",
+				"C- Doanh nghiệp cung cấp dịch vụ hàng không.",
+				"D- Cảng vụ hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Thẻ nhận dạng tổ bay có các thông tin cơ bản nào sau đây?",
+			"options": [
+				"A- Số thẻ; thời hạn hiệu lực của thẻ.",
+				"B- Họ và tên; chức danh; ảnh của người được cấp thẻ.",
+				"C- Tên, biểu tượng hãng hàng không.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Giấy phép nhân viên kiểm soát an ninh hàng không sẽ bị thu hồi trong trường hợp nào sau đây?",
+			"options": [
+				"A- Khi người được cấp giấy phép không còn đủ điều kiện để được cấp giấy phép theo quy định.",
+				"B- Có sai phạm về chuyên môn nghiệp vụ gây ra hậu quả mất an toàn, an ninh hàng không tại cảng hàng không, sân bay.",
+				"C- Có hành vi che dấu lỗi vi phạm quy định về an toàn, an ninh hàng không.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Thẻ, giấy phép kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn có thời hạn hiệu lực tối đa là bao lâu kể từ thời điểm thẻ, giấy phép được cấp có hiệu lực?",
+			"options": [
+				"A- Không quá 2 năm.",
+				"B- Không quá 3 năm.",
+				"C- Không quá 4 năm.",
+				"D- Không quá 5 năm."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Vũ khí thô sơ là gì?",
+			"options": [
+				"A- Đạn, vỏ đạn, thuốc đạn, súng bắn đạn cao su, giáo, mác, lưỡi lê, đinh ba, đao, mã tấu.",
+				"B- Súng săn, súng trường, súng liên thanh, bom, mìn, lựu đạn, đạn, ngư lôi, thuỷ lôi và hoả cụ.",
+				"C- Vũ khí có cấu tạo, nguyên lý hoạt động đơn giản và được chế tạo, sản xuất thủ công hoặc công nghiệp, bao gồm: dao găm, kiếm, giáo, mác, thương, lưỡi lê, đao, mã tấu, côn, quả đấm, quả chùy, cung, nỏ, phi tiêu.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Hàng hóa, bưu gửi trung chuyển được quy định như thế nào?",
+			"options": [
+				"A- Hàng hóa, bưu gửi được vận chuyển tiếp nối trên 02 chuyến bay khác nhau trở lên hoặc bằng 02 loại hình vận chuyển khác nhau trở lên, trong đó có loại hình vận chuyển bằng đường hàng không.",
+				"B- Hàng hóa, bưu gửi được vận chuyển tiếp nối trên 02 chuyến bay khác nhau trở lên hoặc bằng 01 loại hình vận chuyển khác nhau trở lên.",
+				"C- Hàng hóa, bưu gửi lên lại cùng một chuyến bay tại một cảng hàng không mà hàng hóa, bưu gửi đã đến trước đó.",
+				"D- Đáp án B và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Việc đánh giá chất lượng nhân viên kiểm soát an ninh hàng không hàng năm dựa trên các nội dung nào sau đây?",
+			"options": [
+				"A- Năng lực chuyên môn nghiệp vụ.",
+				"B- Chấp hành nội quy, quy định của cơ quan, đơn vị.",
+				"C- Trách nhiệm, thái độ phục vụ trong công việc.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Cơ quan, đơn vị nào có thẩm quyền chấp thuận vận chuyển đối với vật phẩm nguy hiểm là hàng nguy hiểm theo đúng quy định của pháp luật về vận chuyển hàng nguy hiểm?",
+			"options": [
+				"A- Cục hàng không Việt Nam.",
+				"B- Cảng vụ hàng không.",
+				"C- Đại diện hãng hàng không",
+				"D- Lực lượng kiểm soát an ninh hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Hàng hóa, bưu gửi quá cảnh, trung chuyển không phải kiểm tra an ninh hàng không trong các trường hợp nào sau đây?",
+			"options": [
+				"A- Hàng hóa, bưu gửi quá cảnh, trung chuyển không rời khỏi tàu bay, sân đỗ tàu bay hoặc không rời khỏi khu vực hạn chế và có sự giám sát an ninh hàng không thích hợp liên tục.",
+				"B- Hàng hóa, bưu gửi quá cảnh, trung chuyển được vận chuyển từ sân đỗ tàu bay vào khu vực lưu giữ hàng hóa qua khu vực không phải khu vực hạn chế và ngược lại được niêm phong an ninh và có biện pháp giám sát an ninh thích hợp liên tục trong quá trình vận chuyển để ngăn ngừa việc đưa trái phép vật phẩm nguy hiểm vào hàng hóa, bưu gửi.",
+				"C- Có tờ khai an ninh chứng minh việc kiểm tra an ninh hàng không đã được thực hiện 100% đối với hàng hóa, bưu gửi tại điểm xuất phát.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Hành khách, hành lý, hàng hóa, bưu gửi quá cảnh, tạm dừng nội địa được quy định như thế nào?",
+			"options": [
+				"A- Hành khách, hành lý, hàng hóa, bưu gửi lên lại cùng một chuyến bay tại một cảng hàng không mà hành khách, hành lý, hàng hóa, bưu gửi đã đến trước đó.",
+				"B- Hành khách, hành lý tham gia trực tiếp vào hai chuyến bay khác nhau trở lên trong một hành trình.",
+				"C- Hành khách, hành lý, hàng hóa, bưu gửi lên lại cùng một chuyến bay tại một cảng hàng không sân bay.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Trường hợp nào sau đây phải tiến hành tái kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Hành khách, hành lý xách tay đã kiểm tra an ninh hàng không nhưng ra khỏi khu vực hạn chế khi trở lại phải tái kiểm tra an ninh hàng không.",
+				"B- Khu vực, người, phương tiện, đồ vật trong khu vực hạn chế có sự tiếp xúc, trộn lẫn với người, đồ vật chưa qua kiểm tra an ninh hàng không.",
+				"C- Khu vực, người, phương tiện, đồ vật trong khu vực hạn chế có sự tiếp xúc, trộn lẫn với người nghi ngờ mang theo vật phẩm nguy hiểm hoặc phương tiện, đồ vật nghi ngờ chứa vật phẩm nguy hiểm.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Việc chấp nhận chuyên chở hành khách bị bệnh tâm thần và hành khách đã sử dụng rượu, bia hoặc chất kích thích nhưng chưa đến mức không làm chủ được hành vi do ai đánh giá và quyết định?",
+			"options": [
+				"A- Cục trưởng Cục hàng không.",
+				"B- Đại diện hãng hàng không.",
+				"C- Người đứng đầu lực lượng kiểm soát an ninh hàng không.",
+				"D- Không chấp nhận vận chuyển."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Tổ chức, cá nhân nào có trách nhiệm phối hợp với người áp giải quản lý, giám sát chặt chẽ quá trình đưa người bị áp giải lên, xuống tàu bay?",
+			"options": [
+				"A- Nhân viên kiểm soát an ninh hàng không.",
+				"B- Đại diện hãng hàng không.",
+				"C- Cảng vụ hàng không.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Trường hợp nào sau đây phải tiến hành kiểm tra an ninh hàng không bằng soi chiếu tia X hoặc trực quan trước khi đưa vào khu vực hạn chế tại cảng hàng không và phải được giám sát an ninh hàng không liên tục?",
+			"options": [
+				"A- Tủ, túi đựng suất ăn không có niêm phong an ninh.",
+				"B- Niêm phong an ninh của tủ, túi đựng suất ăn không còn nguyên vẹn.",
+				"C- Tủ, túi đựng suất ăn không còn nguyên vẹn",
+				"D- Đáp án A và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Việc kiểm tra an ninh hàng không đối với hài cốt, tro cốt được thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra an ninh như đối với hàng hóa, hành lý thông thường, trừ trường hợp có đề nghị miễn soi chiếu tia X của cơ quan nhà nước có liên quan, cơ quan đại diện ngoại giao của nước ngoài và phải được người đứng đầu bộ phận kiểm soát an ninh hàng không tại cảng hàng không, sân bay chấp nhận.",
+				"B- Kiểm tra soi chiếu tia X, không kiểm tra trực quan",
+				"C- Kiểm tra trực quan kết hợp thiết bị phát hiện chất nổ",
+				"D- Kiểm tra niêm phong hòm kẽm phải được cơ quan y tế có thẩm quyền giám sát và thể hiện bằng văn bản."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Khi kiểm tra an ninh hàng không phát hiện hàng nguy hiểm, lực lượng kiểm soát an ninh hàng không xử lý như thế nào?",
+			"options": [
+				"A- Tiến hành kiểm tra trực quan, xác định loại hàng hóa nguy hiểm.",
+				"B- Từ chối kiểm tra an ninh vì khách hàng không khai báo.",
+				"C- Yêu cầu khách khai báo lại và giải quyết cho đi.",
+				"D- Thông báo cho hãng vận chuyển xem xét quyết định."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Việc bố trí người áp giải, người bị áp giải lên và rời khỏi tàu bay được quy định như thế nào?",
+			"options": [
+				"A- Hãng hàng không phải bố trí cho người áp giải và người bị áp giải lên trước và rời khỏi tàu bay sau cùng so với các hành khách khác.",
+				"B- Hãng hàng không phải bố trí cho người áp giải và người bị áp giải lên sau cùng và rời khỏi tàu bay trước so với các hành khách khác.",
+				"C- Hãng hàng không phải bố trí cho người áp giải và người bị áp giải lên và rời khỏi tàu bay cùng lúc với các hành khách khác.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Tổ chức, cá nhân nào có trách nhiệm phối hợp với người áp giải đánh giá nguy cơ trong việc vận chuyển hành khách bị áp giải và quyết định các biện pháp bảo đảm an ninh, an toàn phù hợp?",
+			"options": [
+				"A- Cục hàng không Việt Nam.",
+				"B- Đại diện hãng hàng không.",
+				"C- Cảng vụ hàng không.",
+				"D- Lực lượng kiểm soát an ninh hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Hành lý ký gửi quá cảnh, nối chuyến, đi chuyến bay tạm dừng nội địa đã đưa xuống khỏi tàu bay, không phải kiểm tra an ninh khi đáp ứng các yêu cầu nào sau đây?",
+			"options": [
+				"A- Hành lý không dán thẻ quá cảnh, nối chuyến, tạm dừng nội địa.",
+				"B- Hành lý không rời khỏi sân đỗ tàu bay hoặc có sự giám sát an ninh hàng không liên tục từ khi đưa xuống khỏi tàu bay cho đến khi được đưa lại lên tàu bay. Hành lý có dán thẻ quá cảnh, nối chuyến, tạm dừng nội địa.",
+				"C- Hành lý không có sự giám sát an ninh hàng không liên tục.",
+				"D- Hành lý đã rời khỏi sân đỗ tàu bay."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Giấy tờ tùy thân của hành khách sử dụng khi đi tàu bay phải đảm bảo những yêu cầu nào sau đây?",
+			"options": [
+				"A- Là bản chính và còn giá trị sử dụng.",
+				"B- Đối với giấy khai sinh, giấy chứng sinh phải là bản chính hoặc bản sao có chứng thực theo quy định của pháp luật.",
+				"C- Không chấp nhận giấy tờ nếu giấy tờ không có ảnh hoặc ảnh không theo quy định của pháp luật, trừ giấy khai sinh, giấy chứng sinh, giấy tờ của cơ quan có thẩm quyền chứng minh việc áp giải.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: Thời gian lưu giữ sổ theo dõi và bảng kiểm tra của máy soi tia X kể từ ngày nộp lưu là bao lâu ?",
+			"options": ["A- 1 năm.", "B- 2 năm.", "C- 3 năm.", "D- 4 năm."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: Quy trình kiểm tra người vào khu vực hạn chế mà không phải hành khách được thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra thẻ kiểm soát an ninh hàng không, quan sát đối chiếu thực tế.",
+				"B- Kiểm tra người bằng cổng từ, thiết bị phát hiện kim loại cầm tay. Khi cổng từ, thiết bị phát hiện kim loại cầm tay báo động thì phải tiếp tục kiểm tra trực quan. Kiểm tra trực quan ngẫu nhiên tối thiểu 5% trong trường hợp cổng từ, thiết bị phát hiện kim loại cầm tay không có báo động. Việc kiểm tra trực quan bảo đảm tỷ lệ kiểm tra được phân đều, liên tục trong thời gian hoạt động của điểm kiểm tra an ninh trong ngày",
+				"C- Kiểm tra trực quan tại những điểm không có cổng từ, thiết bị phát hiện kim loại cầm tay.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 49: Những khu vực nào sau đây là khu vực hạn chế?",
+			"options": [
+				"A- Khu vực hành khách sau khi đã kiểm tra soi chiếu người và hành lý chờ để đi tàu bay (khu vực cách ly), khu vực từ điểm kiểm tra an ninh đối với nhân viên nội bộ trước khi vào khu vực hạn chế vào bên trong nhà ga.",
+				"B- Khu vực phục vụ hành lý ký gửi sau khi đã được kiểm tra an ninh hàng không để đưa lên tàu bay (khu vực phân loại hành lý); Khu vực phục vụ hàng hóa, bưu gửi sau khi đã kiểm tra soi chiếu để đưa lên tàu bay (khu vực phân loại, lưu giữ, chất xếp hàng hóa, bưu gửi).",
+				"C- Nhà khách phục vụ chuyến bay chuyên cơ, chuyến bay ưu tiên.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 50: Quy trình kiểm tra đồ vật mang vào khu vực hạn chế được thực hiện như thế nào?",
+			"options": [
+				"A- Đưa đồ vật qua máy soi tia X ở những nơi có máy soi tia X.",
+				"B- Khi qua máy soi tia X có nghi ngờ thì tiếp tục tiến hành kiểm tra trực quan.",
+				"C- Kiểm tra trực quan đồ vật tại những điểm không có máy soi tia X;",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 51: Theo quy định thì mỗi ngày 01 lần và khi bị mất điện phải sử dụng bộ mẫu thử để kiểm tra tính năng nào của máy soi trước khi sử dụng?",
+			"options": [
+				"A- Tính năng cảnh báo.",
+				"B- Độ phân giải.",
+				"C- Độ xuyên thấu hữu ích.",
+				"D- Phân biệt chất liệu."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 52: Quy trình kiểm tra đối với thiết bị phát hiện kim loại cầm tay được thực hiện như thế nào?",
+			"options": [
+				"A- Bật công tắc kiểm tra nguồn điện, đảm bảo nguồn điện của thiết bị phát hiện kim loại cầm tay đủ và ổn định.",
+				"B- Đưa thiết bị phát hiện kim loại cầm tay lên nắp hộp nhựa đựng mẫu thử: nếu máy phát tín hiệu báo động, điều chỉnh độ nhạy, tín hiệu báo động cho phù hợp và sử dụng kiểm tra hành khách; nếu máy không phát tín hiệu báo động dừng sử dụng.",
+				"C- Ghi chép kết quả vào sổ kiểm tra thiết bị phát hiện kim loại cầm tay.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 53: Khi qua điểm kiểm tra an ninh hàng không vào khu vực cách ly quốc tế, mỗi hành khách, thành viên tổ bay chỉ được phép mang tối đa bao nhiêu dung tích chất lỏng (bao gồm chất lỏng, chất đặc sánh, dung dịch xịt) theo người và hành lý xách tay?",
+			"options": [
+				"A- Không quá 01 lít chất lỏng. Dung tích mỗi chai, lọ, bình chứa không được quá 100ml và phải được đóng kín hoàn toàn.",
+				"B- Không quá 300ml chất lỏng. Dung tích mỗi chai, lọ, bình chứa không được quá 100ml và phải được đóng kín hoàn toàn.",
+				"C- Không quá 400ml chất lỏng. Dung tích mỗi chai, lọ, bình chứa không được quá 100ml và phải được đóng kín hoàn toàn.",
+				"D- Không quá 500ml chất lỏng. Dung tích mỗi chai, lọ, bình chứa không được quá 100ml và phải được đóng kín hoàn toàn."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 54: Trường hợp nào sau đây được miễn kiểm tra soi chiếu tia X và kiểm tra trực quan?",
+			"options": [
+				"A- Thi thể người vận chuyển bằng tàu bay được đặt trong hòm kẽm gắn kín. Quá trình đóng gói và niêm phong hòm kẽm phải được cơ quan y tế có thẩm quyền giám sát. Hòm kẽm phải còn nguyên niêm phong và có văn bản xác nhận của cơ quan y tế giám sát kèm theo giấy chứng tử.",
+				"B- Các sản phẩm làm từ máu, bộ phận nội tạng dùng cho việc cấy ghép, vắc-xin, các loại dược phẩm phải duy trì đóng gói kín. Bao bì phải có niêm phong, kèm theo văn bản xác nhận của cơ quan y tế có thẩm quyền.",
+				"C- Những hàng hóa nguy hiểm mà việc soi chiếu hoặc kiểm tra trực quan sẽ gây nguy hiểm cho tính mạng, sức khỏe của nhân viên kiểm soát an ninh hàng không như các vật liệu cho nghiên cứu hạt nhân, vật liệu phóng xạ. Bao bì phải có niêm phong, kèm theo văn bản xác nhận tình trạng đóng gói an toàn, văn bản đề nghị của cơ quan nhà nước có thẩm quyền.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 55: Trừ trường hợp khẩn nguy, việc kiểm tra trực quan đối với hành lý ký gửi của hành khách chỉ được thực hiện khi có sự chứng kiến của ai?",
+			"options": [
+				"A- Chủ sở hữu hành lý đó hoặc người đại diện hợp pháp của họ hoặc đại diện hãng hàng không vận chuyển.",
+				"B- Đại diện Cảng vụ hàng không khu vực.",
+				"C- Nhân viên thủ tục.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},{
+			"question": "Câu 56: Hành khách, hành lý xách tay đã hoàn tất thủ tục kiểm tra an ninh hàng không phải được giám sát liên tục bằng biện pháp nào sau đây?",
+			"options": [
+				"A- Sử dụng biệp pháp kiểm tra an ninh thích hợp.",
+				"B- Sử dụng ca-me-ra giám sát an ninh hoặc do nhân viên kiểm soát an ninh hàng không trực tiếp giám sát hoặc kết hợp cả hai biện pháp.",
+				"C- Không cần giám sát vì đã được kiểm tra an ninh.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 57: Hành khách đi qua cổng từ hoặc thiết bị soi chiếu cơ thể, nếu cổng từ hoặc thiết bị soi chiếu cơ thể báo động hoặc hành khách có biểu hiện nghi vấn thì nhân viên kiểm soát an ninh hàng không phải thực hiện kiểm tra bằng biện pháp nào sau đây?",
+			"options": [
+				"A- Sử dụng thiết bị phát hiện kim loại cầm tay để kiểm tra.",
+				"B- Kiểm tra trực quan hành khách.",
+				"C- Sử dụng kết hợp thiết bị phát hiện kim loại cầm tay và kiểm tra trực quan.",
+				"D- Thực hiện ngay biện pháp lục soát an ninh hàng không."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 58: Quy định việc kiểm tra, giám sát an ninh hàng không khu vực cách ly phải được thực hiện như thế nào?",
+			"options": [
+				"A- Phải được kiểm tra an ninh hàng không trước khi đưa vào khai thác hàng ngày và giám sát an ninh chặt chẽ, liên tục trong suốt thời gian khai thác.",
+				"B- Khi không hoạt động, tất cả các cửa vào, cửa ra của khu vực cách ly phải được khóa hoặc có nhân viên kiểm soát an ninh hàng không canh gác, bảo vệ.",
+				"C- Phải được kiểm tra an ninh hàng không trước khi đưa vào khai thác. Khi không hoạt động, tất cả các cửa vào, cửa ra của khu vực cách ly phải được khóa.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 59: Giới hạn dung tích chất lỏng mua tại cửa hàng trong khu cách ly quốc tế, trên chuyến bay quốc tế với điều kiện phải đựng trong túi nhựa an ninh được dán kín quy định như thế nào?",
+			"options": [
+				"A- Không giới hạn dung tích.",
+				"B- Không quá 01 lít chất lỏng.",
+				"C- Không quá 03 lít chất lỏng.",
+				"D- Không quá 05 lít chất lỏng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 60: Cơ quan nào được phép quyết định đình chỉ chuyến bay, yêu cầu tàu bay hạ cánh trong trường hợp chuyến bay vi phạm các quy định về an ninh hàng không?",
+			"options": [
+				"A- Cục hàng không.",
+				"B- Cảng vụ hàng không.",
+				"C- Hãng hàng không.",
+				"D- Người khai thác Cảng hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 61: Giấy phép nhân viên kiểm soát an ninh hàng không bị Cục Hàng không Việt Nam đình chỉ hiệu lực trong thời gian tối đa 06 tháng đối với trường hợp nào sau đây?",
+			"options": [
+				"A- Bị kỷ luật khiển trách; có sai phạm về chuyên môn nghiệp vụ nhưng chưa gây ra hậu quả mất an ninh, an toàn;",
+				"B- Thực hiện nhiệm vụ không đúng với nghiệp vụ chuyên môn được cấp phép, năng định.",
+				"C- Bị kỷ luật khiển trách lần thứ 02 hoặc cảnh cáo.",
+				"D- Sai phạm về chuyên môn nghiệp vụ gây ra hậu quả mất an toàn, an ninh hàng không tại cảng hàng không, sân bay."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 62: Những đối tượng nào dưới đây được trang bị, sử dụng vũ khí quân dụng khi làm nhiệm vụ?",
+			"options": [
+				"A- Nhân viên kiểm soát an ninh hàng không khi đối phó với hành vi can thiệp bất hợp pháp xảy ra tại cảng hàng không, sân bay, trên tàu bay.",
+				"B- Cán bộ cấp tổ, đội của lực lượng kiểm soát an ninh hàng không.",
+				"C- Nhân viên an ninh cơ động, nhân viên kiểm soát an ninh làm nhiệm vụ tuần tra, canh gác ban đêm.",
+				"D- Nhân viên kiểm soát an ninh hàng không khi làm nhiệm vụ trong thời gian thực hiện các biện pháp bảo đảm an ninh hàng không tăng cường cấp độ 1, cấp độ 2 và cấp độ 3.",
+				"E- Đáp án A, B, C và D đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 63: Cơ quan, đơn vị nào có thẩm quyền xử phạt hành vi vi phạm hành chính trong lĩnh vực an ninh hàng không xảy ra tại cảng hàng không, sân bay?",
+			"options": [
+				"A- Cảng vụ hàng không.",
+				"B- Cục Hàng không Việt Nam.",
+				"C- Công an cửa khẩu.",
+				"D- Công an địa phương."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 64: Tài liệu nào dưới đây thuộc danh mục tài liệu hạn chế trong lĩnh vực An ninh hàng không?",
+			"options": [
+				"A- Các chương trình an ninh, quy chế an ninh hàng không được Cục Hàng không Việt Nam phê duyệt, chấp thuận. Khuyến cáo, thông báo, kiểm tra, thử nghiệm, điều tra, khảo sát, các đánh giá nguy cơ về an ninh hàng không và hồ sơ các vụ việc vi phạm về an ninh hàng không chưa được công bố công khai.",
+				"B- Các quy chế phối hợp, văn bản hiệp đồng về an ninh hàng không giữa các cơ quan, đơn vị ngành hàng không với các cơ quan đơn vị liên quan; Tài liệu về an ninh hàng không của ICAO hoặc do nước ngoài cung cấp được ICAO và phía nước ngoài xác định là tài liệu hạn chế.",
+				"C- Các văn bản, tài liệu về an ninh hàng không khác mà Cục trưởng Cục Hàng không Việt Nam xác định là tài liệu hạn chế.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 65: Việc tái kiểm tra an ninh hàng không đối với hành khách, hành lý xách tay đã kiểm tra an ninh hàng không nhưng ra khỏi khu vực hạn chế khi trở lại được thực hiện như thế nào?",
+			"options": [
+				"A- Tất cả hành khách, hành lý xách tay phải được chuyển sang một khu vực khác, kiểm tra lại toàn bộ khu vực hạn chế liên quan.",
+				"B- Tái kiểm tra an ninh hàng không toàn bộ hành khách, hành lý xách tay trước khi cho lên tàu bay.",
+				"C- Trường hợp hành khách đã lên tàu bay, toàn bộ hành khách, hành lý xách tay và khoang hành khách của tàu bay phải được tái kiểm tra an ninh hàng không.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 66: Khi hành khách lên tàu bay, cơ quan, đơn vị nào chịu trách nhiệm tổ chức kiểm tra, đối chiếu giấy tờ về nhân thân, thẻ lên tàu bay của hành khách để đảm bảo đúng người, đúng chuyến bay?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không tại cảng hàng không.",
+				"B- Hãng hàng không.",
+				"C- Lực lượng kiểm soát an ninh hàng không của doanh nghiệp cung cấp dịch vụ không lưu.",
+				"D- Cảng vụ hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 67: Trước khi cho tàu bay khởi hành, việc tổ chức đối chiếu tổng số hành khách đã được cấp thẻ lên tàu bay với tổng số hành khách thực có trên tàu bay là trách nhiệm của tổ chức, cá nhân nào?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không tại cảng hàng không.",
+				"B- Lực lượng kiểm soát an ninh hàng không của doanh nghiệp cung cấp dịch vụ không lưu.",
+				"C- Người chỉ huy tàu bay.",
+				"D- Cảng vụ hàng không."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 68: Khi phát hiện vũ khí, vật liệu nổ trong người hành khách, lực lượng kiểm soát an ninh hàng không phải xử lý như thế nào?",
+			"options": [
+				"A- Nhanh chóng bằng biện pháp thích hợp khống chế, ngăn chặn để xử lý.",
+				"B- Yêu cầu hành khách tự giao nộp vũ khí, vật liệu nổ.",
+				"C- Yêu cầu hành khách mang vũ khí, vật liệu nổ ra khỏi khu vực hạn chế của cảng hàng không.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 69: Phải tái kiểm tra an ninh hàng không khu vực hạn chế, người, phương tiện, đồ vật trong các trường hợp nào sau đây?",
+			"options": [
+				"A- Hành khách, hành lý xách tay đã kiểm tra an ninh hàng không nhưng ra khỏi khu vực hạn chế khi trở lại phải tái kiểm tra an ninh hàng không.",
+				"B- Khu vực, người, phương tiện, đồ vật trong khu vực hạn chế có sự tiếp xúc, trộn lẫn với người, đồ vật chưa qua kiểm tra an ninh hàng không.",
+				"C- Khu vực, người, phương tiện, đồ vật trong khu vực hạn chế có sự tiếp xúc, trộn lẫn với người nghi ngờ mang theo vật phẩm nguy hiểm hoặc phương tiện, đồ vật nghi ngờ chứa vật phẩm nguy hiểm.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 70: Người bị áp giải và hành lý, vật dụng của họ phải được kiểm tra an ninh hàng không bằng biện pháp nào?",
+			"options": [
+				"A- Miễn kiểm tra.",
+				"B- Kiểm tra trực quan.",
+				"C- Kiểm tra như khách bình thường.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 71: Trách nhiệm thông báo cho người chỉ huy tàu bay vị trí ngồi của hành khách là bị can, phạm nhân, người bị trục xuất, dẫn độ thuộc về tổ chức, cá nhân nào?",
+			"options": [
+				"A- An ninh hàng không.",
+				"B- Công an cửa khẩu.",
+				"C- Cảng vụ hàng không.",
+				"D- Đại diện hãng hàng không."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 72: Điểm kiểm tra an ninh hàng không là gì?",
+			"options": [
+				"A- Điểm kiểm tra an ninh hàng không là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các cổng, cửa, lối đi giữa các khu vực hạn chế hoặc giữa khu vực hạn chế với khu vực khác nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật, duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng không.",
+				"B- Điểm kiểm tra an ninh hàng không là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các khu vực công cộng nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật khu vực điểm kiểm tra an ninh hàng không.",
+				"C- Điểm kiểm tra an ninh hàng không là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các khu vực hạn chế nhằm duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng không.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 73: Khu vực cách ly được quy định như thế nào?",
+			"options": [
+				"A- Một phần của khu vực hạn chế, được xác định từ sau điểm kiểm tra an ninh hàng không đối với hành khách, hành lý xách tay của nhà ga đến cửa khởi hành.",
+				"B- Khu vực được xác định từ điểm kiểm tra an ninh hàng không đối với hành khách đến cửa tàu bay.",
+				"C- Các khu vực hạn chế của cảng hàng không, sân bay.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 74: Tỷ lệ kiểm tra bổ sung ngẫu nhiên tối thiểu sau kiểm tra an ninh lần đầu đối với hành khách, hành lý xách tay là bao nhêu?",
+			"options": ["A- 5%.", "B- 10%.", "C- 15%.", "D- 20%."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 75: Các trường hợp nào sau đây phải được niêm phong an ninh hàng không sau khi kiểm tra?",
+			"options": [
+				"A- Thùng đựng hàng hóa, bưu gửi, thùng hoặc mâm đựng hàng hóa rời, hành lý thất lạc, hành lý không có người nhận, tủ, túi đựng suất ăn.",
+				"B- Thùng, túi đựng đồ vật phục vụ trên tàu bay, trừ đồ vật phục vụ cho việc bảo dưỡng, sửa chữa tàu bay.",
+				"C- Phương tiện tra nạp nhiên liệu cho tàu bay sau khi tiếp nhận nhiên liệu để nạp cho tàu bay phải niêm phong an ninh các cửa nạp, cửa xả; tàu bay không khai thác phải niêm phong an ninh các cửa của tàu bay.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 76: Việc mang theo trang thiết bị y tế là vật phẩm nguy hiểm theo người lên tàu bay để chăm sóc bệnh nhân và đối tượng cảnh vệ được quy định như thế nào?",
+			"options": [
+				"A- Có đề nghị bằng văn bản, được sự đồng ý của đại diện hãng hàng không và người đứng đầu bộ phận kiểm soát ANHK Cảng hàng không, sân bay.",
+				"B- Có đề nghị bằng văn bản, được sự đồng ý của đại diện hãng hàng không và Bộ tư lệnh cảnh vệ.",
+				"C- Có đề nghị bằng văn bản, được sự đồng ý của đại diện hãng hàng không và bộ phận y tế tại Cảng hàng không, sân bay.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 77: Cơ quan nào chịu trách nhiệm tổ chức thực hiện, giám sát công tác cấp thẻ, giấy phép kiểm soát an ninh hàng không, thẻ giám sát viên an ninh hàng không?",
+			"options": [
+				"A- Cảng vụ hàng không khu vực.",
+				"B- Cục hàng không Việt Nam.",
+				"C- Người khai thác cảng hàng không, sân bay.",
+				"D- Hãng hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 78: Cơ quan nào chịu trách nhiệm tổ chức giám sát trực tiếp việc thực hiện nhiệm vụ chuyên cơ, việc tuân thủ các tiêu chuẩn kỹ thuật, bảo đảm an ninh an toàn đối với chuyến bay chuyên cơ của các tổ chức, cá nhân tại cảng hàng không thuộc trách nhiệm quản lý?",
+			"options": [
+				"A- Cảng vụ hàng không khu vực.",
+				"B- Hãng hàng không.",
+				"C- Người khai thác cảng hàng không, sân bay.",
+				"D- Cục hàng không Việt Nam."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 79: Việc kiểm tra an ninh hàng không đối với hành khách tàn tật, thương binh, bệnh nhân sử dụng xe đẩy, cáng cứu thương, có gắn các thiết bị phụ trợ y tế trên người được thực hiện bằng các biện pháp nào?",
+			"options": [
+				"A- Bằng trực quan hoặc các biện pháp thích hợp khác tại nơi phù hợp.",
+				"B- Chỉ được kiểm tra bằng trực quan",
+				"C- Bằng các biện pháp thích hợp tại nơi phù hợp",
+				"D- Cần kiểm tra như đối với hành khách thông thường khác"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 80: Trách nhiệm, quy trình xử lý đối với vụ việc vi phạm an ninh hàng không của lực lượng kiểm soát an ninh hàng không được quy định như thế nào?",
+			"options": [
+				"A- Ngăn chặn hành vi vi phạm; tạm giữ đối tượng vi phạm; kiểm tra, lục soát, thu giữ tang vật, chứng cứ; đưa người, tang vật vi phạm về nơi quy định để giải quyết, xử lý vi phạm.",
+				"B- Thông báo ngay vụ việc cho Cảng vụ hàng không, cơ quan công an (nếu vụ việc có dấu hiệu hình sự) và các cơ quan, đơn vị liên quan tại cảng hàng không, sân bay; bảo vệ hiện trường nếu xét thấy cần thiết.",
+				"C- Lập hồ sơ ban đầu và bàn giao hồ sơ, bằng chứng, tang vật, người vi phạm cho cơ quan nhà nước có thẩm quyền theo yêu cầu của Cảng vụ hàng không.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 81: Khi thực hiện nhiệm vụ, trong phạm vi thẩm quyền cho phép, lực lượng kiểm soát an ninh hàng không có quyền hạn gì?",
+			"options": [
+				"A- Tạm giữ người, kiểm tra, tạm giữ giấy tờ tùy thân đối với người có hành vi uy hiếp an ninh, an toàn hàng không.",
+				"B- Thu giữ vũ khí, chất nổ, chất cháy và những vật phẩm nguy hiểm khác đưa trái phép vào khu vực hạn chế.",
+				"C- Cưỡng chế đối với người cản trở hoặc cố tình chống đối.",
+				"D- Đáp án B và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 82: Hành lý ký gửi của hành khách xuất phát, nối chuyến phải được kiểm tra an ninh hàng không bằng máy soi tia X, nếu có nghi vấn phải được tiếp tục kiểm tra bằng biện pháp nào?",
+			"options": [
+				"A- Kiểm tra bằng thiết bị phát hiện kim loại cầm tay.",
+				"B- Kiểm tra trực quan bằng tay.",
+				"C- Kiểm tra trực quan hoặc kiểm tra bằng dụng cụ, thiết bị phát hiện chất nổ hoặc các biện pháp thích hợp khác.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 83: Trường hợp hành khách đã được cấp thẻ lên tàu bay nhưng không có mặt để thực hiện chuyến bay, đơn vị nào có trách nhiệm đảm bảo tất cả hành lý của hành khách đó phải được đưa xuống tàu bay trước khi cho tàu bay khởi hành?",
+			"options": [
+				"A- Hãng hàng không.",
+				"B- An ninh hàng không.",
+				"C- Cảng vụ hàng không.",
+				"D- Trung tâm Khai thác ga."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 84: Suất ăn, đồ vật dự phòng, đồ vật phục vụ trên chuyến bay, nhiên liệu cho tàu bay và các đồ vật khác khi vào khu vực hạn chế, đưa lên tàu bay phải chịu sự kiểm tra, giám sát an ninh hàng không như thế nào?",
+			"options": [
+				"A- Chịu sự kiểm tra an ninh hàng không thích hợp khi vào khu vực hạn chế, đưa lên tàu bay; chịu sự giám sát an ninh hàng không liên tục của lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay.",
+				"B- Chịu sự kiểm tra an ninh hàng không thích hợp khi vào khu vực hạn chế, đưa lên tàu bay",
+				"C- Chịu sự giám sát an ninh hàng không liên tục của lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay",
+				"D- Chịu sự kiểm tra an ninh hàng không thích hợp khi vào khu vực hạn chế, đưa lên tàu bay; chịu sự giám sát an ninh hàng không liên tục của người khai thác tàu bay."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 85: Dữ liệu hình ảnh từ máy soi tia X, camera giám sát an ninh phải được lưu giữ tối thiểu bao nhiêu ngày?",
+			"options": [
+				"A- 15 ngày.",
+				"B- 30 ngày.",
+				"C- 45 ngày.",
+				"D- 90 ngày."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 86: Lực lượng kiểm soát an ninh hàng không do cơ quan nào chỉ đạo tổ chức?",
+			"options": [
+				"A- Thủ tướng Chính phủ.",
+				"B- Bộ Giao thông vận tải.",
+				"C- Cục hàng không Việt Nam.",
+				"D- Tổng công ty Cảng hàng không Việt Nam."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 87: Lực lượng nào có trách nhiệm phối hợp với các đơn vị thuộc Bộ tư lệnh cảnh vệ - Bộ Công an trong việc kiểm tra, giám sát an ninh hàng không đối với chuyến bay chuyên cơ theo quy định về bảo đảm chuyến bay chuyên cơ?",
+			"options": [
+				"A- Lực lượng công an địa phương.",
+				"B- Lực lượng kiểm soát an ninh hàng không của người khai thác cảng hàng không, sân bay.",
+				"C- Lực lượng giám sát của Cảng vụ hàng không khu vực.",
+				"D- Lực lượng an ninh hàng không của hãng hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 88: Theo Nghị định số 92/2015/NĐ-CP, nhân viên kiểm soát an ninh hàng không khi thi hành nhiệm vụ, nếu bị thương, hy sinh được hưởng chế độ nào sau đây?",
+			"options": [
+				"A- Được xem xét hỗ trợ tiền điều trị theo quy định của pháp luật.",
+				"B- Được xem xét công nhận hưởng chế độ như thương binh, liệt sĩ và các hình thức khen thưởng khác theo quy định của pháp luật.",
+				"C- Được xem xét hỗ trợ tiền theo số năm đã công tác.",
+				"D- Không được hưởng chế độ."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 89: Việc miễn soi chiếu tia X và kiểm tra trực quan đối với thi thể người vận chuyển bằng tàu bay cần phải đáp ứng những điều kiện nào dưới đây?",
+			"options": [
+				"A- Phải được đặt trong hòm kẽm gắn kín.",
+				"B- Quá trình đóng gói và niêm phong hòm kẽm phải được cơ quan y tế có thẩm quyền giám sát.",
+				"C- Hòm kẽm phải còn nguyên niêm phong và có văn bản xác nhận của cơ quan y tế giám sát kèm theo giấy chứng tử.",
+				"D- Đáp án A và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 90: Việc tiếp nhận, vận chuyển vũ khí, công cụ hỗ trợ được quy định như thế nào?",
+			"options": [
+				"A- Người có súng phải tháo rời hộp tiếp đạn khỏi súng; tháo rời hoặc ngắt nguồn điện của công cụ hỗ trợ; bảo đảm chắc chắn vũ khí, công cụ hỗ trợ trong trạng thái an toàn.",
+				"B- Đạn phải được đóng gói và chất xếp theo đúng quy định về vận chuyển hàng nguy hiểm. Đại diện hãng hàng không ký xác nhận vào tờ khai theo mẫu quy định.",
+				"C- Nhân viên phục vụ mặt đất vận chuyển súng, đạn từ điểm làm thủ tục lên tàu bay phải có nhân viên an ninh hàng không giám sát, hộ tống.",
+				"D- Vũ khí, công cụ hỗ trợ phải để ở nơi hành khách không thể tiếp cận được trong suốt chuyến bay.",
+				"E- Đáp án A, B, C và D đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 91: Thế nào là hành khách không làm chủ được hành vi?",
+			"options": [
+				"A- Hành khách không làm chủ được hành vi là hành khách trong tình trạng mất khả năng nhận thức hoặc mất khả năng điều khiển hành vi của mình do bị bệnh tâm thần hoặc do sử dụng rượu bia hoặc chất kích thích.",
+				"B- Là hành khách mất khả năng làm chủ hành vi do bị bệnh tâm thần; hành khách sử dụng rượu bia hoặc các chất kích thích khác.",
+				"C- Hành khách là bị can, bị cáo.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 92: Theo quy định về kiểm tra, giám sát an ninh hàng không đối với hành khách bị bệnh tâm thần, nguyên tắc nào dưới dây cần phải được tuân thủ?",
+			"options": [
+				"A- Hành khách bị bệnh tâm thần phải có bác sĩ hoặc thân nhân đi kèm có khả năng kiềm chế được hành vi bất thường của hành khách. Trong trường hợp cần thiết, hành khách bị bệnh tâm thần cần phải được gây mê trước khi lên tàu bay, thời gian tác dụng của thuốc phải lâu hơn thời gian bay.",
+				"B- Hành khách bị bệnh tâm thần và hành lý, vật dụng của họ phải được kiểm tra trực quan; việc kiểm tra có thể được bố trí tại khu vực riêng.",
+				"C- Hành khách bị bệnh tâm thần không cần có thân nhân đi kèm, không cần kiểm tra trực quan.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 93: Thẩm quyền xem xét quyết định áp dụng các biện pháp kiểm tra trực quan bắt buộc đối với người có hành vi vi phạm về an ninh, trật tự, kỷ luật trên tàu bay tại các cảng hàng không, sân bay?",
+			"options": [
+				"A- Lực lượng an ninh hàng không.",
+				"B- Cục Hàng không Việt Nam.",
+				"C- Cảng vụ hàng không khu vực.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 94: Theo quy định giấy tờ nhân thân của hành khách đi tàu bay, cơ quan, đơn vị nào sau đây có thẩm quyền xác nhận về nhân thân của hành khách?",
+			"options": [
+				"A- Uỷ ban nhân dân phường, xã.",
+				"B- Công an phường, xã nơi thường trú hoặc tạm trú.",
+				"C- An ninh hàng không.",
+				"D- Cảng vụ hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 95: Giấy xác nhận nhân thân do công an phường, xã nơi thường trú hoặc tạm trú xác nhận có các thông tin nào sau đây?",
+			"options": [
+				"A- Cơ quan xác nhận, người xác nhận; ngày, tháng, năm xác nhận.",
+				"B- Họ và tên, ngày tháng năm sinh, giới tính, quê quán, nơi thường trú của người được xác nhận; Lý do xác nhận.",
+				"C- Có dán ảnh, đóng dấu giáp lai.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 96: Khi phát hiện vật phẩm nguy hiểm không có giấy phép theo quy định của pháp luật, lực lượng kiểm soát an ninh hàng không tại cảng hàng không, sân bay phải xử lý như thế nào?",
+			"options": [
+				"A- Lập biên bản theo mẫu quy định.",
+				"B- Chuyển giao người, hồ sơ, vật phẩm nguy hiểm cho cơ quan chức năng có thẩm quyền.",
+				"C- Thông báo cho hãng hàng không để có biện pháp giải quyết thích hợp",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 97: Kiểm tra trực quan là gì?",
+			"options": [
+				"A- Là việc sử dụng các trang bị, thiết bị hỗ trợ để kiểm tra người, phương tiện, đồ vật khi đi qua điểm kiểm tra an ninh.",
+				"B- Là việc nhân viên kiểm soát an ninh hàng không trực tiếp sử máy soi tia X để kiểm đồ vật nhằm nhận biết và phát hiện vật phẩm nguy hiểm.",
+				"C- Là việc nhân viên kiểm soát an ninh sử dụng gương soi gầm khi kiểm tra các phương tiện ra, vào khu vực hạn chế.",
+				"D- Là việc nhân viên kiểm soát an ninh hàng không trực tiếp sử dụng tay, mắt và các giác quan khác để kiểm tra người, phương tiện, đồ vật nhằm nhận biết và phát hiện vật đáng ngờ, vật phẩm nguy hiểm."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 98: Mục tiêu của chương trình đào tạo nghiệp vụ an ninh soi chiếu là gì?",
+			"options": [
+				"A- Trang bị cho học viên kiến thức nghiệp vụ, kỹ năng và thái độ ứng xử trong kiểm tra, giám sát an ninh tại nhà ga, khu vực công cộng, sân bay, canh gác tại các khu vực hạn chế.",
+				"B- Trang bị cho học viên kiến thức nghiệp vụ, kỹ năng và thái độ ứng xử trong kiểm tra, soi chiếu an ninh, kiểm tra trực quan đối với hành khách, hành lý, hàng hóa, bưu gửi và các đồ vật đưa lên tàu bay.",
+				"C- Trang bị cho học viên kiến thức nghiệp vụ, kỹ năng và thái độ ứng xử trong tuần tra, canh gác, hộ tống, kiểm soát đám đông, kiểm tra, lục soát tàu bay, phương tiện.",
+				"D- Trang bị cho học viên kiến thức nghiệp vụ, kỹ năng và thái độ ứng xử trong tuần tra, canh gác."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 99: Theo quy định, tại mỗi điểm kiểm tra an ninh hàng không phải được trang bị những loại thiết bị nào?",
+			"options": [
+				"A- Máy soi tia X, cổng từ, thiết bị phát hiện kim loại cầm tay.",
+				"B- Buồng để tiến hành lục soát an ninh hàng không, các thiết bị, dụng cụ cần thiết khác.",
+				"C- Thiết bị phát hiện kim loại cầm tay, dụng cụ, thiết bị phát hiện chất nổ, thiết bị thông tin liên lạc.",
+				"D- Thiết bị soi chiếu cơ thể, buồng để tiến hành lục soát an ninh hàng không; có máy soi tia X, cổng từ, thiết bị phát hiện kim loại cầm tay, dụng cụ, thiết bị phát hiện chất nổ, thiết bị thông tin liên lạc, các thiết bị, dụng cụ cần thiết khác."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 100: Tỷ lệ kiểm tra trực quan ngẫu nhiên đối với hành khách, hành lý xách tay phải đáp ứng yêu cầu gì?",
+			"options": [
+				"A- Phải được phân đều, liên tục trong thời gian hoạt động của điểm kiểm tra an ninh trong ngày.",
+				"B- Chỉ cần kiểm tra đủ số lượng quy định.",
+				"C- Chỉ kiểm tra trong thời gian thấp điểm.",
+				"D- Đáp án A và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 101: Trường hợp bị kỷ luật khiển trách, có sai phạm về chuyên môn nghiệp vụ nhưng chưa gây ra hậu quả mất an ninh, an toàn sẽ bị đình chỉ hiệu lực giấy phép trong thời gian tối đa là bao lâu?",
+			"options": [
+				"A- 01 tháng.",
+				"B- 03 tháng.",
+				"C- 06 tháng.",
+				"D- 09 tháng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 102: Người bị thu hồi giấy phép nhân viên kiểm soát an ninh hàng không, khi trở lại làm việc phải đáp ứng yêu cầu nào?",
+			"options": [
+				"A- Phải qua sát hạch cấp lại giấy phép, năng định nhân viên hàng không.",
+				"B- Phải đề nghị cấp lại giấy phép nhân viên kiểm soát an ninh hàng không.",
+				"C- Không được trở lại làm việc.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 103: Việc khai thác, quản lý, bảo trì thiết bị, phương tiện bảo đảm an ninh hàng không phải tuân thủ theo quy định nào sau đây?",
+			"options": [
+				"A- Tuân thủ theo quy định của nhà sản xuất và đơn vị khai thác, sử dụng thiết bị, phương tiện.",
+				"B- Phải có sổ sách theo dõi các hỏng hóc của trì thiết bị, phương tiện.",
+				"C- Phải có sổ sách theo dõi việc sửa chữa, bảo trì thiết bị, phương tiện.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 104: Người, phương tiện, đồ vật đưa ra ngoài khu vực hạn chế phải được lực lượng kiểm soát an ninh hàng không kiểm tra khi có biểu hiện nghi ngờ hoặc trong các trường hợp nào sau đây?",
+			"options": [
+				"A- Trộm cắp tài sản, buôn lậu và gian lận thương mại.",
+				"B- Các trường hợp tăng cường bảo đảm an ninh hàng không.",
+				"C- Theo chỉ đạo của cơ quan quản lý nhà nước có thẩm quyền.",
+				"D- Đáp án A và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 105: Việc ra, vào và hoạt động tại khu vực hạn chế đối với người, phương tiện mà không cần thẻ, giấy phép kiểm soát an ninh hàng không, kiểm soát an ninh nội bộ được áp dụng trong trường hợp nào?",
+			"options": [
+				"A- Đang áp dụng biện pháp tăng cường cấp độ.",
+				"B- Thực hiện chuyến bay chuyên cơ.",
+				"C- Thực hiện nhiệm vụ khẩn nguy, cứu nạn.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 106: Người mang vũ khí, công cụ hỗ trợ (trừ trường hợp là sỹ quan, chiến sỹ cảnh vệ đi cùng đối tượng cảnh vệ) khi đi tàu bay phải hoàn thành thủ tục gì?",
+			"options": [
+				"A- Xuất trình vũ khí, công cụ hỗ trợ và các loại giấy phép liên quan cho nhân viên hàng không kiểm tra khi làm thủ tục đi tàu bay.",
+				"B- Trường hợp mang súng theo người lên tàu bay hoặc ký gửi súng, đạn, phải hoàn thành tờ khai theo mẫu quy định.",
+				"C- Không cần khai báo hoặc xuất trình.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 107: Nguyên tắc xử lý đối với các vụ việc vi phạm an ninh hàng không?",
+			"options": [
+				"A- Phải được xử lý kịp thời, nhanh chóng, không để vi phạm lan rộng và hạn chế tới mức thấp nhất hậu quả xảy ra.",
+				"B- Bàn giao cho hãng hàng không liên quan xử lý.",
+				"C- Bàn giao cho Cảng vụ hàng không xử lý.",
+				"D- Bàn giao cho Công an khu vực xử lý."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 108: Theo quy định tại Thông tư 43/2017/TT-BGTVT, môn học nào thuộc các môn học nghiệp vụ chuyên ngành an ninh soi chiếu?",
+			"options": [
+				"A- Quy trình kiểm tra soi chiếu an ninh hàng không đối với người, hành lý, hàng hóa, bưu gửi.",
+				"B- Kiểm tra hành khách đặc biệt",
+				"C- Xử lý vật nghi ngờ là chất nổ, thiết bị nổ; vũ khí, vật phẩm nguy hiểm.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 109: Yêu cầu đối với hoạt động kiểm tra, đánh giá, thử nghiệm, điều tra của Cục Hàng không Việt Nam và Cảng vụ hàng không được quy định như thế nào?",
+			"options": [
+				"A- Không cần thông báo.",
+				"B- Phải có thông báo về hoạt động kiểm tra, đánh giá, thử nghiệm, điều tra.",
+				"C- Phải có quyết định thành lập đoàn của người có thẩm quyền. Kế hoạch kiểm tra, đánh giá, thử nghiệm, điều tra phải được người ra quyết định thành lập đoàn phê duyệt.",
+				"D- Đáp án B và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 110: Công tác kiểm soát an ninh nội bộ đối với nhân viên hàng không được thực hiện dựa trên nguyên tắc nào?",
+			"options": [
+				"A- Thông qua việc xây dựng, duy trì, thực hiện tiêu chuẩn vị trí việc làm.",
+				"B- Nội quy, kỷ luật của cơ quan, đơn vị.",
+				"C- Công tác phối hợp với cơ quan chức năng trong phòng, chống các hành vi vi phạm pháp luật và thẩm tra xác minh nhân thân.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},{
+			"question": "Câu 1: Trong trường hợp hành khách từ chối thực hiện thủ tục kiểm tra an ninh thì tại vị trí kiểm tra nhân viên kiểm soát an ninh hàng không xử lý như thế nào?",
+			"options": [
+				"A- Phối hợp với Cảng vụ hàng không khu vực lập biên bản ghi nhận sự việc và giải quyết cho khách bay.",
+				"B- Báo cáo cán bộ trực Tổ/Đội để giải quyết",
+				"C- Phối hợp với Công an lập biên bản từ chối vận chuyển đối với hành khách.",
+				"D- Từ chối hoàn thành thủ tục an ninh hàng không đối với hành khách và phối hợp với Đội an ninh cơ động lập biên bản từ chối vận chuyển đối với hành khách."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Biển, bảng thông báo, cảnh báo an ninh, thông tin cảnh báo an ninh đối với hành khách không bao gồm nội dung nào dưới dây?",
+			"options": [
+				"A- Bảng danh mục các loại giấy tờ sử dụng đi tàu bay.",
+				"B- Bảng quy định về mang chất lỏng theo người và hành lý lên tàu bay",
+				"C- Bảng danh mục vật phẩm cấm mang theo người, hành lý xách tay lên tàu bay.",
+				"D- Bảng quy định về các vật được phép mang theo người và hành lý lên tàu bay"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Trung tâm khẩn nguy Cảng HKQT Nội Bài được đặt ở khu vực nào?",
+			"options": [
+				"A- Khu vực nhà khách VIPA",
+				"B- Khu vực hạn chế, phía Đông, tầng 1, Nhà ga hành khách T2",
+				"C- Nhà ga hàng hóa ACSV",
+				"D- Khu vực cách ly tầng 2, Nhà ga hành khách T1"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Trường hợp phát hiện bom, mìn, vật liệu nổ nếu không biết rõ về cơ chế nổ (trừ trường hợp phát hiện trong người hoặc hành lý xách tay của hành khách) nhân viên an ninh hàng không xử lý như thế nào?",
+			"options": [
+				"A- Nhân viên an ninh hàng không tại nơi phát hiện bom, mìn, vật liệu nổ phải sơ tán hành khách, chủ động lại gần, dùng vật liệu phi kim loại tác động lên bom, mìn, vật liệu nổ.",
+				"B- Nhân viên an ninh hàng không tại nơi phát hiện bom, mìn, vật liệu nổ giữ nguyên hiện trường, không cho người không có nhiệm vụ lại gần, tác động lên bom, mìn, vật liệu nổ.",
+				"C- Nhân viên an ninh hàng không tại nơi phát hiện bom, mìn, vật liệu nổ phải bình tĩnh, coi như không có chuyện gì xảy ra. Nhẹ nhàng mang kiện hành lý ra khu vực an toàn chờ xử lý",
+				"D- Nhân viên an ninh hàng không tại nơi phát hiện bom, mìn, vật liệu nổ phải nhanh chóng mang kiện hành lý ra khu vực an toàn chờ xử lý"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Đối với các thiết bị điện tử mang theo người, hành lý xách tay của hành khách khi đi tàu bay (radio, camera, máy ảnh, máy tính, đĩa mềm... ) phải tiến hành kiểm tra như thế nào?",
+			"options": [
+				"A- Thực hiện kiểm tra như đối với hành lý thông thường.",
+				"B- Kiểm tra trực quan.",
+				"C- Yêu cầu hành khách lấy ra khỏi ba lô, túi xách, hành lý cho vào khay và đưa qua máy soi.",
+				"D- Chỉ soi chiếu bằng máy soi tia X, miễn kiểm tra trực quan."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Khi kiểm tra giấy tờ của hành khách sử dụng khi đi tàu bay, nếu phát hiện hành khách sử dụng giấy tờ nhân thân không đúng quy định, nhân viên kiểm soát an ninh hàng không xử lý như thế nào?",
+			"options": [
+				"A- Tiến hành thẩm vấn đối với hành khách và cho khách đi tiếp.",
+				"B- Thông báo với đại diện hãng hàng không để giải quyết.",
+				"C- Tạm giữ giấy tờ và hành khách, báo cáo cán bộ trực Tổ/Đội.",
+				"D- Từ chối vận chuyển."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Trường hợp \"tên trên giấy tờ của hành khách sử dụng khi đi tàu bay không trùng với tên ghi trên thẻ lên tàu bay\" anh/chị sẽ xử lý như thế nào?",
+			"options": [
+				"A- Từ chối vận chuyển.",
+				"B- Tiến hành làm rõ rồi mới cho hành khách đi tiếp",
+				"C- Thông báo cho Đội ANCĐ để phối hợp xử lý",
+				"D- Tiến hành kiểm tra trực quan đối với hành khách."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Khi kiểm tra giấy tờ nhân thân của hành khách, nhân viên kiểm soát an ninh cần tập trung vào các thông tin gì?",
+			"options": [
+				"A- Ảnh và các đặc điểm nhận dạng, đối chiếu với hành khách; Các dữ liệu bằng chữ số trên giấy tờ tuỳ thân.",
+				"B- Quê quán, nơi cấp; Ảnh và các đặc điểm nhận dạng, đối chiếu với hành khách; Họ và tên cha mẹ",
+				"C- Quê quán, nơi sinh; Ảnh và các đặc điểm nhận dạng, đối chiếu với hành khách; Các dấu hiệu làm giả hoặc sửa chữa trên giấy tờ tuỳ thân như thay ảnh, thay trang hộ chiếu v.v…",
+				"D- Quê quán, nơi cấp; Họ và tên cha mẹ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Trường hợp hành khách khi đi qua cổng từ có tín hiệu báo động, nhân viên kiểm soát an ninh hàng không phải xử lý như thế nào?",
+			"options": [
+				"A- Thực hiện quy trình kiểm tra người bằng thiết bị phát hiện kim loại lẫn phi kim loại",
+				"B- Thực hiện phân tích hành vi và đánh giá rủi ro để hoàn tất việc kiểm tra an ninh",
+				"C- Căn cứ đèn tín hiệu của cổng từ để xác định mức độ cảnh báo kim loại, vị trí nghi vấn trên người hành khách. Thực hiện quy trình kiểm tra người bằng thiết bị phát hiện kim loại cầm tay",
+				"D- Phỏng vấn hành khách và hoàn tất thủ tục kiểm tra an ninh"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Khi kiểm tra hành khách bằng thiết bị phát hiện kim loại cầm tay, phần kiểm tra bàn chân của hành khách phải thực hiện như thế nào?",
+			"options": [
+				"A- Hành khách không phải nhấc chân, nhân viên an ninh sử dụng thiết bị phát hiện kim loại cầm tay để kiểm tra bàn chân của hành khách.",
+				"B- Đề nghị hành khách nhấc chân để kiểm tra bàn chân",
+				"C- Không phải kiểm tra phần bàn chân của hành khách",
+				"D- Phỏng vấn hành khách và hoàn tất thủ tục kiểm tra an ninh"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Trường hợp phát hiện vật phẩm nguy hiểm trong hành lý xách tay của hành khách, nhân viên giám sát màn hình máy soi xử lý như thế nào?",
+			"options": [
+				"A- Nhanh chóng, chủ động đứng dậy kiểm tra, xử lý và giải quyết các tình huống phát sinh (nếu có).",
+				"B- Nhận định, dự đoán loại vật phẩm nguy hiểm, đánh giá mức độ nguy hiểm để có hướng xử lý phù hợp; Phối hợp với nhân viên Hải quan để kiểm tra. Ra quyết định xử lý; Báo cáo cán bộ trực Tổ/Đội các tình huống phát sinh.",
+				"C- Phối hợp với nhân viên Hải quan để kiểm tra. Ra quyết định xử lý; Báo cáo cán bộ trực Tổ/Đội các tình huống phát sinh.",
+				"D- Nhận định, dự đoán loại vật phẩm nguy hiểm, đánh giá mức độ nguy hiểm để có hướng xử lý phù hợp; Phối hợp với nhân viên kiểm tra trực quan để kiểm tra. Ra quyết định xử lý; Báo cáo cán bộ trực Tổ/Đội các tình huống phát sinh."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Trường hợp phát hiện vật phẩm nguy hiểm trên người hành khách, nhân viên kiểm tra sau cổng từ/thiết bị soi chiếu cơ thể/ kiểm tra trực quan sẽ xử lý như thế nào?",
+			"options": [
+				"A- Ngay lập tức báo cáo cán bộ trực Tổ/Đội.",
+				"B- Nhận định, dự đoán loại vật phẩm nguy hiểm, đánh giá mức độ nguy hiểm thông qua phương thức, thủ đoạn cất giấu để có hành động ứng phó phù hợp. Báo cáo cán bộ trực Tổ/Đội.",
+				"C- Lập biên bản từ chối vận chuyển.",
+				"D- Lập biên bản từ chối hoàn thành thủ tục An ninh hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Trong những trương hợp nào áp dụng việc kiểm tra hành khách, hành lý xách tay bằng máy ngửi, thiết bị phát hiện vi vết chất nổ?",
+			"options": [
+				"A- Nghi vấn đối với hành khách/đồ vật mang theo trên người hành khách phát ra tiếng kêu lách cách; Kiểm tra bổ sung ngẫu nhiên bổ sung sau kiểm tra ANHK lần đầu đối với hành khách và hành lý xách tay",
+				"B- Nghi vấn đối với hành khách/đồ vật mang theo trên người hành khách; Kiểm tra bổ sung ngẫu nhiên bổ sung sau kiểm tra ANHK lần đầu đối với hành khách và hành lý xách tay",
+				"C- 100% các kiện hành lý sau khi qua soi chiếu",
+				"D- Hành khách có yêu cầu"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Hành khách, hành lý xách tay quá cảnh, nối chuyến không phải kiểm tra an ninh hàng không nếu đáp ứng các yêu cầu nào sau đây?",
+			"options": [
+				"A- Hành khách được dán thẻ hành khách tạm dừng, hủy chuyến; Từ lúc xuống khỏi tàu bay, hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục",
+				"B- Không có hành lý ký gửi; Từ lúc xuống khỏi tàu bay, hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục",
+				"C- Không có hành lý ký gửi. Hành khách được dán thẻ hành khách tạm dừng, nối chuyến, quá cảnh; Từ lúc xuống khỏi tàu bay, hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục",
+				"D- Hành khách được dán thẻ hành khách tạm dừng, nối chuyến, quá cảnh; Từ lúc xuống khỏi tàu bay, hành khách không ra khỏi khu vực hạn chế hoặc được giám sát an ninh liên tục"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Trong trường hợp hành khách mang theo vật phẩm nguy hiểm như: Dao, kéo, đồ vật sắc nhọn, đồ vật mô phỏng hình dạng vũ khí, đồ vật có thể sử dụng làm vũ khí mang theo người hoặc hành lý xách tay mà không tuân thủ hướng dẫn của nhân viên an ninh hàng không thì xử lý như thế nào?",
+			"options": [
+				"A- Phối hợp Đội an ninh cơ động để xử lý.",
+				"B- Thông báo cho Cảng vụ lập biên bản vi phạm.",
+				"C- Báo cáo cán bộ trực điều hành Đội tiến hành lập biên bản từ chối hoàn thành thủ tục an ninh hàng không theo biểu mẫu B08.H03/AN và thông báo cho đại diện hãng hàng không phối hợp để xử lý",
+				"D- Phối hợp Cảng vụ lập biên bản từ chối hoàn thành thủ tục an ninh hàng không."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Khi kiểm tra an ninh đối với hành khách là bị can, bị cáo, phạm nhân, người bị trục xuất, người bị dẫn độ, người bị bắt theo quyết định truy nã, nhân viên kiểm soát An ninh hàng không cần tiếp nhận những thông tin gì?",
+			"options": [
+				"A- Thông tin chuyến bay có đối tượng hành khách đặc biệt là (bị can, bị cáo, phạm nhân, người bị trục xuất, dẫn độ...), Thông tin về hành khách, hành lý, thông tin về người hộ tống và các bên liên quan tham gia áp giải, các thông tin liên quan khác (nếu có)",
+				"B- Thông tin chuyến bay có đối tượng hành khách đặc biệt là (bị can, bị cáo, phạm nhân, người bị trục xuất, dẫn độ...) và các thông tin liên quan khác (nếu có)",
+				"C- Thông tin về hành khách, hành lý, thông tin về người hộ tống và các bên liên quan tham gia áp giải, các thông tin liên quan khác (nếu có)",
+				"D- Thông tin về số vé, thẻ lên tàu bay của hành khách"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Khi kiểm tra cổng từ, tại mỗi vị trí đặt mẫu thử phải đi qua cổng từ tối thiểu bao nhiêu lần?",
+			"options": [
+				"A- 02 lần: 1 lần theo chiều thuận và 1 lần theo chiều ngược lại",
+				"B- 10 lần: 5 lần theo chiều thuận và 5 lần theo chiều ngược lại",
+				"C- 04 lần: 2 lần theo chiều thuận và 2 lần theo chiều ngược lại",
+				"D- 06 lần: 3 lần theo chiều thuận và 3 lần theo chiều ngược lại"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Nhân viên kiểm soát an ninh hàng không khi trả lời, hướng dẫn hành khách phải có tác phong làm việc như thế nào?",
+			"options": [
+				"A- Giữ khoảng cách từ 1m đến 2m; khi cần dùng tay để hướng dẫn thì dùng cả bàn tay, không dùng một ngón tay chỉ. Khi đưa hay nhận giấy tờ, đồ vật cho khách phải dùng cả hai tay;",
+				"B- Giữ khoảng cách từ 1m đến 2m; khi cần dùng tay để hướng dẫn thì dùng cả bàn tay, không dùng một ngón tay chỉ",
+				"C- Giữ khoảng cách từ 0.5m đến 1m",
+				"D- Khi đưa hay nhận giấy tờ, đồ vật cho khách có thể dùng 1 tay hoặc dùng cả hai tay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Khi kiểm tra trực quan hàng hóa, điều nào sau đây KHÔNG phải nguyên tắc mà nhân viên kiểm soát an ninh hàng không phải thực hiện?",
+			"options": [
+				"A- Việc kiểm tra trực quan chỉ được tiến hành với sự có mặt của chủ sở hữu/người đại diện hợp pháp của hành lý, hàng hoá, bưu gửi",
+				"B- Các bên liên quan có thể quyết định tiến hành kiểm tra trực quan vắng mặt chủ sở hữu/người đại diện hợp pháp của hành lý, hàng hoá, bưu gửi, trong trường hợp phát hiện có dấu hiệu vi phạm pháp luật. Khi đó việc kiểm tra phải được lập biên bản, có xác nhận của các bên liên quan.",
+				"C- Khi kiểm tra thái độ của nhân viên phải văn minh, lịch sự; thao tác kiểm tra phải nhẹ nhàng, cẩn thận, tránh gây đổ vỡ, xáo trộn… hành lý, hàng hoá, bưu gửi.",
+				"D- Luôn lắng nghe và đáp ứng tốt các nhu cầu của khách hàng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Quy trình tiếp nhận, vận chuyển vũ khí, công cụ hỗ trợ được thực hiện như thế nào?",
+			"options": [
+				"A- Nhân viên phục vụ mặt đất vận chuyển súng, đạn từ điểm làm thủ tục lên tàu bay phải có nhân viên Công an cửa khẩu giám sát, hộ tống",
+				"B- Nhân viên phục vụ mặt đất vận chuyển súng, đạn từ điểm làm thủ tục lên tàu bay phải có cán bộ Hải quan giám sát, hộ tống",
+				"C- Nhân viên phục vụ mặt đất vận chuyển súng, đạn từ điểm làm thủ tục lên tàu bay không bắt buộc phải có người giám sát, hộ tống",
+				"D- Nhân viên phục vụ mặt đất vận chuyển súng, đạn từ điểm làm thủ tục lên tàu bay phải có nhân viên kiểm soát an ninh hàng không giám sát, hộ tống"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Tại Nội Bài, việc giám sát an ninh đối với hàng hóa đã qua soi chiếu từ các kho hàng không kéo dài ALS thuộc trách nhiệm của lực lượng nào?",
+			"options": [
+				"A- Lực lượng kiểm soát An ninh hàng không Nội Bài",
+				"B- Lực lượng bảo vệ của công ty ALS",
+				"C- Cảng vụ hàng không Nội Bài",
+				"D- Lực lượng kiểm soát An ninh hàng không Nội Bài phối hợp với lực lượng bảo vệ của công ty ALS"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Các loại dụng cụ nào dưới đây có thể được xem xét cấp phép mang vào khu vực hạn chế, cách ly phục vụ công tác thi công/ sửa chữa?",
+			"options": [
+				"A- Các loại Xà beng, cuốc, xẻng, thuổng, mai, liềm, thiết bị hàn, cắt, khoan, mài;",
+				"B- Các loại búa, rìu, cưa, đục, tràng đục, lưỡi cưa, mũi khoan, tuốc nơ vít, các cờ lê, mỏ lết, kìm chiều dài trên 10cm và các loại chuyên dùng khác",
+				"C- Các loại Xà beng, cuốc, xẻng, thuổng, mai, liềm, thiết bị hàn, cắt, khoan, mài; Các loại búa, rìu, cưa, đục, tràng đục, lưỡi cưa, mũi khoan, tuốc nơ vít, các cờ lê, mỏ lết, kìm chiều dài trên 10cm và các loại chuyên dùng khác",
+				"D- Chỉ các loại búa, rìu, cưa, đục, tràng đục, lưỡi cưa, mũi khoan, tuốc nơ vít, các cờ lê, mỏ lết, kìm có tổng chiều dài dưới 10cm"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Việc cấp phép, kiểm soát đối với vật phẩm nguy hiểm được phép mang vào khu vực hạn chế, cách ly thuộc trách nhiệm của đơn vị nào?",
+			"options": [
+				"A- Trung tâm Khai thác ga Nội Bài",
+				"B- Trung tâm An ninh hàng không Nội Bài",
+				"C- Cảng vụ hàng không Miền bắc",
+				"D- Chi cục Hải quan Nội Bài"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Mỗi loại máy soi tia X sử dụng tại mỗi cảng hàng không, sân bay phải có tối thiểu mấy bộ mẫu thử của nhà sản xuất, chế tạo hoặc nhà cung cấp để kiểm tra máy soi tia X?",
+			"options": ["A- 01 bộ", "B- 02 bộ", "C- 03 bộ", "D- 04 bộ"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Việc kiểm soát vào/ ra kho hàng hóa đã qua soi chiếu tại các kho hàng không kéo dài ALS Bắc Ninh, ALS Thái Nguyên, ALS Đông Hà Nội thuộc trách nhiệm của đơn vị nào?",
+			"options": [
+				"A- Trung tâm An ninh hàng không Nội Bài",
+				"B- Đơn vị chủ quản của kho hàng không kéo dài",
+				"C- Chi cục Hải quan Nội Bài",
+				"D- Đơn vị chủ quản của kho hàng không kéo dài"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Trong khi thực hiện nhiệm vụ kiểm tra giấy tờ tùy thân của hành khách đi tàu bay, trường hợp có dấu hiệu nghi vấn về các dấu hiệu chống giả của giấy tờ, nhân viên kiểm soát an ninh hàng không xử lý như thế nào?",
+			"options": [
+				"A- Từ chối hoàn thành thủ tục An ninh hàng không",
+				"B- Yêu cầu hành khách xuất trình thêm các loại Giấy tờ khác liên quan (có thể sử dụng thiết bị kỹ thuật hỗ trợ) đồng thời tiến hành việc thẩm vấn hành khách nhằm làm rõ các vấn đề nghi vấn.",
+				"C- Hướng dẫn hành khách gặp hãng hàng không để được trợ giúp",
+				"D- Từ chối hoàn thành thủ tục An ninh hàng không; Hướng dẫn hành khách gặp hãng hàng không để được trợ giúp"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Túi ngoại giao, túi lãnh sự bị từ chối chuyên chở trong trường hợp nào?",
+			"options": [
+				"A- Túi ngoại giao, túi lãnh sự chưa qua kiểm tra soi chiếu tia X",
+				"B- Có cơ sở xác thực để khẳng định túi ngoại giao, túi lãnh sự có chứa vật phẩm nguy hiểm không được phép vận chuyển trên tàu bay theo quy định. Khi từ chối chuyên chở phải tiến hành lập biên bản nêu rõ lý do, có sự xác nhận của giao thông viên ngoại giao hoặc giao thông viên lãnh sự và Cảng vụ hàng không liên quan, biên bản phải được gửi cho cơ quan đại diện ngoại giao",
+				"C- Niêm phong của túi ngoại giao, lãnh sự không còn nguyên vẹn",
+				"D- Túi ngoại giao, túi lãnh sự không có giao thông viên ngoại giao đi cùng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Quy trình kiểm tra, giám sát khu vực cách ly nhà ga hành khách T1, T2 của nhân viên kiểm soát ANHK phải thực hiện vào thời điểm nào?",
+			"options": [
+				"A- Trước khi kết thúc hoạt động khai thác",
+				"B- Theo hoạt động bay thực tế",
+				"C- Trước khi có hoạt động khai thác và sau khi kết thúc hoạt động khai thác",
+				"D- Sau khi bắt đầu hoạt động khai thác"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Cán bộ, nhân viên trung tâm an ninh hàng không Nội bài khi giao tiếp, ứng xử với khách hàng cần giữ các nguyên tắc nào sau đây?",
+			"options": [
+				"A- Không được có thái độ, hành vi thô lỗ như: nói tục, chửi bậy; dọa nạt, quát mắng hoặc có cử chỉ, lời nói chê bai, dè bỉu, nhổ nước bọt, nhếch mép khi giao tiếp với bất kỳ ai.",
+				"B- Không được cung cấp, hướng dẫn thủ tục, thông tin",
+				"C- Từ chối trả lời hành khách nếu đang bận công tác chuyên môn",
+				"D- Cố gắng cung cấp tối đa thông tin ngay cả khi bản thân không hiểu biết đầy đủ, chính xác về thông tin đó;"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Khi kiểm tra thẻ lên tàu bay, nhân viên kiểm soát an ninh hàng không phải kiểm tra những nội dung nào sau đây?",
+			"options": [
+				"A- Họ và tên, số hiệu chuyến bay, thời gian khởi hành, hành trình, số vé, hạng vé…",
+				"B- Thời gian khởi hành, số hiệu chuyến bay, họ và tên",
+				"C- Số hiệu chuyến bay, họ và tên, cửa ra tàu bay, thời gian khởi hành, ngày tháng năm sinh",
+				"D- Thời gian khởi hành, họ và tên, số ghế, cửa ra tàu bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Nguyên tắc giao tiếp, ứng xử của Cán bộ, Nhân viên An ninh hàng không Nội bài được quy định như thế nào?",
+			"options": [
+				"A- Được phép đeo tai nghe nhạc trong giờ làm việc. Đối với các vị trí có tiếng ồn cao",
+				"B- Không được đeo tai nghe nhạc, chơi trò chơi điện tử, xem sách báo, nói chuyện riêng, làm việc riêng trong giờ làm việc.",
+				"C- Được hút nhat kẹo cao su hoặc ăn uống trong khi đang làm việc (không được hút thuốc lá)",
+				"D- Chỉ được xem sách báo trong giờ làm việc tại các vị trí canh gác ngoài nhà ga"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Yêu cầu nào sau đây KHÔNG nằm trong chuẩn mực về tác phong của Cán bộ, Nhân viên An ninh hàng không thuộc Trung tâm An ninh hàng không Nội bài khi đứng kiểm soát?",
+			"options": [
+				"A- Phải đứng ở tư thế thẳng tự nhiên; đầu ngẩng cao; hai chân mở rộng bằng vai, hai tay chắp sau lưng hoặc đứng nghiêm.",
+				"B- Chào khách, thể hiện thái độ tôn trọng, lễ phép với khách hàng khi đề nghị khách xuất trình giấy tờ đi tàu bay, thẻ lên tàu bay để kiểm tra;",
+				"C- Đứng đúng vị trí quy định, đứng nghiêm, hai chân mở rộng bằng vai, miệng luôn cười, tay để ở tư thế chào.",
+				"D- Chào điều lệnh với khách hàng trước khi đề nghị khách xuất trình giấy tờ đi tàu bay, thẻ lên tàu bay để kiểm tra;"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Chuẩn mực về tác phong của Cán bộ, Nhân viên An ninh hàng không thuộc Trung tâm An ninh hàng không Nội bài mang mặc trang phục khi thực hiện nhiệm vụ được quy định như thế nào?",
+			"options": [
+				"A- Cán bộ, nhân viên an ninh hàng không mặc trang phục xuân hè từ ngày 01 tháng 4 đến hết ngày 31 tháng 10 hàng năm, mặc trang phục thu đông từ ngày 01 tháng 11 năm trước đến hết ngày 31 tháng 3 năm sau.",
+				"B- Cán bộ, nhân viên an ninh hàng không mặc trang phục xuân hè từ ngày 01 tháng 5 đến hết ngày 31 tháng 10 hàng năm, mặc trang phục thu đông từ ngày 01 tháng 11 năm trước đến hết ngày 31 tháng 4 năm sau.",
+				"C- Cán bộ, nhân viên an ninh hàng không mặc trang phục xuân hè hoặc thu đông tùy theo thời tiết"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Việc mang mặc trang phục khi làm nhiệm vụ trong thời gian giao mùa giữa mùa hè và mùa đông của Cán bộ, nhân viên thuộc Trung tâm an ninh hàng không Nội Bài do ai quyết định?",
+			"options": [
+				"A- Giám đốc Cảng hàng không Quốc tế Nội bài",
+				"B- Giám đốc Trung tân An ninh hàng không Nội bài",
+				"C- Đội trưởng của các đội",
+				"D- Chủ tịch công đoàn Trung tân An ninh hàng không Nội bài"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Vật phẩm nguy hiểm được xem xét cấp phép sử dụng trong khu vực hạn chế, cách ly không bao gồm các vật phẩm nào dưới đây?",
+			"options": [
+				"A- Các loại dao, kéo, vật phẩm nguy hiểm sử dụng cho công tác văn phòng: dao rọc giấy, dao xén giấy,…",
+				"B- Các loại dao, kéo dùng để chế biến thực phẩm tại các nhà hàng, cửa hàng: dao, kéo chế biến thực phẩm; dao gọt hoa quả; dao, nĩa ăn;",
+				"C- Các loại dụng cụ mài dao, kéo.",
+				"D- Các loại công cụ hỗ trợ với mục đích tự vệ dành cho nhân viên bán hàng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Thủ tục kiểm tra đối với vật phẩm nguy hiểm đã được cấp phép trước khi mang vào khu vực hạn chế, cách ly được thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra, đối chiếu Phiếu cấp phép với thực tế vật phẩm nguy hiểm được phép mang vào sử dụng trong khu vực hạn chế.",
+				"B- Đăng ký vào Sổ theo dõi người/phương tiện vào/ra khu vực hạn chế.",
+				"C- Kiểm tra, đối chiếu Phiếu cấp phép với thực tế vật phẩm nguy hiểm được phép mang vào sử dụng trong khu vực hạn chế và đăng ký vào Sổ theo dõi người/phương tiện vào/ra khu vực hạn chế.",
+				"D- Đăng ký vào Sổ theo dõi người/phương tiện vào/ra khu vực hạn chế, đồng thời báo cáo cán bộ trực Tổ/Đội."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Khi kiểm tra phát hiện cơ quan, đơn vị, doanh nghiệp vi phạm quy định về sử dụng vật phẩm nguy hiểm trong khu vực hạn chế, nhân viên kiểm soát an ninh hàng không sẽ tiến hành xử lý như thế nào?",
+			"options": [
+				"A- Lập biên bản vi phạm theo mẫu ANHK02",
+				"B- Lập biên bản vi phạm theo mẫu quy định tại Nghị định 162/NĐ-CP",
+				"C- Lập biên bản vi phạm theo mẫu B01/H03/AN",
+				"D- Lập biên bản vi phạm theo mẫu quy định tại Thông tư 13/2019/TT-BGTVT."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Theo anh/chị bưu gửỉ được hiểu như thế nào?",
+			"options": [
+				"A- Bưu gửi bao gồm thư, bưu thiếp, ấn phẩm, học phẩm cho người mù và gói nhỏ được nhận gửi, chuyển, phát theo quy định pháp luật về bưu chính.",
+				"B- Bưu gửi bao gồm vật phẩm, hàng hóa được nhận gửi, chuyển, phát theo quy định pháp luật về bưu chính.",
+				"C- Bưu gửi bao gồm thư, gói, kiện hàng hóa được chấp nhận, vận chuyển và phát hợp pháp qua mạng bưu chính",
+				"D- Bưu gửi bao gồm thư, gói, kiện hàng hóa được chấp nhận, vận chuyển và phát hợp pháp qua mạng Internet"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Tần suất kiểm tra định kỳ các loại dao, kéo và các vật phẩm nguy hiểm khác được phép sử dụng trong khu vực cách ly được thực hiện như thế nào?",
+			"options": [
+				"A- 01 lần/tuần.",
+				"B- 02 lần/tuần.",
+				"C- 02 lần/tháng.",
+				"D- 01 lần/tháng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Cán bộ, nhân viên an ninh hàng không Nội Bài khi mặc trang phục phải tuân thủ các quy định nào sau đây?",
+			"options": [
+				"A- Trang phục khi mang mặc phải sạch sẽ, gọn gàng và được là thẳng nếp, không mang mặc trang phục An ninh ngoài giờ làm việc; Cấm tự ý sửa đổi mẫu trang phục, đính thêm, trang trí thêm phụ liệu, ghim cài hoặc các chi tiết khác lên trang phục.",
+				"B- Không được đính thêm, trang trí thêm quá 02 phụ liệu, ghim cài hoặc các chi tiết khác lên trang phục.",
+				"C- Việc mang mặc trang phục An ninh ngoài giờ làm việc chỉ được phép khi tham gia giao thông trên các phương tiện cá nhân; Cấm tự ý sửa đổi mẫu trang phục, đính thêm, trang trí thêm phụ liệu, ghim cài hoặc các chi tiết khác lên trang phục.",
+				"D- Việc mang mặc trang phục An ninh ngoài giờ làm việc chỉ được phép khi tham gia giao thông trên các phương tiện cá nhân"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Túi ngoại giao, túi lãnh sự được vận chuyển qua Nhà ga hành khách Cảng hàng không quốc tế Nội Bài, trường hợp đảm bảo các điều kiện kiểm tra an ninh hàng không theo quy định, nhân viên an ninh hàng không phải ghi chép vào sổ nào?",
+			"options": [
+				"A- Sổ nhật ký kiểm tra trực quan hành khách, hành lý",
+				"B- Sổ theo dõi người, phương tiện ra, vào khu vực hạn chế/cách ly",
+				"C- Sổ nhật ký kiểm tra các trường hợp đặc biệt",
+				"D- Sổ chỉ dành riêng cho túi thư ngoại giao"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Tại Cảng hàng không quốc tế Nội Bài, túi ngoại giao, túi lãnh sự được giao thông viên vận chuyển qua những điểm kiểm tra an ninh tại các khu vực nào?",
+			"options": [
+				"A- Nhà ga hành khách T1, T2; Cổng số 6, 7",
+				"B- Nhà ga hành khách T1, T2;Nhà ga hàng hóa",
+				"C- Cổng số 1, 5; Nhà ga hàng hóa",
+				"D- Nhà ga hành khách T1, T2; Cổng số 6, 7; Nhà ga hàng hóa"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Khi kiểm tra thợ thi công, dụng cụ, thiết bị thi công nhân viên an ninh hàng không cần kiểm tra những nội dung nào sau đây?",
+			"options": [
+				"A- Kiểm tra kế hoạch/thông báo thi công bản gốc",
+				"B- Kiểm tra đối tượng thi công và nhân viên an ninh đi kèm; Kiểm tra dụng cụ, thiết bị, đồ vật thi công",
+				"C- Kiểm tra kế hoạch/thông báo thi công; Kiểm tra đối tượng thi công, đối tượng giám sát và nhân viên an ninh đi kèm; Kiểm tra dụng cụ, thiết bị, đồ vật thi công",
+				"D- Kiểm tra bản vẽ thi công; Kiểm tra đối tượng giám sát và nhân viên an ninh đi kèm; Kiểm tra dụng cụ, thiết bị, đồ vật thi công"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Nhân viên kiểm soát màn hình soi chiếu hành lý xách tay có những nhiệm vụ nào sau đây?",
+			"options": [
+				"A- Dùng kinh nghiệm thực tế của mình để đánh giá các vật, chất là vật phẩm nguy hiểm để đưa ra quyết định đối với vật, chất nói trên",
+				"B- Sử dụng chức năng của máy soi tia X để phóng to, loại bỏ chất hữu cơ, vô cơ, điều chỉnh độ tương phản.... để phân tích, nhận định, đánh giá nội dung của hành lý, đồ vật qua màn hình",
+				"C- Nhân viên kiểm soát màn hình máy soi tia X không làm việc quá 30 phút và thời gian quay trở lại công việc kiểm soát màn hình tối thiểu là 40 phút",
+				"D- Nhân viên kiểm soát màn hình máy soi tia X không làm việc quá 30 phút và thời gian quay trở lại công việc kiểm soát màn hình tối thiểu là 60 phút"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Nhân viên kiểm tra trực quan hành lý xách tay có những nhiệm vụ nào sau đây?",
+			"options": [
+				"A- Bảo quản hành lý cho hành khách.",
+				"B- Quan sát, tiến hành kiểm tra trực quan hành lý xách tay và kiểm tra người hành khách",
+				"C- Báo cáo cán bộ trực Tổ/Đội về kết quả kiểm tra đối với từng trường hợp hành khách qua kiểm tra",
+				"D- Quan sát, tiến hành kiểm tra trực quan hành lý xách tay; Kết thúc kiểm tra, thông báo kết quả kiểm tra và biện pháp xử lý. Báo cáo cán bộ trực Tổ/Đội các tình huống phát sinh"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Nhân viên hướng dẫn trước cổng từ/thiết bị soi chiếu cơ thể có nhiệm vụ nào sau đây?",
+			"options": [
+				"A- Yêu cầu hành khách cởi bỏ vật dụng cá nhân và các đồ vật khác mang theo người và hành lý xách tay để kiểm tra qua máy soi tia X.",
+				"B- Yêu cầu hành khách cởi bỏ vật dụng cá nhân và các đồ vật khác mang theo người và hành lý xách tay để kiểm tra trực quan",
+				"C- Yêu cầu hành khách cởi bỏ vật dụng cá nhân và các đồ vật khác mang theo người và hành lý xách tay để đưa qua máy Bodyscan kiểm tra",
+				"D- Phỏng vấn hành khách về tình trạng sức khỏe và lịch sử dịch tễ trước khi đi qua cổng từ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: Giao tiếp ứng xử của Cán bộ, nhân viên An ninh hàng không Nội Bài đối với đồng nghiệp được quy định như thế nào?",
+			"options": [
+				"A- Không được có thái độ chê bai, khinh miệt, hoặc các hành vi bình phẩm, phán xét, đưa thông tin, tạo dư luận không tốt về đồng nghiệp; Không được lợi dụng chức trách nhiệm vụ, quyền hạn của mình để giúp đỡ đồng nghiệp nhằm mục đích vụ lợi cá nhân",
+				"B- Không được tiếp xúc, liên lạc, gần gủi với đồng nghiệp khi đồng nghiệp vi phạm kỷ luật của đơn vị.",
+				"C- Không được tiếp xúc, liên lạc với đồng nghiệp trong quá trình làm việc",
+				"D- Không được có thái độ ủng hộ hay cổ vũ hoặc nhận xét về đồng nghiệp; Không được giúp đỡ đồng nghiệp nhằm mục đích vụ lợi cá nhân"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: Cán bộ, nhân viên An ninh hàng không Nội bài khi thực hiện nhiệm vụ giao tiếp với khách hàng bằng tiếng anh cần tuân thủ quy định nào sau đây?",
+			"options": [
+				"A- Sử dụng Tiếng Anh giao tiếp cơ bản. Vận dụng tốt các mẫu câu giao tiếp theo Sổ tay giao tiếp ANHK được Trung tâm biện soạn",
+				"B- Sử dụng Tiếng Anh giao tiếp cơ bản. Vận dụng tốt các mẫu câu giao tiếp theo chương trình An ninh hàng không.",
+				"C- Sử dụng Tiếng Anh giao tiếp cơ bản. Vận dụng tốt các mẫu câu giao tiếp theo tài liệu Tài liệu ISO Trung tân An ninh hàng không Nội Bài.",
+				"D- Sử dụng Tiếng Anh giao tiếp với văn phong trang trọng. Vận dụng tốt các mẫu câu điều kiện trong giao tiếp."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 49: Cán bộ, nhân viên An ninh hàng không Nội bài khi thực hiện nhiệm vụ giao tiếp với khách hàng cần tuân thủ quy định nào sau đây?",
+			"options": [
+				"A- Thân thiện nhưng không cần quá nghiêm túc và tỏ ra khéo léo. Chỉ tập trung hướng dẫn, cung cấp thông tin, dịch vụ cho khách hàng hạng thương gia",
+				"B- Nghiêm túc, lịch sự, chu đáo; sẵn sàng hướng dẫn, cung cấp thông tin, dịch vụ cho khách hàng (trường hợp đang nói chuyện điện thoại có thể ra tín hiệu từ chối)",
+				"C- Nghiêm túc, lịch sự, chu đáo; sẵn sàng hướng dẫn, cung cấp thông tin, dịch vụ cho khách hàng bằng mọi giá",
+				"D- Nghiêm túc, lịch sự, chu đáo; sẵn sàng hướng dẫn, cung cấp thông tin, dịch vụ cho khách hàng trong khả năng cho phép."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 50: Nhân viên kiểm soát màn hình hành lý ký gửi cần cung cấp cho nhân viên kiểm tra trực quan những thông tin gì?",
+			"options": [
+				"A- Đánh dấu cho nhân viên kiểm tra trực quan những thông tin liên quan đến vật phẩm cần kiểm tra như vị trí hoặc thông báo qua bộ đàm cho nhân viên kiểm tra trực quan đặc điểm của vật, chất nghi ngờ/vật phẩm nguy hiểm; hoặc các dấu hiệu nhận biết khác",
+				"B- Kích thước, đặc điểm của vật, chất nghi ngờ.",
+				"C- Vị trí, hình dáng của vật nghi ngờ.",
+				"D- Đặc điểm của vật, chất nghi ngờ/vật phẩm nguy hiểm."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 51: Đồ dùng cá nhân của hành khách đi xe lăn và người đi cùng được kiểm tra như thế nào?",
+			"options": [
+				"A- Kiểm tra bằng máy soi tia X",
+				"B- Kiểm tra trực quan",
+				"C- Kiểm tra bằng máy soi tia X hoặc kiểm tra trực quan với sự chứng kiến của nhân viên hãng vận chuyển hoặc hành khách đi cùng.",
+				"D- Kiểm tra bằng máy dò kim loại cầm tay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 52: Trường hợp kiểm tra trực quan đối với hành lý ký gửi không đi cùng hành khách trên chuyến bay, nhân viên an ninh hàng không phải thực hiện như thế nào?",
+			"options": [
+				"A- Chủ động mở kiện hành lý kiểm tra trực quan, làm rõ vấn đề nghi vấn",
+				"B- Thông báo đại diện hãng vận chuyển để phối hợp kiểm tra",
+				"C- Không kiểm tra và từ chối hoàn thành thủ tục hàng không",
+				"D- Kiểm tra thẻ hành lý và ghi nhận thông tin vào Sổ nhật ký ca trực"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 53: Cán bộ, nhân viên An ninh hàng không khi chỉ dẫn, cung cấp thông tin cho hành khách cần tuân thủ nguyên tắc nào sau đây?",
+			"options": [
+				"A- Từ chối cung cấp mọi thông tin không liên quan đến An ninh hàng không",
+				"B- Chỉ hướng dẫn, cung cấp các thủ tục cần thiết như: Kế hoạch bay trong ngày, tình hình các chuyến bay chậm, hủy, tình hình thời tiết tại sân bay, thông tin về giá vé, giá các dịch vụ khác...",
+				"C- Hướng dẫn, cung cấp tối đa các thông tin và các thủ tục cần thiết cũng như các dịch vụ phi hàng không khác",
+				"D- Chỉ hướng dẫn, cung cấp các thủ tục, thông tin khi bản thân mình hiểu biết đầy đủ, chính xác về thông tin mà khách hàng cần cung cấp, thông tin được đề nghị cung cấp phổ biến, không phải là thông tin hạn chế theo quy định của đơn vị."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 54: Cán bộ, nhân viên An ninh hàng không Nội Bài khi giao tiếp với khách hàng qua điện thoại, bộ đàm cần tuân thủ các nguyên tắc nào sau đây?",
+			"options": [
+				"A- Trường hợp vì việc cấp thiết khác phải nói thật nhanh, đi vào nội dung chính và xin lỗi ngắt máy, không kéo dài thời gian nói chuyện.",
+				"B- Lắng nghe, không ngắt lời khi người khác đang nói trừ trường hợp vì việc cấp thiết khác và phải xin lỗi người đang nói, thay đổi tốc độ, độ cao giọng nói cho phù hợ với người nghe, nói vừa đủ nghe, không nói quá to, quá nhỏ.",
+				"C- Lắng nghe, không ngắt lời khi người khác đang nói trong bất kỳ trường hợp nào.",
+				"D- Lắng nghe, không ngắt lời khi người khác đang nói trừ trường hợp vì việc cấp thiết khác và phải xin lỗi người đang nói, thay đổi tốc độ, độ cao giọng nói cho phù hợp với người nghe, nói thẳn vào Micro, để Micro cách miệng 04 cm."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 55: Cán bộ, nhân viên An ninh hàng không Nội Bài giao tiếp với khách hàng khi nghe điện thoại cần tuân thủ các nguyên tắc nào sau đây?",
+			"options": [
+				"A- Khi có tín hiệu, nhấc máy trả lời trước hồi chuông thứ ba; trường hợp không thể nhấc máy trả lời kịp thời thì hãy xin lỗi và nói lý do, nghiêm cấm vừa ăn vừa trả lời điện thoại, nói vừa đủ nghe, không nói quá to, quá nhỏ.",
+				"B- Khi có tín hiệu, nhấc máy trả lời trước hồi chuông thứ nhất; trường hợp không thể nhấc máy trả lời kịp thời thì hãy xin lỗi và nói lý do. Khi có số điện gọi nhỡ, phải chủ động gọi lại để nắm bắt thông tin.",
+				"C- Khi có tín hiệu, nhấc máy trả lời trước hồi chuông thứ hai; trường hợp không thể nhấc máy trả lời kịp thời thì hãy xin lỗi và nói lý do, không sử dụng từ lóng, thuật ngữ, biệt ngữ khó hiểu.",
+				"D- Khi có tín hiệu, nhấc máy trả lời trước hồi chuông thứ nhất; trường hợp không thể nhấc máy trả lời kịp thời thì hãy xin lỗi và nói lý do."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 56: Cán bộ, nhân viên An ninh hàng không Nội Bài khi giao tiếp với khách hàng, đồng nghiệp qua bộ đàm cần tuân thủ các nguyên tắc nào sau đây?",
+			"options": [
+				"A- Người gọi và người nghe phải xưng danh và xác nhận thông tin bằng câu “Over”; Ưu tiên sử dụng mật hiệu trên bộ đàm;",
+				"B- Người gọi và người nghe phải xưng danh và xác nhận thông tin bằng câu “Nghe tốt”; Không được trao đổi thông tin cá nhân, không được nói tục, chửi bậy, trêu nhau trên bộ đàm;",
+				"C- Chỉ được nói xen vào khi người khác đang liên lạc trên tần số bộ đàm khẩn nguy",
+				"D- Chỉ được nói xen vào khi người khác đang liên lạc trên tần số bộ đàm khai thác thông thường"
+			],
+			"correctOption": 1,
+			"points": 10
+		}
+  ]
+}
