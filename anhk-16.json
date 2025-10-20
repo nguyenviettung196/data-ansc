@@ -1,0 +1,550 @@
+{
+	"questions": [
+		{
+			"question": "1. Quyết định ban hành danh mục vật phẩm nguy hiểm nào đang có hiệu lực thi hành?",
+			"options": [
+				"A- Quyết định 1531/QĐ-CHK",
+				"B- Quyết định 959/QĐ-CHK",
+				"C- Quyết định 1541/QĐ-CHK",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "2. Cơ quan nào ban hành Danh mục vật phẩm nguy hiểm cấm, hạn chế mang vào khu vực hạn chế, mang lên tàu bay?",
+			"options": [
+				"A- Bộ Giao thông vận tải",
+				"B- Cục Hàng không Việt Nam",
+				"C- Cảng vụ hàng không miền Bắc",
+				"D- Bộ Công an"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "3. Căn cứ Quyết định số 1541/QĐ-CHK, ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam ban hành Danh mục vật phẩm nguy hiểm cấm, hạn chế mang vào khu vực hạn chế, mang lên tàu bay, vật phẩm nguy hiểm được phân loại như thế nào?",
+			"options": [
+				"A- Vật phẩm nguy hiểm cấm mang vào khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Vật phẩm nguy hiểm cấm mang lên khoang hàng tàu bay",
+				"C- Vật phẩm nguy hiểm hạn chế mang theo người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "4. Chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "5. Các vật mô phỏng giống một vật (thiết bị) nổ sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "6. Các vật dụng, đồ chơi giống vũ khí thật như súng, bom, mìn, lựu đạn, đạn, ngư lôi, thủy lôi, vỏ đạn, các vật được chế tác từ vỏ đạn sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Súng la-de hoặc thiết bị phát tia la-de (trừ bút la-de dùng trong giảng dạy, thuyết trình) sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "8. Dao lam, dao rọc giấy sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "9. Dụng cụ võ thuật có đầu nhọn hoặc cạnh sắc: các loại dao găm, kiếm, gươm, giáo, mác, lưỡi lê, đao, mã tấu, quả đấm, quả chùy, cung, tên, nỏ… sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "10. Đèn khò sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "11. Xà beng, cuốc, thuổng, xẻng, mai, liềm, tràng, đục, cuốc chim sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "12. Khoan và mũi khoan, bao gồm cả khoan bằng tay sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "13. Các loại cưa, lưỡi cưa bao gồm cả cưa bằng tay sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "14. Dụng cụ bắn vít, bắn đinh sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "15. Các loại dùi cui như dùi cui cao su, dùi cui kim loại, dùi cui gỗ sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "16. Các loại gậy thể thao như gậy đánh bóng chày, gậy đánh gôn, gậy chơi khúc côn cầu, gậy chơi bi-a, gậy trượt tuyết sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "17. Dụng cụ, thiết bị tập luyện võ thuật sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "19. Các loại ngòi nổ, dây cháy chậm sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "20. Mìn, lựu đạn, thiết bị nổ quân dụng khác sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "21. Các loại pháo như pháo nổ, pháo hoa nổ, pháo hoa, pháo bông, pháo sáng, pháo hiệu và thuốc pháo sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "22. Đạn khói, quả tạo khói sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "23. Các loại thuốc nổ, thuốc súng, chất nổ dẻo sẽ bị cấm mang vào khu vực/khoang nào của tàu bay?",
+			"options": [
+				"A- Khu vực hạn chế, khoang hành khách của tàu bay",
+				"B- Khoang hàng tàu bay",
+				"C- Người, hành lý lên tàu bay",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "24. Xe lăn chạy bằng pin hoặc các thiết bị hỗ trợ di chuyển tương tự khác chạy bằng pin Lithium-ion được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "25. Các thiết bị y tế điện tử cầm tay sử dụng pin lithium metal chứa ít hơn 02 gam lithium hoặc pin lithium ion có công suất dưới 100 Wh được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "26. Pin dự phòng cho các thiết bị y tế điện tử cầm tay sử dụng pin lithium metal chứa ít hơn 02 gam lithium hoặc pin lithium ion có công suất dưới 100 Wh được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "27. Pin dự phòng cho các thiết bị y tế điện tử cầm tay sử dụng pin lithium metal chứa từ 02 gam đến 08 gam lithium hoặc pin lithium ion có công suất từ 100 Wh đến 160 Wh không được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "28. Nhiệt kế hoặc dụng cụ đo nhiệt độ y tế loại nhỏ chứa thủy ngân được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "29. Đồ trang điểm, vệ sinh cá nhân (bao gồm cả bình xịt) được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "30. Máy uốn tóc có chứa khí hydrocarbon được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "32. Mỗi hành khách được phép mang bao nhiêu lít đồ uống có cồn trên 24% đến 70 % nồng độ cồn?",
+			"options": [
+				"A- 03 lít",
+				"B- 04 lít",
+				"C- 05 lít",
+				"D- Không bị hạn chế"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+
+		{
+			"question": "33. Mỗi hành khách được phép mang bao nhiêu lít đồ uống có cồn từ 24% nồng độ cồn trở xuống?",
+			"options": [
+				"A- 03 lít",
+				"B- 04 lít",
+				"C- 05 lít",
+				"D- Không bị hạn chế"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "34. Mỗi hành khách được phép mang bao nhiêu lít đồ uống có cồn trên 70 % nồng độ cồn?",
+			"options": [
+				"A- Không được phép mang",
+				"B- 03 lít",
+				"C- 04 lít",
+				"D- 05 lít"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "35. Bình xịt không độc hại, không dễ cháy dùng trong thể thao hoặc gia đình được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "36. Bao diêm an toàn loại nhỏ được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "37. Bật lửa nhỏ (loại dùng để hút thuốc lá) được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "38. Bình nhiên liệu và bình ga dự phòng dành cho bật lửa được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Không được phép",
+				"D- Đáp án A, B"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "39. Bật lửa hỗn hợp dạng đèn hàn, đèn khò có nắp chụp bảo vệ ngăn sự kích hoạt vô ý được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "40. Hộp nổ nhỏ gắn trong thiết bị an toàn cá nhân tự làm phồng như áo phao hoặc phao cứu hộ được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "41. Thiết bị điện tử cầm tay dùng để hút thuốc chạy bằng pin, bao gồm thuốc lá điện tử, xì gà điện tử, tẩu điện tử hoặc các thiết bị tương tự được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "42. Các thiết bị điện tử cầm tay chứa pin lithium ion có công suất từ 100 Wh đến 160 Wh được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "43. Mỗi người được phép mang bao nhiêu kg đá khô?",
+			"options": ["A- 2kg", "B- 2,5kg", "C- 3kg", "D- 3,5kg"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "44. Nhiệt kế thủy ngân được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "45. Các loại bóng đèn tiết kiệm năng lượng được phép mang như thế nào lên tàu bay?",
+			"options": [
+				"A- Để trong hành lý ký gửi",
+				"B- Để trong hành lý xách tay",
+				"C- Mang theo người",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "46. Lực lượng kiểm soát an ninh hàng không trong quá trình kiểm tra, soi chiếu an ninh hàng không nếu phát hiện hàng nguy hiểm phải thông báo cho người nào?",
+			"options": [
+				"A- Đại diện của Cảng vụ hàng không",
+				"B- Đại diện của Người khai thác tàu bay",
+				"C- Cục Hàng không Việt Nam",
+				"D- Ban Giám đốc Trung tâm ANHK"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "47. Các vị trí nào của cơ thể thường được sử dụng để che giấu?",
+			"options": [
+				"A- Phần lõm của xương sống, hốc nách",
+				"B- Bụng, lòng bàn chân",
+				"C- Bắp chân, đùi",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "48. Các thủ đoạn che giấu VPNH nào sau đây có thể được sử dụng trên người?",
+			"options": [
+				"A- Che giấu trên đầu",
+				"B- Che giấu tại các lỗ tự nhiên, các vùng lõm của cơ thể",
+				"C- Đóng giả hoặc lợi dụng các vết thương phải băng bó, các bộ phận chân tay giả",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "49. Các thủ đoạn che giấu VPNH nào sau đây có thể được sử dụng trong hành lý?",
+			"options": [
+				"A- Giấu trong thiết bị điện tử",
+				"B- Giấu trong khung tranh, tượng, sách",
+				"C- Giấu trong thực phẩm, trái cây, đồ tiêu dùng",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "50. Các thủ đoạn che giấu VPNH nào sau đây có thể được sử dụng trong hàng hoá?",
+			"options": [
+				"A- Che giấu vũ khí, bộ phận vũ khí, công cụ hỗ trợ",
+				"B- Che giấu ma túy trong đồ vật",
+				"C- Che giấu vật liệu nổ tự tạo trong động cơ xe ô tô",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},{
+			"question": "51. Vật phẩm nguy hiểm có thể được che giấu tại các khu vực nào trên phương tiện?",
+			"options": [
+				"A- Trong cabin",
+				"B- Dưới gầm",
+				"C- Khu vực động cơ",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},{
+			"question": "52. Vật phẩm nguy hiểm có thể được che giấu tại các vị trí nào sau đây?",
+			"options": [
+				"A- Dưới bồn rửa tay trong nhà vệ trong hộp đèn trang trí trên tường, trong chậu cây cảnh",
+				"B- Dưới mặt bàn, gầm ghế",
+				"C- Trên trần thạch cao, trong tủ điện",
+				"D- Đáp án A, B, C"
+			],
+			"correctOption": 3,
+			"points": 10
+		}
+
+
+	]
+}

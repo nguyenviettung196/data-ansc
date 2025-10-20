@@ -1,0 +1,571 @@
+{
+	"questions": [
+		{
+			"question": "Câu 71: Cá nhân nào sau đây có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng?",
+			"options": [
+				"A- Chủ tịch Uỷ ban nhân dân phường.",
+				"B- Người khai thác cảng hàng không, sân bay.",
+				"C- Thanh tra giao thông.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 72: Lực lượng Công an nhân dân được quyền xử phạt vi phạm hành chính trong trường hợp nào sau đây?",
+			"options": [
+				"A- Các hành vi vi phạm hành chính trong lĩnh vực hàng không dân dụng về an ninh trật tự và an toàn xã hội tại các khu vực công cộng ở cảng hàng không sân bay do các cơ quan trong ngành hàng không dân dụng chuyển giao.",
+				"B- Hành vi vi phạm hành chính được phát hiện trong quá trình triển khai thực hiện phương án khẩn nguy.",
+				"C- Các hành vi vi phạm hành chính trong lĩnh vực hàng không dân dụng về an ninh trật tự và an toàn xã hội tại các khu vực hạn chế ở Cảng hàng không sân bay.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 73: Nghị định số 96/2021/NĐ-CP của Thủ tướng Chính phủ là quy định về nội dung nào sau đây?",
+			"options": [
+				"A- Công tác quản lý vũ khí, công cụ hỗ trợ, vật liệu nổ,",
+				"B- Quy định về an ninh hàng không.",
+				"C- Quy định về xử phạt hành chính trong lĩnh vực hàng không dân dụng.",
+				"D- Công tác bảo đảm chuyến bay chuyên cơ, chuyên khoang."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 74: Theo Nghị định 96/2021/NĐ-CP ngày 02/11/2021, các nguyên tắc thực hiện công tác bảo đảm chuyến bay chuyên cơ, chuyên khoang là gì?",
+			"options": [
+				"A- Bảo đảm tiêu chuẩn chuyên cơ, chuyên khoang theo quy định; Bảo đảm an ninh, an toàn tuyệt đối.",
+				"B- Bảo đảm nghi lễ đón, tiễn chuyến bay chuyên cơ, chuyên khoang theo quy định.",
+				"C- Bảo đảm bí mật Kế hoạch đảm bảo an ninh cho đối tượng chuyên cơ, chuyên khoang theo quy định pháp luật.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 75: Chuyến bay chuyên cơ là gì?",
+			"options": [
+				"A- Là chuyến bay sử dụng tàu bay riêng biệt chở một trong các đối tượng được phục vụ chuyến bay chuyên cơ, chuyên khoang của Việt Nam được cơ quan nhà nước có thẩm quyền thông báo theo quy định.",
+				"B- Là chuyến bay được sử dụng hoàn toàn riêng biệt vận chuyển thương mại và được cơ quan nhà nước có thẩm quyền xác nhận hoặc thông báo theo quy định.",
+				"C- Là chuyến bay được sử dụng kết hợp vận chuyển thương mại và được cơ quan nhà nước có thẩm quyền xác nhận hoặc thông báo theo quy định.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 76: Khái niệm \"Chuyến bay chuyên cơ, chuyên khoang của Việt Nam\" là?",
+			"options": [
+				"A- Chuyến bay do hãng hàng không của Việt Nam hoặc do đơn vị thuộc Bộ Quốc Phòng thực hiện chở một trong các đối tượng được phục vụ chuyến bay chuyên cơ, chuyên khoang của Việt Nam trong, ngoài lãnh thổ Việt Nam.",
+				"B- Chuyến bay chuyên cơ do hãng hàng không của Việt Nam tổ chức thực hiện trong lãnh thổ Việt Nam.",
+				"C- Chuyến bay chuyên cơ do hãng hàng không của Việt Nam hoặc do đơn vị của Bộ Quốc Phòng tổ chức thực hiện ngoài lãnh thổ Việt Nam.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 77: Khái niệm \"Chuyến bay chuyên cơ của nước ngoài\" là?",
+			"options": [
+				"A- Chuyến bay chuyên cơ do hãng hàng không Việt Nam hoặc nước ngoài thực hiện bay đến, bay đi hoặc bay qua lãnh thổ Việt Nam.",
+				"B- Chuyến bay do hãng hàng không nước ngoài hoặc do các cơ quan, tổ chức khác của nước ngoài thực hiện chở Nguyên thủ nước ngoài sử dụng tàu bay riêng biệt bay đến, bay đi, bay trong hoặc bay qua lãnh thổ Việt Nam và vùng thông báo bay do Việt Nam quản lý.",
+				"C- Chuyến bay chuyên cơ do hãng hàng không nước ngoài hoặc do các cơ quan, tổ chức khác của nước ngoài bay qua lãnh thổ Việt Nam.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 78: Cơ quan nào có thẩm quyền thông báo chuyến bay chuyên cơ, chuyên khoang của Việt Nam?",
+			"options": [
+				"A- Văn phòng Trung ương Đảng; Ban Đối ngoại Trung ương Đảng",
+				"B- Văn phòng Chủ tịch nước",
+				"C- Văn phòng Quốc hội; Văn phòng Chính phủ",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 79: Cơ quan nào có thẩm quyền thông báo chuyến bay chuyên cơ của nước ngoài?",
+			"options": [
+				"A- Cục Đối ngoại - Bộ Quốc phòng",
+				"B- Cục Lãnh sự, Cục Lễ tân Nhà nước - Bộ Ngoại giao.",
+				"C- Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Văn phòng Chính phủ; Văn phòng Trung ương Đảng; Ban Đối ngoại Trung ương Đảng",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 80: Cơ quan nào là đầu mối tiếp nhận, triển khai nhiệm vụ bảo đảm chuyến bay chuyên cơ, chuyên khoang của Việt Nam do hãng hàng không của Việt Nam thực hiện và chuyến bay chuyên cơ của nước ngoài?",
+			"options": [
+				"A- Ngừơi khai thác cảng",
+				"B- Cảng vụ Hàng không khu vực",
+				"C- Cục Hàng không Việt Nam",
+				"D- Bộ Giao thông vận tải"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 81: Ngoài chuyến bay chuyên cơ do các hãng hàng không Việt Nam thực hiện, cơ quan nào sau đây được phép thực hiện các chuyến bay chuyên cơ?",
+			"options": [
+				"A- Bộ Công An",
+				"B- Bộ Quốc phòng",
+				"C- Bộ Nội vụ",
+				"D- Bộ Giáo dục và đào tạo"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 82: Đối tượng nào sau đây được phục vụ theo tiêu chuẩn chuyến bay chuyên cơ, chuyên khoang của Việt Nam?",
+			"options": [
+				"A- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam.",
+				"B- Thủ tướng Chính phủ, Chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam.",
+				"C- Chủ tịch Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 83: Cơ quan, đơn vị nào chịu trách nhiệm tổ chức và quản lý bảo đảm hoạt động bay?",
+			"options": [
+				"A- Bộ Giao thông vận tải.",
+				"B- Ủy ban An ninh hàng không dân dụng quốc gia",
+				"C- Cảng vụ hàng không.",
+				"D- Cảng hàng không, sân bay."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 84: Chương trình, quy chế an ninh hàng không quy định nội dung gì?",
+			"options": [
+				"A- Quy định trách nhiệm của cơ quan, tổ chức có liên quan trong việc thực hiện biện pháp bảo đảm an toàn hàng không.",
+				"B- Quy định trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong việc thực hiện quy trình, thủ tục, biện pháp bảo đảm an ninh hàng không.",
+				"C- Quy định trách nhiệm của tổ chức, cá nhân có liên quan trong việc thực hiện quy trình kiểm soát chất lượng an ninh hàng không.",
+				"D- Quy định trách nhiệm của cảng hàng không trong việc thực hiện biện pháp bảo đảm an ninh hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 85: Hệ thống thẻ, giấy phép kiểm soát an ninh hàng không, bao gồm những loại nào dưới đây?",
+			"options": [
+				"A- Thẻ, giấy phép kiểm soát an ninh cảng hàng không, sân bay loại có giá trị sử dụng dài hạn và loại có giá trị sử dụng ngắn hạn cấp cho người, phương tiện được phép vào và hoạt động tại các khu vực hạn chế của cảng hàng không, sân bay.",
+				"B- Thẻ, giấy phép kiểm soát an ninh nội bộ loại có giá trị sử dụng dài hạn và loại có giá trị sử dụng ngắn hạn được phép vào và hoạt động tại các khu vực hạn chế riêng của doanh nghiệp.",
+				"C- Thẻ nhận dạng tổ bay của hãng hàng không được phép vào và hoạt động tại các khu vực hạn chế có liên quan đến nhiệm vụ của tổ bay.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 86: Cơ quan, đơn vị nào thống nhất cách thức, biện pháp bảo mật đối với từng loại thẻ, giấy phép kiểm soát an ninh hàng không?",
+			"options": [
+				"A- Bộ giao thông vận tải",
+				"B- Cục hàng không Việt Nam",
+				"C- Cảng vụ hàng không",
+				"D- Người khai thác cảng hàng không sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 87: Thời hạn, hiệu lực của thẻ kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng ngắn hạn tối đa bao lâu?",
+			"options": [
+				"A- 7 ngày kể từ thời điểm thẻ được cấp có hiệu lực.",
+				"B- 10 ngày kể từ thời điểm thẻ được cấp có hiệu lực.",
+				"C- 15 ngày kể từ thời điểm thẻ được cấp có hiệu lực.",
+				"D- 30 ngày kể từ thời điểm thẻ được cấp có hiệu lực."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 88: Thẻ kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn có các thông tin cơ bản nào sau đây?",
+			"options": [
+				"A- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên của người được cấp thẻ, chức danh của người được cấp thẻ.",
+				"B- Tên cơ quan, đơn vị của người được cấp thẻ; ảnh của người được cấp thẻ; khu vực hạn chế được phép vào và hoạt động; quy định về sử dụng thẻ.",
+				"C- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên của người được cấp thẻ, chức danh của người được cấp thẻ; số chứng minh thư nhân dân, thẻ căn cước công dân.",
+				"D- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 89: Thẻ, giấy phép kiểm soát an ninh hàng không bị mất giá trị sử dụng trong các trường hợp nào?",
+			"options": [
+				"A- Thẻ, giấy phép bị hỏng; nội dung trên thẻ, giấy phép bị mờ; không còn dấu hiệu bảo mật",
+				"B- Người được cấp thẻ không còn đáp ứng về đối tượng, điều kiện cấp thẻ",
+				"C- Phương tiện được cấp giấy phép không còn đáp ứng đối tượng, điều kiện cấp giấy phép",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 90: Lực lượng kiểm soát an ninh hàng không bao gồm những lực lượng nào dưới đây?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không của đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không.",
+				"B- Lực lượng kiểm soát an ninh hàng không của doanh nghiệp cung cấp dịch vụ không lưu; doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay; doanh nghiệp cung cấp dịch vụ xăng dầu hàng không, doanh nghiệp cung cấp dịch vụ suất ăn hàng không.",
+				"C- Lực lượng kiểm soát an ninh hàng không của hãng hàng không Việt Nam, doanh nghiệp kinh doanh hàng không chung.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 91: Việc kiểm tra, giám sát việc tuân thủ các quy định của pháp luật về bảo đảm an ninh hàng không; các chương trình, quy chế an ninh hàng không dân dụng tại cảng hàng không, sân bay thuộc trách nhiệm của cơ quan, đơn vị nào?",
+			"options": [
+				"A- Cục Hàng không Việt Nam.",
+				"B- Bộ Giao thông vận tải.",
+				"C- Cảng vụ hàng không.",
+				"D- Lực lượng kiểm soát an ninh hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 92: Đối tượng áp dụng của Thông tư 13/2019/TT-BGTVT quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam, bao gồm?",
+			"options": [
+				"A- Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài hoạt động hàng không dân dụng tại Việt Nam hoặc hoạt động hàng không dân dụng trong vùng thông báo bay do Việt Nam quản lý.",
+				"B- Tổ chức, cá nhân Việt Nam hoạt động hàng không dân dụng ở nước ngoài nếu pháp luật của nước ngoài không có quy định khác.",
+				"C- Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài sử dụng tàu bay công vụ nhằm mục đích dân dụng.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 93: Việc vận chuyển hàng nguy hiểm bằng đường hàng không phải tuân thủ các quy định nào?",
+			"options": [
+				"A- Hàng nguy hiểm phải được đóng gói, dán nhãn đúng quy định và khai báo trước khi chấp nhận để vận chuyển",
+				"B- Hãng hàng không chịu trách nhiệm kiểm tra, xác định sự tuân thủ các quy định về vận chuyển hàng nguy hiểm bằng đường hàng không trước khi chấp nhận vận chuyển hàng nguy hiểm",
+				"C- Hàng nguy hiểm phải được đóng gói, dán nhãn đúng quy định và khai báo trước khi chấp nhận để vận chuyển. Hãng hàng không chịu trách nhiệm kiểm tra, xác định sự tuân thủ các quy định về vận chuyển hàng nguy hiểm bằng đường hàng không trước khi chấp nhận vận chuyển hàng nguy hiểm.",
+				"D- Đáp án A và C đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 94: Hành khách không làm chủ được hành vi bao gồm những trường hợp nào sau đây?",
+			"options": [
+				"A- Mất khả năng nhận thức hoặc mất khả năng điều khiển làm chủ hành vi của mình do bị bệnh tâm thần.",
+				"B- Mất khả năng nhận thức hoặc mất khả năng điều khiển làm chủ hành vi của mình do sử dụng rượu bia hoặc chất kích thích.",
+				"C- Hành khách là người khuyết tật.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 95: Lực lượng nào chịu trách nhiệm kiểm tra, giám sát an ninh đối với người, phương tiện, đồ vật đưa vào, ra và hoạt động tại khu vực hạn chế của cảng hàng không, sân bay?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không.",
+				"B- Lực lượng bảo vệ của doanh nghiệp.",
+				"C- Cảng vụ hàng không khu vực.",
+				"D- Công an địa phương."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 96: Cơ quan nào thực hiện kiểm tra, đánh giá, thử nghiệm công khai, bí mật, điều tra tại tất cả các cảng hàng không, sân bay, cơ sở cung cấp dịch vụ hàng không, hãng hàng không và các phương tiện, trang bị, thiết bị hoạt động hàng không dân dụng trong cả nước?",
+			"options": [
+				"A- Bộ Giao thông vận tải",
+				"B- Cục hàng không Việt Nam",
+				"C- Cảng Vụ hàng không",
+				"D- Người khai thác Cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 97: Giám sát viên an ninh hàng không là người thuộc cơ quan, đơn vị nào dưới đây?",
+			"options": [
+				"A- Cảng vụ hàng không và Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không và Người khai thác Cảng",
+				"C- Cục Hàng không Việt Nam và Người khai thác Cảng",
+				"D- Người khai thác Cảng và Hãng hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 98: Xử lý vụ việc vi phạm an ninh hàng không dựa trên nguyên tắc nào sau đây?",
+			"options": [
+				"A- Báo cáo lãnh đạo các cấp xin ý kiến chỉ đạo và tiến hành các biện pháp xử lý tiếp theo.",
+				"B- Không để vi phạm lan rộng và hạn chế tới mức thấp nhất hậu quả xảy ra.",
+				"C- Kịp thời, nhanh chóng, không để vi phạm lan rộng và hạn chế tới mức thấp nhất hậu quả xảy ra.",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 99: Lực lượng nào chịu trách nhiệm xử lý ban đầu các vụ việc vi phạm an ninh hàng không, trật tự công cộng xảy ra tại cảng hàng không sân bay thuộc quyền quản lý?",
+			"options": [
+				"A- Cảng vụ hàng không",
+				"B- Lực lượng kiểm soát an ninh hàng không.",
+				"C- Công an, chính quyền địa phương nơi có cảng hàng không sân bay.",
+				"D- Người khai thác cảng hàng không sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 100: Khi nhận được thông tin về một hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng, người khai thác cảng hàng không sân bay, hãng hàng không, đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không, doanh nghiệp cung cấp dịch vụ không lưu có liên quan phải làm gì?",
+			"options": [
+				"A- Phân tích, đánh giá sơ bộ về tính chất của thông tin để xem xét triển khai phương án khẩn nguy thích hợp.",
+				"B- Báo cáo ngay thông tin, kết quả đánh giá và kiến nghị biện pháp đối phó đến cơ quan có thẩm quyền theo quy định.",
+				"C- Huy động lực lượng, phương tiện của đơn vị mình tổ chức đối phó ban đầu theo quy định.",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 101: Cơ quan nào phê duyệt Kế hoạch khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp của cảng hàng không, sân bay xây dựng?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Bộ giao thông vận tải",
+				"C- Tổng công ty Cảng hàng không Việt Nam",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 102: Cục Hàng không Việt Nam phối hợp với những cơ quan, đơn vị nào để thu thập, đánh giá thông tin về tình hình an ninh chính trị, trật tự an toàn xã hội; âm mưu, phương thức, thủ đoạn hoạt động của khủng bố, các tổ chức phản động và các loại tội phạm, âm mưu can thiệp bất hợp pháp vào hoạt động hàng không dân dụng để quyết định áp dụng biện pháp kiểm soát an ninh hàng không tăng cường cho từng cấp độ theo quy định của pháp luật?",
+			"options": [
+				"A- Cơ quan thuộc Bộ Công an, Bộ Quốc phòng và các bộ nghành có liên quan.",
+				"B- Cơ quan thuộc Bộ Công an, Bộ Giao thông vận tải và các bộ nghành có liên quan.",
+				"C- Cơ quan thuộc Bộ Công an, Bộ Quốc phòng và Bộ Giao thông vận tải",
+				"D- Cơ quan thuộc Bộ Công an, Bộ Quốc phòng, Bộ Giao thông vận tải, Bộ Ngoại giao"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 103: Luật số 14/2017/QH14 ngày 20/06/2017 quy định về vấn đề gì?",
+			"options": [
+				"A- Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ",
+				"B- Hàng không dân dụng",
+				"C- Luật tương trợ tư pháp",
+				"D- Luật dân sự"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 104: Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 14/2017/QH14 ngày 20/06/2017 có hiệu lực thi hành từ ngày, tháng, năm nào?",
+			"options": [
+				"A- Ngày 11/07/2017",
+				"B- Ngày 01/01/2018",
+				"C- Ngày 01/07/2018",
+				"D- Ngày 11/07/2018"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 105: Theo quy định tại Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, công cụ hỗ trợ được sử dụng để làm gì?",
+			"options": [
+				"A- Hạn chế, ngăn chặn người có hành vi vi phạm pháp luật chống trả, trốn chạy",
+				"B- Bảo vệ người thi hành công vụ, người thực hiện nhiệm vụ bảo vệ",
+				"C- Báo hiệu khẩn cấp",
+				"D- Đáp án A, B và C đúng.",
+				"E- Đáp án A và B đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 106: Theo quy định tại Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, lực lượng An ninh hàng không được trang bị những loại vũ khí nào?",
+			"options": [
+				"A- Vũ khí thô sơ và vũ khí thể thao",
+				"B- Vũ khí thô sơ và vũ khí quân dụng",
+				"C- Vũ khí thể thao và vũ khí quân dụng",
+				"D- Vũ khí thô sơ, vũ khí thể thao và vũ khí quân dụng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 107: Theo quy định tại Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, loại vũ khí quân dụng nào được trang bị cho lực lượng An ninh hàng không?",
+			"options": [
+				"A- Súng ngắn, súng tiểu liên và đạn sử dụng cho các loại súng này",
+				"B- Súng trung liên, súng đại liên và đạn sử dụng cho các loại súng này",
+				"C- Súng ngắn và đạn sử dụng cho loại súng này",
+				"D- Súng máy có cỡ nòng đến 14,5 mm và đạn sử dụng cho loại súng này"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 108: Theo Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, cá nhân được giao, sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ phải đáp ứng điều kiện nào sau đây?",
+			"options": [
+				"A- Có năng lực hành vi dân sự đầy đủ; có phẩm chất đạo đức tốt, đủ sức khoẻ phù hợp với công việc được giao.",
+				"B- Không đang trong thời gian bị áp dụng biện pháp xử lý hành chính, bị truy cứu trách nhiệm hình sự; đã được xóa án tích trong trường hợp bị kết tội theo bản án, quyết định của Tòa án;",
+				"C- Đã qua đào tạo, huấn luyện và được cấp giấy chứng nhận về sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ.",
+				"D- Đáp án B và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 109: Nghị định số 96/2021/NĐ-CP của Thủ tướng Chính phủ quy định về vấn đề gì?",
+			"options": [
+				"A- Công tác quản lý vũ khí, công cụ hỗ trợ, vật liệu nổ.",
+				"B- Quy định về an ninh hàng không.",
+				"C- Quy định về xử phạt hành chính trong lĩnh vực hàng không dân dụng.",
+				"D- Công tác đảm bảo chuyến bay chuyên cơ, chuyên khoang."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 110: Đơn vị nào sau đây có trách nhiệm chỉ đạo, giám sát các cơ quan, đơn vị trong ngành hàng không thực hiện và phục vụ chuyến bay chuyên cơ, chuyên khoang theo tiêu chuẩn an ninh, an toàn?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng Vụ hàng không, sân bay",
+				"C- Người khai thác cảng hàng không, sân bay",
+				"D- Hãng hàng không phục vụ chuyến bay chuyên cơ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 111: Những đối tượng nào sau đây được trang bị công cụ hỗ trợ?",
+			"options": [
+				"A- Quân đội nhân dân; Dân quân tự vệ; Cảnh sát biển; Công an nhân dân; Cơ yếu; Cơ quan điều tra của Viện kiểm sát nhân dân tối cao; Cơ quan thi hành án dân sự.",
+				"B- Kiểm lâm, lực lượng bảo vệ rừng chuyên trách, Kiểm ngư, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành thủy sản; Hải quan cửa khẩu, lực lượng chuyên trách chống buôn lậu của Hải quan; Đội kiểm tra của lực lượng Quản lý thị trường.",
+				"C- An ninh hàng không, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành giao thông vận tải; Lực lượng bảo vệ cơ quan, tổ chức, doanh nghiệp; doanh nghiệp kinh doanh dịch vụ bảo đảm an ninh hàng không; Ban Bảo vệ dân phố; Câu lạc bộ, cơ sở đào tạo, huấn luyện thể thao có giấy phép hoạt động; Cơ sở cai nghiện ma túy; Các đối tượng khác có nhu cầu trang bị công cụ hỗ trợ thì căn cứ vào tính chất, yêu cầu, nhiệm vụ, Bộ trưởng Bộ Công an quyết định.",
+				"D- Đáp án A và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 112: Khi thực hiện nhiệm vụ bảo đảm an ninh, trật tự, an toàn xã hội, việc sử dụng vũ khí quân dụng phải tuân theo nguyên tắc nào sau đây?",
+			"options": [
+				"A- Phải căn cứ vào tình huống, tính chất, mức độ nguy hiểm của hành vi mà đối tượng thực hiện để quyết định việc sử dụng vũ khí quân dụng.",
+				"B- Chỉ sử dụng vũ khí quân dụng khi không còn biện pháp nào khác để ngăn chặn hành vi của đối tượng và sau khi đã cảnh báo mà đối tượng không tuân theo. Nếu việc sử dụng vũ khí quân dụng không kịp thời sẽ đe dọa trực tiếp đến tính mạng, sức khỏe của người thi hành công vụ, người khác hoặc có thể gây ra những hậu quả đặc biệt nghiêm trọng khác thì được sử dụng ngay.",
+				"C- Không sử dụng vũ khí quân dụng khi biết rõ đối tượng là phụ nữ, người khuyết tật, trẻ em, người cao tuổi, trừ trường hợp những người này sử dụng vũ khí, vật liệu nổ tấn công hoặc chống trả, đe dọa tính mạng, sức khỏe của người thi hành công vụ hoặc người khác.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 113: Trách nhiệm của Bộ Giao thông vận trong Luật phòng chống khủng bố là gì?",
+			"options": [
+				"A- Chỉ đạo cơ quan, đơn vị thuộc quyền sẵn sàng tham gia phòng, chống khủng bố theo quyết định huy động của người có thẩm quyền.",
+				"B- Phối hợp với Bộ Công an, Bộ Quốc phòng, các bộ, ngành liên quan và Ủy ban nhân dân địa phương xây dựng, huấn luyện, diễn tập, tổ chức thực hiện các phương án phòng, chống cướp tàu bay, tàu biển, bắt cóc con tin, gây nổ trên tàu bay, tàu biển, tàu hỏa và các phương tiện giao thông công cộng khác, bảo vệ an toàn các sân bay, bến cảng, nhà ga, bến xe",
+				"C- Phối hợp với Bộ Công an, Bộ Quốc phòng và Ủy ban nhân dân địa phương bảo vệ an ninh, trật tự tại các khu vực sân bay, nhà ga, bến tàu, bến xe, cảng biển, cầu, hầm đường bộ quan trọng; kiểm soát người điều khiển, hành khách và phương tiện giao thông vận tải để phát hiện, ngăn chặn và xử lý các hoạt động khủng bố.",
+				"D- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 114: Theo Luật Phòng, chống khủng bố số 28/2013/QH13 ngày 12/06/2013, thông tin, tuyên truyền, giáo dục về phòng, chống khủng bố gồm những nội dung nào?",
+			"options": [
+				"A- Nguy cơ, diễn biến, tình hình khủng bố; thủ đoạn, phương thức hoạt động, tính chất nguy hiểm, tác hại của khủng bố.",
+				"B- Biện pháp, kinh nghiệm, chính sách, pháp luật về phòng, chống khủng bố.",
+				"C- Trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống khủng bố.",
+				"D- Các nội dung cần thiết khác phục vụ cho yêu cầu phòng, chống khủng bố.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		},
+		{
+			"question": "Câu 115: Theo Quyết định 16/2017/QĐ-TTg ngày 16/5/2017 của Thủ tướng Chính phủ về Phương án khẩn nguy tổng thể đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng, người khai thác cảng hàng không, sân bay tổ chức diễn tập phương án đối phó tình huống khẩn nguy cấp cơ sở theo đáp án nào sau đây?",
+			"options": [
+				"A- Tổ chức đối với các tình huống cấp độ 1.",
+				"B- Tổ chức đối với các tình huống cấp độ 1 hoặc một phần của tình huống cấp độ 2.",
+				"C- Tổ chức đối với các tình huống cấp độ 1 hoặc cấp độ 2.",
+				"D- Tổ chức đối với các tình huống cấp độ 2 hoặc cấp độ 3."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 116: Bảo đảm an ninh hàng không được thực hiện bằng các biện pháp nào sau đây?",
+			"options": [
+				"A- Chọn người có năng lực hành vi dân sự đầy đủ; có phẩm chất đạo đức tốt, đủ sức khoẻ phù hợp.",
+				"B- Thiết lập khu vực hạn chế tại cảng hàng không, sân bay và nơi có công trình, trang bị, thiết bị hàng không để bảo vệ tàu bay và công trình, trang bị, thiết bị tại khu vực đó.",
+				"C- Kiểm tra, soi chiếu, giám sát an ninh hàng không đối với tàu bay, phương tiện, người, hành lý, hàng hoá, việc ra, vào và hoạt động trong khu vực hạn chế theo quy định; lục soát đối với tàu bay, phương tiện, người, hành lý, hàng hoá khi có dấu hiệu uy hiếp an ninh hàng không.",
+				"D- Đáp án B và C đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 117: Quyết định nào sửa đổi, bổ sung một số điều của Quyết định số 16/2017/QĐ-TTg ngày 16/5/2017 của Thủ tướng Chính phủ về Phương án khẩn nguy tổng thể đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Nghị định số 81/2010/NĐ-CP.",
+				"B- Quyết định số 01/2019/QĐ-TTg.",
+				"C- Nghị định số 92/2015/NĐ-CP.",
+				"D- Thông tư 01/2016/TT-BGTVT"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 118: Cơ quan đơn vị nào là Ban chỉ đạo khẩn nguy hàng không quốc gia khi chỉ đạo đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Uỷ ban an ninh hàng không dân dụng quốc gia",
+				"B- Bộ Công An",
+				"C- Bộ Giao thông vận tải",
+				"D- Bộ Quốc phòng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 119: Cơ quan, đơn vị nào ban hành quyết định cấm vận chuyển bằng đường hàng không có thời hạn hoặc vĩnh viễn đối với hành khách có các hành vi vi phạm theo quy định của pháp luật?",
+			"options": [
+				"A- Cục hàng không Việt Nam",
+				"B- Lực lượng kiểm soát an ninh hàng không",
+				"C- Công an địa phương",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 120: Biện pháp kiểm tra, giám sát an ninh hàng không khu vực cách ly?",
+			"options": [
+				"A- Khu vực cách ly phải được kiểm tra an ninh hàng không trước khi đưa vào khai thác hàng ngày và giám sát an ninh chặt chẽ, liên tục trong suốt thời gian khai thác.",
+				"B- Khi không hoạt động, tất cả cửa vào, cửa ra của khu vực cách ly phải được khoá hoặc có nhân viên kiểm soát an ninh hàng không canh gác, bảo vệ.",
+				"C- Trình tự, thủ tục kiểm tra, giám sát an ninh hàng không đối với khu vực cách ly phải được quy định cụ thể, chi tiết tại quy chế an ninh hàng không của đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không",
+				"D- Đáp án A và B đúng.",
+				"E- Đáp án A, B và C đúng."
+			],
+			"correctOption": 4,
+			"points": 10
+		}
+	]
+}

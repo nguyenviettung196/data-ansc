@@ -1,0 +1,413 @@
+{
+	"questions": [
+		{
+			"question": "1. Trước khi đưa máy vào khai thác đầu ca trực, hoặc khi máy đang hoạt động bị mất điện phải thực hiện như thế nào?",
+			"options": [
+				"A- Khởi động máy theo quy trình, soi chiếu bình thường",
+				"B- Khởi động máy theo quy trình, ghi sổ nhật ký",
+				"C- Khởi động máy theo quy trình, ghi sổ nhật ký và báo cáo cán bộ trực.",
+				"D- Khởi động máy theo quy trình, phải thực hiện quy trình test máy theo quy định."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "2. Chức năng X-ACT trên máy soi HEIMANN đóng khung các đồ vật theo nguyên tắc nào?",
+			"options": [
+				"A- Các đồ vật có mật độ phân tử giống hoặc gần giống chất nổ được đóng khung màu đỏ",
+				"B- Các đồ vật có mật độ phân tử cao, hấp thu tia X nhiều sẽ được đóng khung màu xanh dương",
+				"C- Các đồ vật có mật độ phân tử giống hoặc gần giống chất ma túy được đóng khung màu xanh lá cây",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "3. Nếu chọn tính năng quan sát tách biệt chất vô cơ thì trên màn hình máy soi tia X chỉ hiển thị chất gì?",
+			"options": [
+				"A- Chất hữu cơ",
+				"B- Chất vô cơ",
+				"C- Không thể hiện chất gì",
+				"D- Chất hữu cơ, vô cơ"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "4. Trước khi khởi động may soi cần kiểm tra?",
+			"options": [
+				"A- Kiểm tra dây nguồn nối máy soi với hệ thống cấp điện.",
+				"B- Kiểm tra các vách che máy, tấm chì bảo đảm phải được khoá kỹ",
+				"C- Kiểm tra băng tải, con lăn, bên trong khoang soi của máy, bảo đảm không có bất cứ vật gì nằm trên băng tải, con lăn, bên trong khoang soi của máy",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "5. Quy định an toàn khi sử dụng máy soi?",
+			"options": [
+				"A- Không đi, đứng, nằm, ngồi trên trên băng tải, con lăn kể cả khi máy không hoạt động",
+				"B- Không đụng chạm vào các bộ phận chuyển động của máy soi",
+				"C- Không mở rèm che 02 đầu máy soi hoặc các tấm chì xung quanh máy khi máy đang hoạt động",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "6. Việc giám sát việc hành khách mang vũ khí, công cụ hỗ trợ ra khỏi khu vực hạn chế cảng hàng không, sân bay là trách nhiệm của đơn vị/lực lượng nào?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Cảng vụ hàng không",
+				"C- Hãng hàng không",
+				"D- Cục Hàng không Việt Nam."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Trường hợp phát hiện hành khách cố tình và có dấu hiệu nghi vấn mang vật phẩm nguy hiểm theo người lên tàu bay, là một nhân viên kiểm soát ANHK anh/chị sẽ xử lý như thế nào?",
+			"options": [
+				"A- Yêu cầu hành khách phải bỏ vật phẩm nguy hiểm trên vào nơi quy định.",
+				"B- Thông báo cho Hãng vận chuyển",
+				"C- Thông báo cho hành khách biết những đồ vật này sẽ không được phép mang lên tàu bay.",
+				"D- Phải báo cáo ngay cho cán bộ Đội để giải quyết"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "8. Thông tư 13/2019/TT-BGTVT của Bộ giao thông vận tải quy định về vấn đề gì?",
+			"options": [
+				"A- Quy định chi tiết Chương trình an ninh hàng không",
+				"B- Quy định về Kiểm soát chất lượng an ninh hàng không Việt Nam",
+				"C- Quy định chi tiết Chương trình an ninh hàng không và Kiểm soát chất lượng an ninh hàng không Việt Nam",
+				"D- Qui định về xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "9. Trường hợp nào sau đây được miễn kiểm tra soi chiếu tia X ?",
+			"options": [
+				"A- Thi thể người vận chuyển bằng tàu bay được đặt trong hòm kẽm gắn kín. Quá trình đóng gói và niêm phong hòm kẽm phải được cơ quan y tế có thẩm quyền giám sát. Hòm kẽm phải còn nguyên niêm phong và có văn bản xác nhận của cơ quan y tế giám sát kèm theo giấy chứng tử.",
+				"B- Các sản phẩm làm từ máu, bộ phận nội tạng dùng cho việc cấy ghép, vắc-xin, các loại dược phẩm phải duy trì đóng gói kín. Bao bì phải có niêm phong, kèm theo văn bản xác nhận của cơ quan y tế có thẩm quyền.",
+				"C- Những hàng hóa nguy hiểm mà việc soi chiếu hoặc kiểm tra trực quan sẽ gây nguy hiểm cho tính mạng, sức khỏe của nhân viên kiểm soát an ninh hàng không như các vật liệu cho nghiên cứu hạt nhân, vật liệu phóng xạ. Bao bì phải có niêm phong, kèm theo văn bản xác nhận tình trạng đóng gói an toàn, văn bản đề nghị của cơ quan nhà nước có thẩm quyền.",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "10. Hành khách, hành lý nghi ngờ là gì?",
+			"options": [
+				"A- Hành khách, hành lý có những dấu hiệu bên ngoài bất thường có thể quan sát được như bất thường về hình dáng, kích thước.",
+				"B- Có thông tin cung cấp về đối tượng hành khách, hành lý có dấu hiệu nghi ngờ.",
+				"C- Hành khách, hành lý có kích thước, trọng lượng, trạng thái bất thường",
+				"D- Hành khách, hành lý có những dấu hiệu bên ngoài bất thường có thể quan sát được như bất thường về hình dáng, kích thước, trọng lượng, trạng thái, quy luật,... hoặc có thông tin cung cấp về đối tượng hành khách, hành lý có dấu hiệu nghi ngờ"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "11. Lực lượng ANHK sẽ xử lý như thế nào khi hành khách từ chối soi chiếu, kiểm tra trực quan, lục soát an ninh?",
+			"options": [
+				"A- Từ chối hoàn thành thủ tục an ninh hàngkhông đối với hành khách và phối hợp với đại diện Hãng hàng không lập biên bản từ chối vận chuyển đối với hành khách.",
+				"B- Phối hợp với Cảng vụ hàng không khu vực lập biên bản ghi nhận sự việc và giải quyết cho khách bay",
+				"C- Phối hợp với Công an lập biên bản từ chối vận chuyển đối với hành khách.",
+				"D- Từ chối hoàn thành thủ tục an ninh hàngkhông đối với hành khách và phối hợp với Đội an ninh cơ động lập biên bản từ chối vận chuyển đối với hành khách."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "12. Phần mềm X-ACT trên máy soi có tính năng hỗ trợ dò tìm vật, chất gì?",
+			"options": [
+				"A- Kim loại.",
+				"B- Chất lỏng.",
+				"C- Vũ khí.",
+				"D- Chất nổ."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "13. Quy trình xử lý khi phát hiện hoặc nghi vấn bom, mìn, vật liệu nổ, tiền chất thuốc nổ, chất cháy, vật liệu phóng xạ, chất độc có nguy cơ gây nguy hiểm?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không phải lập tức đánh giá nguy cơ để có biện pháp xử lý thích hợp.",
+				"B- Trường hợp là bom, mìn, vật liệu nổ nếu không biết rõ về cơ chế nổ thì để nguyên tại chỗ, nhanh chóng phong tỏa khu vực đó sơ tán hành khách đến nơi an toàn.",
+				"C- Thông báo ngay cho lực lượng phá dỡ bom mìn của ngành công an, quân đội đến để tháo gỡ",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "14. Các trường hợp nào phải tiến hành kiểm tra trực quan đối với người tại các điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Kiểm tra trong trường hợp tăng cường an ninh.",
+				"B- Không có thiết bị kiểm tra an ninh hoặc trong trường hợp mất điện.",
+				"C- Khi có yêu cầu riêng.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "15. Khi phát hiện vũ khí trong hành lý của hành khách đi tàu bay thì nhân viên an ninh soi chiếu phải thực hiện hành động nào trước?",
+			"options": [
+				"A- Yêu cầu hành khách xuất trình giấy tờ liên quan",
+				"B- Báo cáo cán bộ phụ trách",
+				"C- Cách ly, không cho hành khách tiếp xúc với vũ khí.",
+				"D- Bao đội an ninh cơ động để phối hợp"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "16. Theo Thông tư 13/2019/TT-BGTVT, trường hợp thi thể người vận chuyển bằng tàu bay đặt trong hòm kẽm được gắn kín, việc kiểm tra an ninh hàng không được thực hiện như thế nào?",
+			"options": [
+				"A- Miễn soi chiếu và kiểm tra trực quan đồng thời phải được kiểm tra bằng dụng cụ, thiết bị phát hiện chất nổ.",
+				"B- Phải soi chiếu bằng máy soi tia X, miễn kiểm tra trực quan.",
+				"C- Phải thực hiện kiểm tra trực quan.",
+				"D- Thực hiện kiểm tra như đối với hàng hóa thông thường."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "17. Khi soi qua máy phát hiện 01 khẩu súng quân dụng trong hành lý ký gửi của khách, không có đạn. Nhân viên an ninh xử lý thế nào?",
+			"options": [
+				"A- Cho hành lý đi bình thường vì không ảnh hưởng tới an ninh của chuyến bay",
+				"B- Dừng ngay kiện hành lý để kiểm tra, xử lý theo quy định",
+				"C- Báo cho khách lấy lại khẩu súng.",
+				"D- Cho hành lý đi bình thường vì không ảnh hưởng tới an ninh của chuyến bay, báo cáo cán bộ trực"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "18. Tỷ lệ kiểm tra trực quan, ngẫu nhiên đối với hành khách, hành lý đã qua cổng từ mà không có báo động và máy soi chiếu an ninh không có hình ảnh nghi vấn trong trường hợp tăng cường an ninh cấp độ 1 là bao nhiêu %?",
+			"options": ["A- 10%.", "B- 15%.", "C- 20%.", "D- 25%."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "19. Việc kiểm tra soi chiếu an ninh được thực hiện như thế nào đối với các trường hợp hành khách đặc biệt (như: tàn tật, thương binh, bệnh nhân sử dụng xe đẩy, cáng cứu thương, …)?",
+			"options": [
+				"A- Kiểm tra như hành khách bình thường.",
+				"B- Miễn kiểm tra an ninh hàng không.",
+				"C- Kiểm tra trực quan hoặc các biện pháp thích hợp khác tại nơi phù hợp.",
+				"D- Kiểm tra trực quan."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "20. Tỷ lệ kiểm tra trực quan ngẫu nhiên bổ sung tối thiểu sau kiểm tra soi chiếu an ninh hàng không đối với hành lý xách tay là bao nhiêu %?",
+			"options": ["A- 5%.", "B- 10%.", "C- 15%.", "D- 20%."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "21. Tỷ lệ kiểm tra trực quan ngẫu nhiên tối thiểu đối với người, hành lý không phải là hành khách trong trường hợp cổng từ, thiết bị phát hiện kim loại cầm tay không có báo động, soi chiêu không nghi vấn là bao nhiêu %?",
+			"options": ["A- 3%.", "B- 5%.", "C- 7%.", "D- 10%."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "22. Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam quy định bình khí ôxy hoặc bình khí nhỏ sử dụng trong y tế được phép mang theo người, hành lý xách tay, hành lý ký gửi lên tàu bay phải đáp ứng các điều kiện nào ?",
+			"options": [
+				"A- Tổng khối lượng mỗi bình không quá 5kg.",
+				"B- Xi lanh, van và van xả (nếu có) phải được bảo vệ khỏi những hư hỏng có thể gây thoát khí ngoài ý muốn.",
+				"C- Cơ trưởng phải được thông báo về số lượng bình khí hoặc xi lanh trên tàu bay và vị trí sắp xếp ủa chúng.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "23. Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam, quy định như thế nào về việc mang nhiệt kế hoặc dụng cụ đo nhiệt độ y tế loại nhỏ chứa thủy ngân lên tàu bay?",
+			"options": [
+				"A- Mỗi người được mang theo người một nhiệt kế loại nhỏ có chứa thủy ngân, dùng cho mục đích cá nhân, phải được để trong vỏ bảo vệ.",
+				"B- Mỗi người được mang hành lý xách tay một nhiệt kế loại nhỏ có chứa thủy ngân, dùng cho mục đích cá nhân, phải được để trong vỏ bảo vệ.",
+				"C- Mỗi người được mang hành lý ký gửi một nhiệt kế loại nhỏ có chứa thủy ngân, dùng cho mục đích cá nhân, phải được để trong vỏ bảo vệ.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "24. Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam, quy định thiết bị điện tử cầm tay dùng để hút thuốc chạy bằng pin, bao gồm thuốc lá điện tử, xì gà điện tử, tẩu điện tử hoặc các thiết bị tương tự trong người, hành lý xách tay lên tàu bay tàu bay phải đáp ứng các điều kiện nào sau đây?",
+			"options": [
+				"A- Chỉ sử dụng cho mục đích sử dụng cá nhân.",
+				"B- Mỗi viên pin dự phòng phải được bảo vệ để chống đoản mạch bằng cách đóng gói như khi mới mua hoặc cách điện các đầu cực",
+				"C- Không được phép xạc thiết bị hoặc pin dự phòng trên tàu bay",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "25. Theo Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam, quy định về đồ uống có cồn không được phép mang trong người, hành lý xách tay, hành lý ký gửi lên tàu bay?",
+			"options": [
+				"A- Từ 24% nồng độ cồn trở xuống",
+				"B- Trên 24% đến 70% nồng độ cồn",
+				"C- Trên 70% nồng độ cồn",
+				"D- Không có quy định cụ thể"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "26. Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam quy định như thế nào đối với các vật lưu niệm được chế tác từ vỏ đạn?",
+			"options": [
+				"A- Cấm mang trong hành lý ký gửi lên tàu bay các vật lưu niệm được chế tác từ vỏ đạn.",
+				"B- Được phép mang trong hành lý xách tay lên tàu bay các vật lưu niệm được chế tác từ vỏ đạn.",
+				"C- Được phép mang trong hành lý ký gửi lên tàu bay các vật lưu niệm được chế tác từ vỏ đạn.",
+				"D- Đáp án A,B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "27. Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam quy định như thế nào đối với chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại?",
+			"options": [
+				"A- Cấm mang theo người, hành lý xách tay chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại.",
+				"B- Cấm mang theo người, hành lý xách tay chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại có chiều dài từ 50cm trở lên.",
+				"C- Cấm mang theo người, hành lý xách tay chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại có chiều dài từ 60cm trở lên.",
+				"D- Cấm mang theo người, hành lý xách tay chân đế máy ảnh, camera, gậy, cán ô có đầu nhọn bịt kim loại có chiều dài từ 70cm trở lên."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "28. Theo Quyết định số1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam, khi hành khách mang bút la - de dùng trong giảng dạy, thuyết trình đi tàu bay thì được áp dụng như thế nào?",
+			"options": [
+				"A- Được mang theo người lên tàu bay",
+				"B- Được mang theo hành lý xách tay lên tàu bay",
+				"C- Đáp án A, B sai",
+				"D- Đáp án A,B đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "29. Theo Quyết định số 1541/QĐ-CHK ngày 14/9/2021 của Cục trưởng Cục Hàng không Việt Nam, khi hành khách mang dao theo hành lý xách tay được áp dụng như thế nào?",
+			"options": [
+				"A- Cấm mang theo người, hành lý xách tay các loại dao",
+				"B- Cấm mang theo người, hành lý xách tay các loại dao có lưỡi (không bao gồm cán dao) dài trên 6cm hoặc tổng chiều dài cán và lưỡi trên 10 cm",
+				"C- Cấm mang theo người, hành lý xách tay các loại dao dài 6cm",
+				"D- Đáp án A ,B ,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "30. Tỉ lệ tối thiểu kiểm tra trực quan hành khách, hành lý ngẫu nhiên bổ sung sau kiểm tra soi chiếu khi tăng cường an ninh cấp độ 2 là bao nhiêu?",
+			"options": ["A- 0.05", "B- 0.07", "C- 0.3", "D- 0.15"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "31. Các câu hỏi nào dưới đây được sử dụng trong trường hợp hành khách có nghi vấn? (hành khách có thân thể bị băng bó, hành khách sử dụng các thiết bị y tế trên cơ thể…)",
+			"options": [
+				"A- Gần đây ông/bà có phải phẫu thuật hay tuân thủ quy định về phẫu thuật không? Nếu có, loại phẫu thuật nào? Ai phẫu thuật?",
+				"B- Ông/bà có mang thuốc chữa bệnh theo người không?",
+				"C- Ông/bà có hồ sơ y tế kèm theo không? Có thể cho chúng tôi xem không?",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "32. Tại những điểm không có máy soi tia X; hoặc các thiết bị hoặc động không chính xác thì tiến hành kiểm tra an ninh bằng các biện pháp nào?",
+			"options": [
+				"A- Kiểm tra trực quan",
+				"B- Kiểm tra bằng cổng từ",
+				"C- Kiểm tra bằng máy soi tia X",
+				"D- Đáp án B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "33. Các trường hợp cần tiến hành kiểm tra ngẫu nhiên?",
+			"options": [
+				"A- Kiểm tra trực quan ngẫu nhiên bổ sung sau kiểm tra soi chiếu theo một tỉ lệ quy định.",
+				"B- Kiểm tra ngẫu nhiên khi áp dụng các biện pháp cấp độ an ninh tăng cường.",
+				"C- Thực hiện theo hợp đồng ký kết với các hãng hàng không có nhu cầu.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "34. Hành khách cùng hành lý đã qua kiểm tra an ninh vào phòng cách ly nhưng xin ra ngoài có việc, khi vào lại nhân viên soi chiếu an ninh sẽ làm gì?",
+			"options": [
+				"A- Kiểm tra lại thẻ lên tàu và giấy tờ tùy thân, không phải thực hiện kiểm tra lại người và hành lý của hành khách",
+				"B- Kiểm tra lại thẻ lên tàu và giấy tờ tùy thân, kiểm tra người hành khách, không phải thực hiện kiểm tra lại hành lý của hành khách.",
+				"C- Kiểm tra như một khách chưa qua kiểm tra an ninh",
+				"D- Đã biết họ từ trong phòng cách ly đi ra thì cho vào lại, không cần kiểm tra nữa."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "35. Khi máy soi tia x ở chế độ hình ảnh màu, thuốc nổ, vải, gỗ sẽ hiển thị màu gì?",
+			"options": [
+				"A- Màu xanh đậm",
+				"B- Màu vàng cam",
+				"C- Màu xanh nhạt",
+				"D- Màu nâu"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "36. Trong quá trình quan sát màn hình máy soi cần chú ý đến khu vực nào?",
+			"options": [
+				"A- Các vùng màu cam, màu xanh sáng, màu đen",
+				"B- Khu vực có nhiều vật thể chồng lên nhau",
+				"C- Khu vực có các thiết bị điện tử",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "37. Nếu chọn tính năng quan sát tách biệt chất hữu cơ thì trên màn hình máy soi tia X chỉ hiển thị chất gì?",
+			"options": [
+				"A- Chất hữu cơ",
+				"B- Chất vô cơ",
+				"C- Không thể hiện chất gì",
+				"D- Chất hữu cơ, vô cơ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "38. Mỗi loại máy soi sử dụng tại mỗi cảng hàng không, sân bay phải có tối thiểu một bộ thử (Combined Test Piece - CTP) của nhà chế tạo hoặc nhà cung cấp để kiểm tra máy soi tia X. Bộ mẫu thử CTP bao gồm mẫu nào?",
+			"options": [
+				"A- Mẫu vật chất hữu cơ",
+				"B- Mẫu vật chất vô cơ",
+				"C- Các mẫu vật nhằm kiểm tra sự phân giải và xuyên thấu của máy soi",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "39. Một hành khách mang theo người 01 chai có dung tích 100ml chứa cồn 45 độ. Vậy khách đó được mang theo lên tàu bay không?",
+			"options": [
+				"A- Không được phép.",
+				"B- Được phép mang theo.",
+				"C- Được phép mang với điều kiện chai đựng cồn được đóng kín hoàn toàn",
+				"D- Được phép mang với điều kiện chai đựng cồn được đóng kín hoàn toàn, được sự đồng ý của hãng vận chuyển"
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

@@ -1,0 +1,288 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Tính năng, tác dụng của cổng từ khi kiểm tra người?",
+			"options": [
+				"A- Phát hiện các vật bằng kim loại cất giấu trong người",
+				"B- Phát hiện các vật bằng phi kim cất giấu trong người",
+				"C- Phát hiện các vật bằng kim loại và phi kim cất giấu trong người",
+				"D- Phát hiện chất lỏng và các vật bằng kim loại và phi kim cất giấu trong người"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Tùy theo nhu cầu sử dụng, cổng từ có thể điều chỉnh và loại bỏ các tính năng nào?",
+			"options": [
+				"A- Điều chỉnh chiều cao, loại bỏ nhiễu",
+				"B- Điều chỉnh độ nhạy, loại bỏ nhiễu",
+				"C- Điều chỉnh độ nhạy, loại bỏ hệ thống âm thanh",
+				"D- Điều chỉnh độ nhạy, loại bỏ hệ thống đèn báo"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Thiết bị phát hiện kim loại cầm tay dùng để trực tiếp kiểm tra phát hiện các vật được cất giấu trong người bằng vật liệu gì?",
+			"options": [
+				"A- Các vật bằng kim loại",
+				"B- Các vật bằng phi kim",
+				"C- Các vật có chứa chất lỏng",
+				"D- Các loại chất bột"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Thiết bị phát hiện kim loại cầm tay có thể phát báo động thông qua tín hiệu nào?",
+			"options": [
+				"A- Tín hiệu bằng đèn",
+				"B- Tín hiệu âm thanh",
+				"C- Tín hiệu bằng chế độ rung",
+				"D- Tín hiệu bằng đèn, âm thanh, rung"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Tính năng, tác dụng của thiết bị soi chiếu cơ thể (Body scanner) khi kiểm tra người?",
+			"options": [
+				"A- Phát hiện các vật bằng kim loại cất giấu trong người",
+				"B- Phát hiện các vật bằng phi kim cất giấu trong người",
+				"C- Phát hiện chất nổ, ma tuý",
+				"D- Phát hiện vật dụng nguy hiểm bằng kim loại hoặc phi kim được giấu bên trong quần áo, kể cả chất nổ, ma tuý..."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Dựa trên công nghệ, thiết bị soi chiếu cơ thể (Body scanner) được chia thành mấy loại?",
+			"options": ["A- 2 loại", "B- 3 loại", "C- 4 loại", "D- 5 loại"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Độ xuyên thấu tối đa của máy soi tia X cố định đối với thiết bị thông thường và đạt tiêu chuẩn là bao nhiêu thép?",
+			"options": ["A- 15mm", "B- 20mm", "C- 25mm", "D- 30mm"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Máy soi tia X cố định có các chức năng xử lý hình ảnh nào?",
+			"options": [
+				"A- Chức năng hiển thị tách biệt chất hữu cơ/vô cơ; hiển thị hình ảnh âm bản",
+				"B- Chức năng hiển thị hình ảnh đen trắng; hiển thị hình ảnh tăng cường độ nét",
+				"C- Chức năng hiển thị hình ảnh xuyên thấu cao; hiển thị hình ảnh tăng/giảm độ xuyên thấu",
+				"D- Chức năng hiển thị tách biệt chất hữu cơ/vô cơ; hiển thị hình ảnh âm bản; hiển thị hình ảnh đen trắng; hiển thị hình ảnh tăng cường độ nét; hiển thị hình ảnh xuyên thấu cao; hiển thị hình ảnh tăng/giảm độ xuyên thấu; phóng to hình ảnh; cắt lớp hình ảnh (chỉ có trên máy soi CT cắt lớp); ..."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Độ xuyên thấu tối đa của máy soi tia X di động đối với thiết bị thông thường và đạt tiêu chuẩn là bao nhiêu thép?",
+			"options": ["A- 3mm", "B- 4mm", "C- 5mm", "D- 6mm"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Tên tiếng anh của hệ thống Camera giám sát - CCTV là gì?",
+			"options": [
+				"A- Closed circuit television",
+				"B- Videotelephony",
+				"C- Camera circuit television",
+				"D- Closed camera television"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Mục đích của hệ thống cameragiám sát là gì?",
+			"options": [
+				"A- Hỗ trợ kịp thời cho việc giám sát an ninh ở sân bay, giảm bớt nhân lực mà vẫn đạt hiệu quả trong việc giám sát hoạt động tại Cảng hàng không, sân bay",
+				"B- Hỗ trợ tích cực cho việc giám sát an ninh ở sân bay, giảm bớt nhân lực mà vẫn đạt hiệu quả trong việc giám sát hoạt động tại Cảng hàng không, sân bay",
+				"C- Hỗ trợ kịp thời và tích cực cho việc giám sát an ninh ở sân bay, giảm bớt nhân lực mà vẫn đạt hiệu quả trong việc giám sát hoạt động tại Cảng hàng không, sân bay",
+				"D- Hỗ trợ kịp thời và tích cực cho việc giám sát an ninh ở sân bay, giảm tới mức thấp nhất chi phí cho công tác tuần tra, canh gác, giảm bớt nhân lực mà vẫn đạt hiệu quả trong việc giám sát hoạt động tại Cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Camera Doom là:",
+			"options": [
+				"A- Là loại camera ốp lên trần nhà, kiểu dáng gọn đẹp, thích hợp dùng lắp cho văn phòng, công sở. Có góc nhìn rộng, bao quát. Tuy nhiên vì đặt trên cao nhìn xuống nên khung hình quan sát sẽ không được chi tiết.",
+				"B- Là loại camera có dạng ống dài…. Gắn lên tường hướng nhìn ngang. Có góc nhìn rộng, bao quát. Tuy nhiên vì đặt trên cao nhìn xuống nên khung hình quan sát sẽ không được chi tiết.",
+				"C- Là loại camera có gắn ống kính lens, có tầm nhìn theo thông số ống kính (rộng, hẹp) có khả năng zoom được. Có góc nhìn rộng, bao quát. Tuy nhiên vì đặt trên cao nhìn xuống nên khung hình quan sát sẽ không được chi tiết.",
+				"D- Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Có góc nhìn rộng, bao quát. Tuy nhiên vì đặt trên cao nhìn xuống nên khung hình quan sát sẽ không được chi tiết."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Camera Thân là:",
+			"options": [
+				"A- Là loại camera ốp lên trần nhà, kiểu dáng gọn đẹp, thích hợp dùng lắp cho văn phòng, công sở. Có khả năng chống nước để lắp ngoài trời. Quan sát cố định theo từng vùng đã định sẵn.",
+				"B- Là loại camera có dạng ống dài…. Gắn lên tường hướng nhìn ngang. Đây là dòng camera được sử dụng phổ biến nhất. Dùng lắp đặt trong các cửa hàng, khách sạn, shop thời trang, khu xưởng nhỏ và vừa…. Dùng để gắn lên tường, có khả năng chống nước để lắp ngoài trời. Quan sát cố định theo từng vùng đã định sẵn.",
+				"C- Là loại camera có gắn ống kính (lens), có tầm nhìn theo thông số ống kính (rộng, hẹp) có khả năng zoom được. Dùng để gắn lên tường, có khả năng chống nước để lắp ngoài trời. Quan sát cố định theo từng vùng đã định sẵn.",
+				"D- Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Dùng để gắn lên tường, có khả năng chống nước để lắp ngoài trời. Quan sát cố định theo từng vùng đã định sẵn."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Camera Zoom là:",
+			"options": [
+				"A- Là loại camera ốp lên trần nhà, kiểu dáng gọn đẹp, thích hợp dùng lắp cho văn phòng, công sở. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Rõ nét, có thể zoom gần khu vực cần quan sát chuyên dùng để lắp cho tiệm vàng, các quầy thu ngân, ngân hàng, sân bay…",
+				"B- Là loại camera có dạng ống dài…. Gắn lên tường hướng nhìn ngang. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Rõ nét, có thể zoom gần khu vực cần quan sát chuyên dùng để lắp cho tiệm vàng, các quầy thu ngân, ngân hàng, sân bay…",
+				"C- Là loại camera có gắn ống kính lens, có tầm nhìn theo thông số ống kính (rộng, hẹp) có khả năng zoom được. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Rõ nét, có thể zoom gần khu vực cần quan sát chuyên dùng để lắp cho tiệm vàng, các quầy thu ngân, ngân hàng, sân bay…",
+				"D- Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Rõ nét, có thể zoom gần khu vực cần quan sát chuyên dùng để lắp cho tiệm vàng, các quầy thu ngân, ngân hàng, sân bay…"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "15. Hỏi: Camera hồng ngoại là:",
+			"options": [
+				"A- Camera quan sát hồng ngoại tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Dùng lắp đặt cho các kho hàng, bãi giữ xe, cổng ra vào nhà máy, xưởng, xí nghiệp, nhà biệt thự, lắp camera cho cửa hàng . Là loại camera có dạng ống dài…. Gắn lên tường hướng nhìn ngang. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại)",
+				"B- Camera quan sát hồng ngoại tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Dùng lắp đặt cho các kho hàng, bãi giữ xe, cổng ra vào nhà máy, xưởng, xí nghiệp, nhà biệt thự, lắp camera cho cửa hàng . Là loại camera có gắn ống kính lens, có tầm nhìn theo thông số ống kính (rộng, hẹp) có khả năng zoom được. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại)",
+				"C- Camera quan sát hồng ngoại tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Dùng lắp đặt cho các kho hàng, bãi giữ xe, cổng ra vào nhà máy, xưởng, xí nghiệp, nhà biệt thự, lắp camera cho cửa hàng . Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại)",
+				"D- Camera quan sát hồng ngoại tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Dùng lắp đặt cho các kho hàng, bãi giữ xe, cổng ra vào nhà máy, xưởng, xí nghiệp, nhà biệt thự, lắp camera cho cửa hàng . Phần lớn các dòng camera hiện nay đều được tích hợp hồng ngoại nhằm quan sát cả ngày và đêm."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "16. Hỏi: Pan Til Zoom Camera là:",
+			"options": [
+				"A- Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Camera có khả năng xoay lên xuống trái phải. Sử dụng ở các sân bay, resort, các công trình giao thông... theo dõi được cho từng trường hợp đối tượng và có thể nhớ nhiều vị trí góc quay thiết lập sẵn mà không cần điều khiển nhiều.",
+				"B- Là loại camera tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Sử dụng ở các sân bay, resort, các công trình giao thông... theo dõi được cho từng trường hợp đối tượng và có thể nhớ nhiều vị trí góc quay thiết lập sẵn mà không cần điều khiển nhiều.",
+				"C- Là loại camera có gắn ống kính lens, có tầm nhìn theo thông số ống kính (rộng, hẹp) có khả năng zoom được. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Sử dụng ở các sân bay, resort, các công trình giao thông... theo dõi được cho từng trường hợp đối tượng và có thể nhớ nhiều vị trí góc quay thiết lập sẵn mà không cần điều khiển nhiều.",
+				"D- Là loại camera có kích thước nhỏ và rất nhỏ hoặc có hình dáng gương, đầu báo khói.... Có thể nguỵ trang trong tượng, tranh, đồng hồ... Sử dụng ở các sân bay, resort, các công trình giao thông... theo dõi được cho từng trường hợp đối tượng và có thể nhớ nhiều vị trí góc quay thiết lập sẵn mà không cần điều khiển nhiều."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "17. Hỏi: Mini camera là:",
+			"options": [
+				"A- Là loại camera tự động cân bằng độ sáng chói của ngày và đêm. Sử dụng trong trường hợp nơi quan sát ánh sáng yếu hoặc không có ánh sáng vẫn có thể nhìn rõ mọi vật với hình ảnh trắng đen khi hồng ngoại được kích lên. Có thể nguỵ trang trong tượng, tranh, đồng hồ... Tuy nhiên dòng này chất lượng hình ảnh không được cao lắm. Vì camera ngụy trang thường phải được thiết kế nhỏ, tinh vi, thế nên khả năng phát triển công nghệ không thể đạt tốt nhất được vì bị giới hạn bởi kích thước, hình dáng....",
+				"B- Là loại camera có kích thước nhỏ và rất nhỏ hoặc có hình dáng gương, đầu báo khói.... Dùng lắp đặt những nơi mà người sử dụng không muốn người khác biết đang bị giám sát. Có thể nguỵ trang trong tượng, tranh, đồng hồ... Tuy nhiên dòng này chất lượng hình ảnh không được cao lắm. Vì camera ngụy trang thường phải được thiết kế nhỏ, tinh vi, thế nên khả năng phát triển công nghệ không thể đạt tốt nhất được vì bị giới hạn bởi kích thước, hình dáng....",
+				"C- Là loại camera có dạng ống dài…. Gắn lên tường hướng nhìn ngang. Thông thường loại này có chế độ quan sát ngày và đêm (không sử dụng hồng ngoại). Có thể nguỵ trang trong tượng, tranh, đồng hồ... Tuy nhiên dòng này chất lượng hình ảnh không được cao lắm. Vì camera ngụy trang thường phải được thiết kế nhỏ, tinh vi, thế nên khả năng phát triển công nghệ không thể đạt tốt nhất được vì bị giới hạn bởi kích thước, hình dáng....",
+				"D- Là loại camera có khả năng điều khiển theo ý người quản lý. Tốc độ điều khiển nhanh, lấy cận cảnh với tầm hoạt động chính xác theo từng góc. Camera có khả năng xoay lên xuống trái phải. Có thể nguỵ trang trong tượng, tranh, đồng hồ... Tuy nhiên dòng này chất lượng hình ảnh không được cao lắm. Vì camera ngụy trang thường phải được thiết kế nhỏ, tinh vi, thế nên khả năng phát triển công nghệ không thể đạt tốt nhất được vì bị giới hạn bởi kích thước, hình dáng...."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "18. Hỏi: Tính năng, tác dụng của thiết bị cảnh báo đột nhập",
+			"options": [
+				"A- Ngăn chặn sự xâm nhập của người, động vật, phương tiện…vào khu vực được bảo vệ",
+				"B- Giúp phát hiện, cảnh báo sự xâm nhập của người, động vật, phương tiện…vào khu vực được bảo vệ",
+				"C- Giúp phát hiện, cảnh báo sự xâm nhập của người, động vật, phương tiện…vào khu vực được bảo vệ và các khu vực lân cận"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "19. Hỏi: Máy ngửi chất nổ MO-2M được sản xuất tại đâu?",
+			"options": [
+				"A- Hãng Sibel (Nga)",
+				"B- Hãng Smiths Heimann (Đức)",
+				"C- Hãng Rapiscan (Mỹ)",
+				"D- Viện kỹ thuật Hóa Sinh và Tài liệu nghiệp vụ - Tổng cục IV Bộ Công an (Việt Nam)"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "20. Hỏi: Bộ phát hiện vi vết chất nổ EXD-17 được sản xuất tại đâu?",
+			"options": [
+				"A- Hãng Sibel (Nga)",
+				"B- Hãng Smiths Heimann (Đức)",
+				"C- Hãng Rapiscan (Mỹ)",
+				"D- Viện kỹ thuật Hóa Sinh và Tài liệu nghiệp vụ - Tổng cục IV Bộ Công an (Việt Nam)"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "21. Hỏi: Thời gian phân tích mẫu chất nổ của máy ngửi chất nổ MO-02 là bao lâu?",
+			"options": ["A- 08 giây", "B- 10 giây", "C- 12 giây", "D- 20 giây"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "22. Hỏi: Thời gian phân tích mẫu chất nổ của máy ngửi chất nổ SABRE 5000 là bao lâu?",
+			"options": ["A- 08 giây", "B- 10 giây", "C- 12 giây", "D- 20 giây"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "23. Hỏi: Thời gian phân tích mẫu chất nổ của máy ngửi chất nổ HARDENED MOBILE TRACE là bao lâu?",
+			"options": ["A- 08 giây", "B- 10 giây", "C- 12 giây", "D- 20 giây"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "24. Hỏi: Thời gian phân tích mẫu chất nổ của máy ngửi chất nổ IONSCAN 500DT là bao lâu?",
+			"options": ["A- 08 giây", "B- 10 giây", "C- 12 giây", "D- 20 giây"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "25. Hỏi: Cấu tạo của Bộ phát hiện vi vết chất nổ EXD-17 gồm bao nhiêu bình thuốc thử?",
+			"options": ["A- 03 bình", "B- 04 bình", "C- 05 bình", "D- 06 bình"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "26. Hỏi: Đặc điểm của chăn hạn chế sự công phá của bom mìn (Bomb Suppression Safety Blanket)",
+			"options": [
+				"A- Chăn hạn chế sự công phá của bom mìn được thiết kế dày và nặng đảm bảo tính an toàn trong khi xử lý các tình huống khẩn nguy",
+				"B- Chăn hạn chế sự công phá của bom mìn được để trong hòm chứa chuyên dụng thuận tiện cho việc di chuyển các khu vực công cộng có nhiều người qua lại",
+				"C- Chăn hạn chế sự công phá của bom mìn được thiết kế gọn nhẹ, dễ sử dụng, có thể gấp lại và để trong túi xách, di chuyển nhanh, thuận tiện cho việc xử lý tình huống khẩn nguy tại các địa bàn, khu vực, đặc biệt là các khu vực công cộng có nhiều người qua lại",
+				"D- Đáp án A và B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "27. Hỏi: Công cụ hỗ trợ cấp cho lực lượng kiểm soát ANHK gồm những loại nào?",
+			"options": [
+				"A- Súng ngắn (K54, K59, CZ83); súng bắn đạn hơi cay, cao su (DKR113, RG9); dùi cui điện, dùi cui cao su; khóa số 8; áo giáp, mũ chống đạn; khiên",
+				"B- Súng ngắn (K54, K59, CZ83); súng bắn đạn hơi cay, cao su (DKR113, RG9)",
+				"C- Súng ngắn (K54, K59, CZ83); dùi cui điện, dùi cui cao su; khóa số 8; áo giáp, mũ chống đạn; khiên",
+				"D- Súng bắn đạn hơi cay, cao su (DKR113, RG9); dùi cui điện, dùi cui cao su; khóa số 8; áo giáp, mũ chống đạn; khiên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "28. Hỏi: Máy phá sóng có khả năng dây nhiễu bao nhiêu băng tần điện thoại di động, wifi, GPS?",
+			"options": ["A- 12", "B- 14", "C- 16", "D- 18"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "29. Hỏi: Bán kính gây nhiễu của máy phá sóng là bao nhiêu m?",
+			"options": [
+				"A- từ 5 đến 10m",
+				"B- từ 10 đến 20m",
+				"C- từ 10 đến 30m",
+				"D- từ 5 đến 30m"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "30. Hỏi: Mục đích chính của hệ thống chống đâm va là gì?",
+			"options": [
+				"A- Ngăn cản phương tiện lao vào mục tiêu cần bảo vệ",
+				"B- Ngăn cản người, động vật xâm nhập vào mục tiêu cần bảo vệ",
+				"C- Giúp phát hiện, cảnh báo sự xâm nhập của phương tiện…vào mục tiêu cần bảo vệ",
+				"D- Giúp phát hiện, cảnh báo sự xâm nhập của người, động vật, vào mục tiêu cần bảo vệ"
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

@@ -1,0 +1,565 @@
+{
+  "questions":[
+		{
+			"question": "Câu 1: Hệ thống bảo đảm an ninh hàng không ở Việt Nam bao gồm những đơn vị nào?",
+			"options": [
+				"A- Chỉ bao gồm cơ quan chuyên trách bảo đảm an ninh hàng không",
+				"B- Chỉ bao gồm lực lượng kiểm soát an ninh hàng không",
+				"C- Bao gồm nhiều đơn vị và lực lượng liên quan đến an ninh hàng không",
+				"D- Chỉ bao gồm doanh nghiệp cung cấp dịch vụ hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Vai trò chính của việc bảo đảm an ninh hàng không là gì?",
+			"options": [
+				"A- Bảo vệ tài sản cá nhân",
+				"B- Đảm bảo tính mạng của con người",
+				"C- Bảo vệ tài sản cho Hãng hàng không nước ngoài",
+				"D- Đảm bảo trật tự công cộng tại địa bàn của Cảng hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Bảo đảm an ninh hàng không được coi là nhiệm vụ quan trọng của ai?",
+			"options": [
+				"A- Chính phủ",
+				"B- Doanh nghiệp hàng không",
+				"C- Nhà nước, Chính phủ và ngành hàng không dân dụng Việt Nam",
+				"D- Cả A và B"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Các cơ quan, đơn vị chuyên trách bảo đảm an ninh hàng không của ngành hàng không dân dụng có nhiệm vụ gì?",
+			"options": [
+				"A- Cung cấp tài chính cho doanh nghiệp đảm bảo an ninh hàng không",
+				"B- Trực tiếp thực hiện công tác kiểm soát an ninh hàng không tại Cảng hàng không",
+				"C- Tham mưu, giúp việc về công tác đảm bảo an ninh hàng không",
+				"D- Quản lý tài sản là các trang thiết bị An ninh hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Lực lượng kiểm soát an ninh hàng không có nhiệm vụ chính gì?",
+			"options": [
+				"A- Thực hiện các biện pháp bảo đảm an ninh hàng không và cung cấp dịch vụ bảo đảm an ninh hàng không",
+				"B- Tham mưu, quản lý, giám sát và trực tiếp thực hiện các biện pháp kiểm soát an ninh hàng không",
+				"C- phòng ngừa, đối phó với các hành vi can thiệp bất hợp pháp và vụ việc vi phạm an ninh hàng không",
+				"D- Cả A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Nhiệm vụ chính của lực lượng kiểm soát an ninh hàng không là gì?",
+			"options": [
+				"A- Thực hiện các biện pháp kiểm soát an ninh hàng không, phòng ngừa, đối phó với các hành vi can thiệp bất hợp pháp và vụ việc vi phạm an ninh hàng không",
+				"B- Quản lý các đơn vị cung cấp dịch vụ không lưu",
+				"C- Thực hiện kiểm soát hành khách trên tàu bay",
+				"D- Tổ chức các sự kiện hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Nhiệm vụ nào sau đây không thuộc chức năng của lực lượng kiểm soát an ninh hàng không?",
+			"options": [
+				"A- Thực hiện các biện pháp kiểm soát an ninh hàng không",
+				"B- Quản lý tài sản cá nhân của hành khách",
+				"C- Cung cấp dịch vụ bảo đảm an ninh hàng không",
+				"D- Phòng ngừa vi phạm an ninh hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Lực lượng nào trong danh sách sau đây không thuộc vào lực lượng kiểm soát an ninh hàng không?",
+			"options": [
+				"A- Lực lượng Công an cửa khẩu",
+				"B- Lực lượng kiểm soát an ninh hàng không của doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay",
+				"C- Lực lượng kiểm soát an ninh hàng không của hãng hàng không Việt Nam",
+				"D- Lực lượng kiểm soát an ninh hàng không của doanh nghiệp cung cấp dịch vụ suất ăn hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Đối với ngành hàng không, công tác bảo đảm an ninh hàng không đóng vai trò gì?",
+			"options": [
+				"A- Bảo vệ môi trường",
+				"B- Bảo vệ an toàn cho hành khách, phi hành đoàn và các phương tiện bay",
+				"C- Bảo vệ các loài động vật",
+				"D- Bảo vệ tài sản công cộng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Các hoạt động đảm bảo an ninh hàng không bao gồm những gì?",
+			"options": [
+				"A- Chăm sóc sức khỏe hành khách",
+				"B- Sửa chữa các sân bay",
+				"C- Kiểm tra hành lý, quản lý khách hàng và thông tin chuyến bay",
+				"D- Trồng cây xanh tại cảng hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Để đảm bảo an ninh hàng không hiệu quả, điều gì là cần thiết?",
+			"options": [
+				"A- Sự đa dạng trong quy định của ngành hàng không",
+				"B- Sự hợp tác chặt chẽ giữa các bên liên quan",
+				"C- Sự cố gắng cá nhân của hành khách",
+				"D- Sự thận trọng của các nhân viên bán hàng tại sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Hệ sinh thái an ninh hàng không bao gồm toàn bộ các hoạt động nào sau đây?",
+			"options": [
+				"A- Hoạt động của nhà chức trách hàng không",
+				"B- Hoạt động của tàu bay tại Cảng hàng không",
+				"C- Các hoạt động vận tải hàng không chuyên nghiệp",
+				"D- Hoạt động của lực lượng kiểm soát an ninh tại Cảng hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Cơ quan, đơn vị chuyên trách bảo đảm an ninh hàng không của ngành hàng không dân dụng có nhiệm vụ gì?",
+			"options": [
+				"A- Thực hiện quản lý nguồn nhân lực",
+				"B- Thực hiện giám sát và kiểm tra an ninh hàng không.",
+				"C- Tham mưu và giúp việc về an ninh hàng không",
+				"D- Cả A.B,C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Lực lượng kiểm soát an ninh hàng không có chức năng gì?",
+			"options": [
+				"A- Thực hiện nhiệm vụ kiểm soát an ninh hàng không, cung cấp dịch vụ bảo đảm an ninh hàng không và bảo đảm an ninh hàng không theo quy định pháp luật",
+				"B- Kiểm soát các vật thể(FOD) trong sân bay để đảm bảo an toàn cho tàu bay cất hạ cánh",
+				"C- Cung cấp dịch vụ đón tiễn cho các doanh nghiệp trên địa bàn Cảng hàng không",
+				"D- Bảo vệ hàng hóa giá trị cao khi vận chuyển bằng tàu bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Những đơn vị nào dưới đây có lực lượng kiểm soát an ninh hàng không?",
+			"options": [
+				"A- Doanh nghiệp cung cấp dịch vụ hàng không, Doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay, Hãng hàng không Việt Nam",
+				"B- Doanh nghiệp cung cấp dịch vụ đảm bảo an ninh hàng không, Doanh nghiệp cung cấp dịch vụ hàng không, Doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay, Hãng hàng không Việt Nam",
+				"C- Doanh nghiệp cung cấp dịch vụ đảm bảo an ninh hàng không, Doanh nghiệp cung cấp dịch vụ hàng không, Doanh nghiệp sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay",
+				"D- Doanh nghiệp cung cấp dịch vụ đảm bảo an ninh hàng không, Người khai thác cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Nhiệm vụ của công tác đảm bảo an ninh hàng không là gì",
+			"options": [
+				"A- Ngăn ngừa các hành vi khủng bố, Đảm bảo an toàn cho các chuyến bay, Đảm bảo an ninh quốc gia",
+				"B- Kiểm tra soi chiếu nhân viên nội bộ",
+				"C- Ngăn chặn các vụ việc trộm cắp hành lý của hành khách",
+				"D- Đảm bảo an toàn cho các chuyến bay của hàng hàng không nước ngoài"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Đảm bảo an ninh hàng không bao gồm những hoạt đồng nào dưới đây?",
+			"options": [
+				"A- Kiểm tra thông tin xuất nhập cảnh",
+				"B- Quản lý hàng hóa xuất nhập khẩu",
+				"C- Kiểm tra hành lý, Quản lý khách hàng và thông tin chuyến bay, Xử lý các mối đe dọa an ninh, đào tạo và nâng cao năng lực của nhân viên an ninh hàng không",
+				"D- Xử lý các vụ việc vi gian lận thương mại tại sân bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Các biện pháp an ninh hàng không hiệu quả đòi hỏi sự hợp tác chặt chẽ giữa các cá nhân và tổ chức nào?",
+			"options": [
+				"A- Các tổ chức hàng không, sân bay và các bên liên quan.",
+				"B- Các cơ quan cấp Tỉnh, thành phố nơi có Cảng hàng không sân bay",
+				"C- Các doanh nghiệp hoạt động tại Cảng hàng không",
+				"D- Các đơn vị có lực lượng kiểm soát an ninh hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Đào tạo và nâng cao năng lực của nhân viên an ninh hàng không nhằm mục đích gì?",
+			"options": [
+				"A- Tạo sự tin tưởng và an toàn cho hành khách",
+				"B- Xử lý các mối đe dọa an ninh hiệu quả",
+				"C- Phát hiện các vật cấm hoặc nguy hiểm trong hành lý",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Uỷ ban An ninh hàng không dân dụng quốc gia giúp Thủ tướng Chính phủ công việc gì?",
+			"options": [
+				"A- Phối hợp giải quyết vấn đề an toàn hàng không",
+				"B- Chỉ đạo, phối hợp giải quyết các vấn đề quan trọng liên ngành về đảm bảo an ninh hàng không",
+				"C- Đánh giá nguy cơ uy hiếp an ninh trật tự xã hội",
+				"D- Cấp thẻ và giấy phép An ninh hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Uỷ ban An ninh hàng không dân dụng quốc gia đánh giá nguy cơ gì?",
+			"options": [
+				"A- An ninh hàng không",
+				"B- An ninh xã hội",
+				"C- An ninh quốc gia",
+				"D- An ninh khu vực"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Việc quyết định số lượng, vị trí, thời gian hoạt động của các điểm kiểm tra, bốt kiểm soát, vị trí tuần tra tại cảng hàng không, sân bay là trách nhiệm của ai?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Người khai thác cảng hàng không, sân bay",
+				"D- Bộ phận kiểm soát an ninh hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Người khai thác cảng hàng không, sân bay phối hợp với các cơ quan chức năng thu thập thông tin về điều gì?",
+			"options": [
+				"A- Điều kiện thời tiết",
+				"B- Thông tin về tình hình giao thông sân đỗ ô tô của sân bay",
+				"C- Thông tin về an ninh hàng không",
+				"D- Thông tin về giới tính của hành khách đi máy bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Người khai thác cảng hàng không, sân bay có trách nhiệm thực hiện đào tạo, bồi dưỡng và huấn luyện an ninh hàng không cho nhóm đối tượng nào?",
+			"options": [
+				"A- Cán bộ, nhân viên của người khai thác Cảng hàng không, sân bay",
+				"B- Cán bộ, nhân viên của Cục Hàng không Việt Nam",
+				"C- Cán bộ, nhân viên của Cảng vụ hàng không",
+				"D- Công an cửa khẩu"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Chương trình an ninh hàng không của người khai thác cảng hàng không, sân bay sẽ được triển khai sau khi được tổ chức nào phê duyệt?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Bộ phận kiểm soát an ninh hàng không",
+				"D- Ban chỉ huy khẩn nguy hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Nhiệm vụ nào sau đây không thuộc về người khai thác cảng hàng không, sân bay?",
+			"options": [
+				"A- Tổ chức hệ thống kiểm tra, giám sát an ninh nội bộ của đơn vị mình",
+				"B- Xác định ranh giới khu vực hạn chế tại Cảng hàng không, sân bay",
+				"C- Xây dựng Trung tâm khẩn nguy cảng hàng không, sân bay.",
+				"D- Tổ chức diễn tập đối phó với hành vi can thiệp bất hợp pháp cấp ngành, cấp tỉnh, cấp quốc gia."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Nhiệm vụ nào sau đây liên quan đến công tác bảo đảm an ninh hàng không của người khai thác cảng hàng không, sân bay?",
+			"options": [
+				"A- Xây dựng kế hoạch khẩn nguy đối phó với hành vi can thiệp bất hợp pháp cấp ngành",
+				"B- Tổ chức hệ thống kiểm tra, giám sát việc thực hiện chương trình an ninh cảng hàng không.",
+				"C- Chỉ huy điều hành việc phòng ngừa, đối phó với hành vi can thiệp bất hợp pháp tại đài kiểm soát không lưu",
+				"D- Tổ chức cấp thẻ kiểm soát an ninh cho nhân viên của Hãng hàng không làm việc tại Cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Nhiệm vụ nào sau đây không phải là nhiệm vụ của Trung tâm khẩn nguy cảng hàng không, sân bay?",
+			"options": [
+				"A- Tổ chức hệ thống kiểm tra, giám sát việc thực hiện chương trình an ninh cảng hàng không.",
+				"B- Tổ chức diễn tập đối phó với hành vi can thiệp bất hợp pháp cấp cơ sở.",
+				"C- Chỉ huy điều hành việc phòng ngừa, đối phó với hành vi can thiệp bất hợp pháp tại cảng hàng không, sân bay.",
+				"D- Xây dựng kế hoạch khẩn nguy đối phó với hành vi can thiệp bất hợp pháp tại cảng hàng không."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Quy định về kiểm soát an ninh nội bộ áp dụng trong các quy trình nào?",
+			"options": [
+				"A- Tuyển dụng",
+				"B- Huấn luyện",
+				"C- Đánh giá",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Tổ chức nào chịu trách nhiệm xây dựng Chương trình an ninh hàng không của hãng hàng không?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Hãng hàng không, người khai thác tàu bay",
+				"D- Người khai thác Cảng hàng không, sân bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Thực hiện kiểm tra an ninh hàng không tàu bay trước chuyến bay và phối hợp lục soát an ninh tàu bay khi có thông tin đe dọa theo quy định của pháp luật là trách nhiệm của tổ chức, cá nhân nào?",
+			"options": [
+				"A- Lực lượng kiểm soát An ninh hàng không của người khai thác cảng hàng không",
+				"B- Hãng hàng không",
+				"C- Cảng vụ hàng không",
+				"D- Lực lượng kiểm soát an ninh của doanh nghiệp cung cấp dịch vụ không lưu"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Trách nhiệm xử lý ban đầu các vi phạm an ninh hàng không và những vi phạm khác liên quan đến tàu bay trong thời gian tàu bay đang khai thác, không khai thác thuộc về cá nhân, tổ chức nào?",
+			"options": [
+				"A- Hành khách",
+				"B- Người khai thác cảng hàng không",
+				"C- Hãng hàng không",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Hãng hàng không, người khai thác tàu bay Vietnam Airlines cần bảo đảm kinh phí cho cơ quan nào tham gia hoạt động khảo sát, đánh giá của hãng tại cảng hàng không nước ngoài?",
+			"options": [
+				"A- Bộ GTVT",
+				"B- Cảng vụ hàng không",
+				"C- Cục hàng không Việt Nam",
+				"D- Người khai thác Cảng hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Nhiệm vụ phối hợp của hãng hàng không trong việc đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng là gì?",
+			"options": [
+				"A- Phối hợp với cơ quan có thẩm quyền để ngăn chặn hành vi can thiệp",
+				"B- Thực hiện diễn tập đối phó với hành vi can thiệp",
+				"C- Xác định ranh giới khu vực hạn chế",
+				"D- Thực hiện công tác kiểm soát an ninh nội bộ"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Hãng hàng không có trách nhiệm bố trí chỗ ngồi trên chuyến bay cho cá nhân, tổ chức nào khi đi làm nhiệm vụ theo yêu cầu của cơ quan có thẩm quyền",
+			"options": [
+				"A- Nhân viên an ninh của hãng hàng không",
+				"B- Nhân viên an ninh trên không",
+				"C- Nhân viên an ninh của người khai thác cảng hàng không",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Hãng hàng không nước ngoài phải tuân thủ các quy định về an ninh hàng không của quốc gia nào",
+			"options": [
+				"A- Quy định của Việt Nam",
+				"B- Quy định của nước sở tại",
+				"C- Quy định của cả Việt Nam và nước sở tại",
+				"D- Không cần tuân thủ quy định nào"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Khi làm thủ tục đăng ký vận chuyển hàng hóa, hãng hàng không phải thông báo chính sách khác biệt đối với vận chuyển loại hàng nào?",
+			"options": [
+				"A- Hàng hóa đặc biệt",
+				"B- Hàng hóa là bưu gửi",
+				"C- Hàng hóa vận chuyển nội địa",
+				"D- Hàng hóa vận chuyển quốc tế"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Hãng hàng không phải thông báo với cơ quan tổ chức nào về người chịu trách nhiệm bảo đảm an ninh hàng không trong hoạt động khai thác của hãng tại Việt Nam?",
+			"options": [
+				"A- Bộ Công an",
+				"B- Bộ ngoại giao",
+				"C- Cục Hàng không Việt Nam",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Cơ quan nào chịu trách nhiệm báo cáo Cục Hàng không Việt Nam các khác biệt trong chương trình an ninh hàng không của hãng hàng không trình nhà chức trách hàng không nước ngoài so với pháp luật Việt Nam?",
+			"options": [
+				"A- Cục hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Hãng hàng không",
+				"D- Người khai thác Cảng hàng không, sân bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Công việc phối hợp của hãng hàng không với đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không là gì?",
+			"options": [
+				"A- Triển khai công tác bảo đảm an ninh hàng không theo quy định",
+				"B- Báo cáo khác biệt trong chương trình an ninh hàng không với đơn vị cung cấp dịch vụ đảm bảo an ninh hàng không",
+				"C- Chỉ đạo, hướng dẫn nghiệp vụ về an ninh hàng không cho các đơn vị khác có liên quan",
+				"D- Chịu sự chỉ đạo, hướng dẫn về an ninh hàng không từ Cục Hàng không Việt Nam"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Tổ chức nào chịu trách nhiệm quyết định sự khác biệt trong chương trình an ninh hàng không của hãng hàng không trình nhà chức trách hàng không nước ngoài so với pháp luật Việt Nam?",
+			"options": [
+				"A- Hãng hàng không",
+				"B- Đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không",
+				"C- Cục Hàng không Việt Nam",
+				"D- Nhà chức trách hàng không nước ngoài"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Công tác bảo đảm an ninh hàng không được triển khai theo quy định của tổ chức nào?",
+			"options": [
+				"A- Hãng hàng không",
+				"B- Đơn vị cung cấp dịch vụ bảo đảm an ninh hàng không",
+				"C- Cục Hàng không Việt Nam",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Đơn vị nào chịu trách nhiệm xây dựng Quy chế an ninh hàng không?",
+			"options": [
+				"A- Hãng hàng không",
+				"B- Cảng vụ hàng không",
+				"C- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"D- Người khai thác cảng hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Việc tổ chức lực lượng kiểm soát an ninh hàng không của doanh nghiệp bảo dưỡng, sửa chữa tàu bay do đơn vị nào chịu trách nhiệm?",
+			"options": [
+				"A- Doanh nghiệp cung cấp dịch vụ không lưu",
+				"B- Doanh nghiệp cung cấp dịch vụ suất ăn hàng không",
+				"C- Doanh nghiệp bảo dưỡng, sửa chữa tàu bay",
+				"D- Doanh nghiệp cung cấp dịch vụ xăng dầu hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Đơn vị nào chịu trách nhiệm cung cấp quy chế an ninh hàng không cho Cảng vụ hàng không và người khai thác cảng hàng không, sân bay",
+			"options": [
+				"A- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"B- Cảng vụ hàng không",
+				"C- Hãng hàng không",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Doanh nghiệp cung cấp dịch vụ hàng không chịu sự thanh tra, kiểm tra, giám sát của tổ chức, cá nhân nào?",
+			"options": [
+				"A- Cục Hàng không Việt Nam và Cảng vụ hàng không",
+				"B- Hãng hàng không",
+				"C- Người khai thác Cảng hàng không, sân bay",
+				"D- Cả A,B,C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: Trong phạm vi nội bộ do mình quản lý, đơn vị nào có trách nhiệm xác định khu vực hạn chế của doanh nghiệp nằm ngoài cảng hàng không, sân bay?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"D- Người khai thác Cảng hàng không, sân bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: Đơn vị nào chịu trách nhiệm cấp, quản lý thẻ, giấy phép kiểm soát an ninh nội bộ?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"D- Đáp án A, B, C đều không đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 49: Đơn vị nào có trách nhiệm đào tạo, bồi dưỡng nghiệp vụ, huấn luyện kiến thức an ninh hàng không cho cán bộ, nhân viên có liên quan?",
+			"options": [
+				"A- Cục Hàng không Việt Nam",
+				"B- Cảng vụ hàng không",
+				"C- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"D- Tất cả đáp án đều sai"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 50: Doanh nghiệp cung cấp dịch vụ hàng không phải chịu sự chỉ đạo và hướng dẫn nghiệp vụ về an ninh hàng không từ đơn vị nào?",
+			"options": [
+				"A- Cục Hàng không Việt Nam.",
+				"B- Chính quyền địa phương.",
+				"C- Công an địa phương.",
+				"D- Đơn vị quân đội liên quan."
+			],
+			"correctOption": 0,
+			"points": 10
+		},{
+			"question": "Câu 51: Công tác an ninh hàng không trong thời kỳ hội nhập của đất nước đòi hỏi gì?",
+			"options": [
+				"A- Ít phức tạp và quan trọng",
+				"B- Nặng nề và phức tạp",
+				"C- Quan trọng nhưng không phức tạp",
+				"D- Nhẹ nhàng và đơn giản"
+			],
+			"correctOption": 1,
+			"points": 10
+		}
+
+  ]
+}

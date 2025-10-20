@@ -1,0 +1,183 @@
+{
+	"questions": [
+		{
+			"question": "1. Thiết bị soi chiếu cơ thể SAFEVIEW hiện đang được sử dụng tại một số cảng hàng không ở Việt Nam có bao nhiêu chế độ hoạt động?",
+			"options": [
+				"A- 1 chế độ",
+				"B- 3 chế độ",
+				"C- 4 chế độ",
+				"D- 5 chế độ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "2. Nguyên lý hoạt động nào là của chế độ Auto detect trên thiết bị soi chiếu cơ thể SAFEVIEW?",
+			"options": [
+				"A- Tự động khoanh vùng đối tượng (vật/chất) nghi vấn trên OCP",
+				"B- OCP tự động khoanh vùng đối tượng (vật/chất) nghi vấn và sau khi người vận hành OCP nhấn Image Analyst Request hình ảnh 3D và hình ảnh mô phỏng cơ thể người được gửi đến IAS để phân tích kỹ hơn",
+				"C- Hình ảnh 3D tự động khoanh vùng đối tượng (vật/chất) nghi vấn xuất hiện tại IAS, sau đó gửi lại hình ảnh mô phỏng cơ thể người cho OCP",
+				"D- Hình ảnh 3D và hình ảnh mô phỏng cơ thể người sẽ được gửi đến IAS (không tự động khoanh vùng vật/chất nghi vấn), IAS phân tích và gửi lại hình ảnh mô phỏng cơ thể người cho OCP"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "3. Nguyên lý hoạt động nào là của chế độ Image analysis on demand trên thiết bị soi chiếu cơ thể SAFEVIEW?",
+			"options": [
+				"A- Tự động khoanh vùng đối tượng (vật/chất) nghi vấn trên OCP",
+				"B- OCP tự động khoanh vùng đối tượng (vật/chất) nghi vấn và sau khi người vận hành OCP nhấn Image Analyst Request hình ảnh 3D và hình ảnh mô phỏng cơ thể người được gửi đến IAS để phân tích kỹ hơn",
+				"C- Hình ảnh 3D tự động khoanh vùng đối tượng (vật/chất) nghi vấn xuất hiện tại IAS, sau đó gửi lại hình ảnh mô phỏng cơ thể người cho OCP",
+				"D- Hình ảnh 3D và hình ảnh mô phỏng cơ thể người sẽ được gửi đến IAS (không tự động khoanh vùng vật/chất nghi vấn), IAS phân tích và gửi lại hình ảnh mô phỏng cơ thể người cho OCP"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "4. Nguyên lý hoạt động nào là của chế độ Auto assist trên thiết bị soi chiếu cơ thể SAFEVIEW?",
+			"options": [
+				"A- Tự động khoanh vùng đối tượng (vật/chất) nghi vấn trên OCP",
+				"B- OCP tự động khoanh vùng đối tượng (vật/chất) nghi vấn và sau khi người vận hành OCP nhấn Image Analyst Request hình ảnh 3D và hình ảnh mô phỏng cơ thể người được gửi đến IAS để phân tích kỹ hơn",
+				"C- Hình ảnh 3D tự động khoanh vùng đối tượng (vật/chất) nghi vấn xuất hiện tại IAS, sau đó gửi lại hình ảnh mô phỏng cơ thể người cho OCP",
+				"D- Hình ảnh 3D và hình ảnh mô phỏng cơ thể người sẽ được gửi đến IAS (không tự động khoanh vùng vật/chất nghi vấn), IAS phân tích và gửi lại hình ảnh mô phỏng cơ thể người cho OCP"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "5. Nguyên lý hoạt động nào là của chế độ Imaging only trên thiết bị soi chiếu cơ thể SAFEVIEW?",
+			"options": [
+				"A- Tự động khoanh vùng đối tượng (vật/chất) nghi vấn trên OCP",
+				"B- OCP tự động khoanh vùng đối tượng (vật/chất) nghi vấn và sau khi người vận hành OCP nhấn Image Analyst Request hình ảnh 3D và hình ảnh mô phỏng cơ thể người được gửi đến IAS để phân tích kỹ hơn",
+				"C- Hình ảnh 3D tự động khoanh vùng đối tượng (vật/chất) nghi vấn xuất hiện tại IAS, sau đó gửi lại hình ảnh mô phỏng cơ thể người cho OCP",
+				"D- Hình ảnh 3D và hình ảnh mô phỏng cơ thể người sẽ được gửi đến IAS (không tự động khoanh vùng vật/chất nghi vấn), IAS phân tích và gửi lại hình ảnh mô phỏng cơ thể người cho OCP"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "6. Việc truy cập và sử dụng hình ảnh tạo ra của thiết bị soi chiếu cơ thể được quy định như thế nào?",
+			"options": [
+				"A- Nghiêm cấm việc truy cập và sử dụng trái phép hình ảnh",
+				"B- Cho phép truy cập nhưng không được sử dụng trái phép hình ảnh",
+				"C- Cho phép truy cập và sử dụng hình ảnh bất kỳ lúc nào",
+				"D- Chỉ được truy cập và sử dụng hình ảnh khi kết thúc ca trực"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Thiết bị kỹ thuật không được mang vào nơi phân tích hình ảnh của thiết bị soi chiếu cơ thể được quy định về tính năng kỹ thuật như thế nào?",
+			"options": [
+				"A- Thiết bị kỹ thuật không có khả năng lưu trữ, sao chép, chụp ảnh hoặc ghi lại hình ảnh",
+				"B- Thiết bị kỹ thuật có khả năng lưu trữ, sao chép, chụp ảnh hoặc ghi lại hình ảnh",
+				"C- Thiết bị kỹ thuật có khả năng lưu trữ, sao chép; không có khả năng chụp ảnh hoặc ghi lại hình ảnh",
+				"D- Thiết bị kỹ thuật không có khả năng lưu trữ, sao chép; có khả năng chụp ảnh hoặc ghi lại hình ảnh"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "8. Màn hình thứ cấp (trạm phân tích hình ảnh IAS) của thiết bị soi chiếu cơ thể được quy định vị trí đặt như thế nào?",
+			"options": [
+				"A- Đặt ngay phía trước máy quét, không cần vách ngăn che kín toàn bộ vị trí đặt màn hình",
+				"B- Đặt ngay phía trước máy quét, không cần vách ngăn che kín toàn bộ vị trí đặt màn hình",
+				"C- Đặt trong phòng kín, xa máy quét",
+				"D- Đặt ngay phía sau máy quét, không cần vách ngăn che kín toàn bộ vị trí đặt màn hình"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "9. Theo quy định, tại mỗi điểm kiểm tra an ninh có cổng từ/thiết bị soi chiếu cơ thể phải có ít nhất bao nhiêu Bộ mẫu thử (Operational Test Pieces – OTP) của nhà cung cấp hoặc đơn vị vận hành khai thác?",
+			"options": ["A- 01 bộ", "B- 02 bộ", "C- 03 bộ", "D- 04 bộ"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "10. Cá nhân/đơn vị nào chịu trách nhiệm kiểm tra cổng từ khi đưa vào sử dụng lại sau một thời gian không sử dụng?",
+			"options": [
+				"A- Đơn vị cung cấp thiết bị",
+				"B- Đơn vị vận hành khai thác của Cảng",
+				"C- Nhân viên quản lý trang thiết bị của Trung tâm An ninh hàng không",
+				"D- Kíp trưởng hoặc nhân viên kiểm soát an ninh hàng không"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "11. Trường hợp cổng từ hoạt động liên tục (không tắt nguồn) thì cổng từ phải được kiểm tra ít nhất bao nhiêu lần mỗi ngày trước khi sử dụng để kiểm tra hành khách của ca làm việc đầu tiên trong ngày?",
+			"options": ["A- 01 lần", "B- 02 lần", "C- 03 lần", "D- 04 lần"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "12. Khi kiểm tra cổng từ trước khi sử dụng để kiểm tra hành khách, người thử phải giữ tư thế thẳng đứng đi qua cổng từ ít nhất bao nhiêu lần?",
+			"options": ["A- 02 lần", "B- 04 lần", "C- 05 lần", "D- 06 lần"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "13. Để được đưa sử dụng kiểm tra hành khách, cổng từ phải báo động tối thiểu bao nhiêu lần khi người thử đi qua cổng từ ít nhất 05 lần trong quá trình kiểm tra?",
+			"options": ["A- 01 lần", "B- 02 lần", "C- 03 lần", "D- 04 lần"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "14. Khi kiểm tra cổng từ, mẫu thử được đặt tại bao nhiêu vị trí trên cơ thể người thử?",
+			"options": [
+				"A- 03 vị trí",
+				"B- 04 vị trí",
+				"C- 05 vị trí",
+				"D- 07 vị trí"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "15. Khi kiểm tra cổng từ, mẫu thử được đặt tại những vị trí nào trên cơ thể người thử?",
+			"options": [
+				"A- Nách bên phải; hông bên phải; vòng eo ở giữa lưng; bên trong mắt cá chân bên phải.",
+				"B- Nách bên trái; hông bên trái; vòng eo ở giữa lưng; bên trong mắt cá chân bên trái.",
+				"C- Đỉnh đầu; nách hai bên; vòng eo ở giữa lưng; bên trong mắt cá chân hai bên",
+				"D- Đỉnh đầu; đằng trước ngực; đằng sau lưng; bên trong mắt cá chân hai bên"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "16. Quy trình kiểm tra người bằng cổng từ gồm bao nhiêu bước?",
+			"options": ["A- 2 bước", "B- 3 bước", "C- 4 bước", "D- 6 bước"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "17. Trong quá trình kiểm tra người bằng cổng từ, trường hợp cổng từ phát tín hiệu cảnh báo, nhân viên kiểm soát an ninh hàng không phải thực hiện kiểm tra như thế nào?",
+			"options": [
+				"A- Kiểm tra bằng thiết bị phát hiện kim loại cầm tay",
+				"B- Kiểm tra người kết hợp thiết bị phát hiện kim loại cầm tay",
+				"C- Kiểm tra trực quan",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "18. Trường hợp sử dụng Body scanner làm thiết bị soi chiếu bổ sung, nếu xác định được nghi vấn trong quá trình kiểm tra nhân viên kiểm soát an ninh hàng không thực hiện những nhiệm vụ gì?",
+			"options": [
+				"A- Hướng dẫn người được kiểm tra lấy vật/chất ra để soi chiếu riêng",
+				"B- Yêu cầu người được kiểm tra thực hiện soi chiếu người lại",
+				"C- Nếu không còn nghi vấn hoặc cảnh báo gì khác hướng dẫn người được kiểm tra ra khỏi khu vực, lấy hành lý xách tay và các vật dụng cá nhân, hoàn tất thủ tục kiểm tra an ninh",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "19. Hình ảnh qua thiết bị soi chiếu cơ thể phải được lưu trữ theo quy định trong thời gian bao nhiêu ngày?",
+			"options": ["A- 20 ngày", "B- 30 ngày", "C- 45 ngày", "D- 60 ngày"],
+			"correctOption": 2,
+			"points": 10
+		}
+	]
+}

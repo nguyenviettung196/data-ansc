@@ -1,0 +1,622 @@
+{
+	"questions": [
+		{
+			"question": "1. Cơ sở pháp lý nào quy định về biện pháp kiểm tra soi chiếu an ninh hàng không?",
+			"options": [
+				"A- Luật hàng không dân dụng Việt Nam (Văn bản hợp nhất 36/VBHN-VPQH).",
+				"B- Nghị định về An ninh hàng không (Nghị định 92/2015/NĐ-CP).",
+				"C- Thông tư quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam (Văn bản hợp nhất số 01/VBHN-BGTVT).",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "2. Văn bản nào quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam?",
+			"options": [
+				"A- Luật hàng không dân dụng Việt Nam (Văn bản hợp nhất 36/VBHN-VPQH).",
+				"B- Nghị định về An ninh hàng không (Nghị định 92/2015/NĐ-CP).",
+				"C- Thông tư quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam (Văn bản hợp nhất số 01/VBHN-BGTVT).",
+				"D- Hướng dẫn công việc cho lực lượng kiểm soát an ninh hàng không của Tổng công ty Cảng hàng không Việt Nam - CTCP."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "3. Biện pháp kiểm tra soi chiếu an ninh hàng không có vai trò như thế nào trong việc phát hiện ngăn chặn việc mang vật phẩm nguy hiểm, vũ khí, công cụ hỗ trợ vào khu vực hạn chế và lên tàu bay?",
+			"options": [
+				"A- Chỉ là 1 trong các biện pháp bổ sung của lực lượng kiểm soát an ninh hàng không",
+				"B- Có vai trò hết sức quan trọng.",
+				"C- Chỉ có tác dụng trong việc phát hiện vật phẩm nguy hiểm",
+				"D- Đáp án A,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "4. Soi chiếu an ninh hàng không là gì?",
+			"options": [
+				"A- Việc sử dụng trang bị, thiết bị kỹ thuật hoặc biện pháp khác để phát hiện vũ khí, chất nổ, vật phẩm nguy hiểm",
+				"B- Việc sử dụng trang bị, thiết bị kỹ thuật hoặc biện pháp khác để phát hiện hàng hóa giả.",
+				"C- Việc sử dụng trang bị, thiết bị kỹ thuật hoặc biện pháp khác để phát hiện giấy tờ không đúng quy định khi đi tàu bay của hành khách",
+				"D- Việc sử dụng trang bị, thiết bị kỹ thuật hoặc biện pháp khác để phát hiện vật phẩm có giá trị kinh tế cao."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "5. Đáp án nào dưới đây là sai: “Soi chiếu an ninh hàng không dùng để phát hiện .......”",
+			"options": ["A- Vũ khí.", "B- Hàng hóa giả.", "C- Chất nổ."],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "6. Soi chiếu an ninh hàng không giúp phát hiện những vật phẩm nào?",
+			"options": [
+				"A- Vũ khí chất nổ và vật phẩm nguy hiểm",
+				"B- Ngoại tệ",
+				"C- Vàng",
+				"D- Hàng hóa giả."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Nhiệm vụ chính của biện pháp kiểm tra soi chiếu an ninh hàng không là gì?",
+			"options": [
+				"A- Phát hiện việc mang, sót lọt VPNH, VK, CCHT vào khu vực hạn chế và lên tàu bay.",
+				"B- Kiểm tra hành lý của khách ưu tiên",
+				"C- Xác định hành khách sử dụng giấy tờ giả",
+				"D- Đảm bảo an ninh hàng không cho các chuyến bay của hãng hàng không nước ngoài."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "8. Điểm kiểm tra an ninh hàng không là gì?",
+			"options": [
+				"A- Là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các cổng, cửa, lối đi giữa các khu vực hạn chế hoặc giữa khu vực hạn chế với khu vực khác, nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật, duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng khôngLà khu vực giữa các cổng, cửa, lối đi giữa các khu vực hạn chế",
+				"B- Là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các khu vực hạn chế của sân bay quốc tế nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật, duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng khôngLà khu vực điểm kiểm tra an ninh hàng không",
+				"C- Là vị trí làm việc của nhân viên an ninh soi chiếu được thiết lập tại các cổng, cửa, lối đi giữa các khu vực hạn chế hoặc giữa các khu vực hạn chế với khu vực khác, nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật, duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng không",
+				"D- Là vị trí làm việc của nhân viên kiểm soát an ninh hàng không được thiết lập tại các cổng, cửa, lối đi giữa các khu vực công cộng hoặc giữa khu vực công cộng với khu vực khác, nhằm kiểm tra an ninh hàng không người, phương tiện, đồ vật, duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "9. Điểm kiểm tra an ninh hàng không được thiết lập ở đâu?",
+			"options": [
+				"A- Tại các cổng cửa giữa các khu vực công công",
+				"B- Tại các cổng cửa giữa các khu vực hạn chế hoặc giữa các khu vực hạn chế với khu vực khác",
+				"C- Tại các cổng cửa giữa khu vực hạn chế với khu vực công cộng",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "10. Điểm kiểm tra an ninh hàng không nhằm kiểm tra gì?",
+			"options": [
+				"A- Kiểm tra an ninh hàng không đối với nhân viên nội bộ",
+				"B- Kiểm tra an ninh hàng không người, phương tiện và đồ vật",
+				"C- Kiểm tra an ninh hàng không đôi với thành viên tổ bay",
+				"D- Kiểm tra an ninh hàng không dành riêng cho các chuyến bay chuyên cơ"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "11. Điểm kiểm tra an ninh hàng không là nơi duy trì gì?",
+			"options": [
+				"A- Duy trì an ninh hàng không đối với hành khách",
+				"B- Duy trì an ninh trật tự khu vực điểm kiểm tra an ninh hàng không",
+				"C- Duy trì an ninh hàng không đối với phương tiện",
+				"D- Duy trì an ninh hàng không đối với đồ vật"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "12. Tại mỗi điểm kiểm tra an ninh hàng không, nhân viên kiểm soát an ninh hàng không phải thực hiện nhiệm vụ nào?",
+			"options": [
+				"A- Kiểm tra, đối chiếu giấy tờ, Giám sát màn hình máy soi tia X, kiểm tra trực quan, Hướng dẫn hành khách",
+				"B- Kiểm tra vé máy bay để làm thủ tục lấy boarding pass cho hành khách",
+				"C- Hướng dẫn hành khách xếp hàng làm thu tục trật tự, lần lượt, nhanh chóng",
+				"D- Hỗ trợ cho hành khách đặc biệt các thủ tục an ninh"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "13. Nhân viên làm vị trí giám sát màn hình máy soi tia X thực hiện nhiệm vụ liên tục trong bao lâu?",
+			"options": ["A- 15 phút", "B- 30 phút", "C- 45 phút", "D- 60 phút"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "14. Nhiệm vụ của kíp trưởng tại điểm kiểm tra an ninh hàng không là gì?",
+			"options": [
+				"A- Kiểm tra trực quan hành lý xách tay",
+				"B- Điều hành toàn bộ công việc",
+				"C- Thực hiện công việc của nhân viên quan sát màn hình máy soi tia X",
+				"D- Lục soát hành khách và đối chiếu giấy tờ"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "15. Công việc kiểm tra hành lý, đồ vật trong quá trình đi qua máy soi tia X được thực hiện bởi nhân viên nào?",
+			"options": [
+				"A- Nhân viên nội bộ",
+				"B- Nhân viên quan sát màn hình máy soi tia X",
+				"C- Nhân viên kiểm tra giấy tờ",
+				"D- Kíp trưởng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "16. Hành khách hàng không phải thực hiện yêu cầu nào dưới đây tại điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Cởi bỏ vật dụng cá nhân",
+				"B- Đặt hành lý lên băng chuyền máy soi tia X",
+				"C- Xuất trình xác nhận đã tiêm đủ vắc xin Covid 19",
+				"D- Đối chiếu giấy tờ với vé, thẻ lên tàu bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "17. Điểm kiểm tra an ninh hàng không phải có những dụng cụ, thiết bị nào?",
+			"options": [
+				"A- Máy soi tia X, thiết bị phát hiện chất nổ, thiết bị thông tin liên lạc",
+				"B- Máy quét công nghệ cao",
+				"C- Máy tạo hình 3D, máy quét vân tay",
+				"D- Đèn UV, máy xử lý nhiệt"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "18. Thời gian giám sát màn hình máy soi tia X không được vượt quá bao nhiêu phút?",
+			"options": ["A- 15 phút", "B- 30 phút", "C- 45 phút", "D- 60 phút"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "19. Công việc nào thuộc trách nhiệm của kíp trưởng tại điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Giám sát màn hình máy soi tia X",
+				"B- Kiểm tra trực quan, lục soát an ninh hàng không",
+				"C- Điều hành và giám sát toàn bộ công việc tại điểm kiểm tra",
+				"D- Xử lý các yếu tố đe dọa"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "20. Công việc kiểm tra an ninh hàng không đối với hàng hóa, bưu gửi bao gồm những nhiệm vụ nào?",
+			"options": [
+				"A- Kiểm tra giấy tờ và ghi tài liệu",
+				"B- Kiểm tra hàng trực quan và lục soát an ninh",
+				"C- Kiểm tra bằng dụng cụ phát hiện chất nổ",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "21. Công việc niêm phong an ninh hàng không do ai thực hiện?",
+			"options": [
+				"A- Nhân viên kiểm soát an ninh hàng không",
+				"B- Kíp trưởng",
+				"C- Giám sát viên",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "22. Ai chịu trách nhiệm chỉ đạo, điều hành và giám sát toàn bộ công việc tại điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Nhân viên kiểm soát an ninh hàng không",
+				"B- Nhân viên Cảng vụ hàng không",
+				"C- Kíp trưởng",
+				"D- Nhân viên giám sát chất lượng dịch vụ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "23. Các tài liệu cần có tại mỗi điểm kiểm tra an ninh hàng không là gì?",
+			"options": [
+				"A- Quy trình kiểm tra mìn, bom",
+				"B- Quy trình kiểm tra người, đồ vật, phương tiện",
+				"C- Quy trình kiểm tra thực phẩm",
+				"D- Quy trình kiểm tra động vật sống"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "24. Thẻ, giấy phép kiểm soát an ninh hàng không được phép vào khu vực nào?",
+			"options": [
+				"A- Khu vực công cộng",
+				"B- Khu vực hạn chế",
+				"C- Khu vực công cộng và khu vực hạn chế",
+				"D- Khu vực không xác định"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "25. Sổ giao ca dùng để ghi chép thông tin nào?",
+			"options": [
+				"A- Tình hình và kết quả kiểm tra, giám sát an ninh",
+				"B- Số điện thoại liên quan",
+				"C- Danh sách người, phương tiện mất thẻ, giấy phép",
+				"D- Biển báo, chỉ dẫn thích hợp"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "26. Cổng, cửa, hàng rào di động tại điểm kiểm tra an ninh hàng không phải ở trạng thái nào?",
+			"options": [
+				"A- Đóng (khóa)",
+				"B- Mở",
+				"C- Mở khi người, phương tiện ra vào",
+				"D- Chỉ mở khi phục vụ công tác khẩn nguy"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "27. Đối tượng nào là đối tượng kiểm tra tại điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Hành khách đi tàu bay.",
+				"B- Thành viên tổ bay.",
+				"C- Hành lý, hàng hóa, bưu gửi, ...",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "28. Nhiệm vụ tại điểm kiểm tra an ninh hàng không không bao gồm việc kiểm tra an ninh đối với:",
+			"options": [
+				"A- Hành khách và hành lý xách tay xuất phát, Thành viên tổ bay.",
+				"B- Hàng hóa mang vào khu vực hạn chế, khu vực cách ly.",
+				"C- Người không phải là hành khách/công cụ dụng cụ/vật phẩm nguy hiểm.",
+				"D- Đáp án A,B,C sai"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "29. Nhân viên kiểm soát an ninh hàng không kiểm tra, đối chiếu giấy tờ về nhân thân, thẻ lên tàu bay của hành khách theo trình tự nào?",
+			"options": [
+				"A- Họ tên hành khách, chặng bay, số hiệu chuyến bay, ngày, giờ khởi hành",
+				"B- Ngày, giờ khởi hành, chặng bay, số hiệu chuyến bay, họ tên hành khách",
+				"C- Số hiệu chuyến bay, chặng bay, ngày, giờ khởi hành, họ tên hành khách",
+				"D- Chặng bay, họ tên hành khách, số hiệu chuyến bay, ngày, giờ khởi hành"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "30. Nhân viên sử dụng hệ thống đọc mã vạch của Hãng hàng không để làm gì?",
+			"options": [
+				"A- Xác định đúng thông tin của hành khách",
+				"B- Quan sát khu vực nếu có hành lý, đồ vật không xác nhận được chủ",
+				"C- Báo cáo ngay các trường hợp bất thường",
+				"D- Hướng dẫn hành khách trước cổng từ, thiết bị soi chiếu cơ thể"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "31. Hướng dẫn hành khách để tất cả vật dụng cá nhân (điện thoại di động, máy tính, thiết bị điện tử, chất lỏng, áo khoác, mũ, giầy, dép, thắt lưng…) vào khay rồi cho vào máy soi theo thứ tự và chiều hướng dễ quan sát nhất làm gì?",
+			"options": [
+				"A- Kiểm tra vật dụng cá nhân của hành khách",
+				"B- Xác định đúng thông tin của hành khách",
+				"C- Quan sát khu vực nếu có hành lý, đồ vật không xác nhận được chủ",
+				"D- Hướng dẫn hành khách đi qua cổng từ/thiết bị soi chiếu cơ thể"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "32. Hướng dẫn hành khách đi qua cổng từ/thiết bị soi chiếu cơ thể theo thứ tự nào?",
+			"options": [
+				"A- Ngẫu nhiên",
+				"B- Tùy theo sự xếp hàng của hành khách",
+				"C- Từng người một",
+				"D- Cùng lúc"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "33. Trong trường hợp nào cần thông báo ngay cho trực Ca/Kíp/Tổ hoặc Cán bộ trực Đội để xử lý theo quy định?",
+			"options": [
+				"A- Khi hành lý, đồ vật để quên không xác nhận được chủ",
+				"B- Khi không phát hiện điều gì bất thường trong hành lý của hành khách",
+				"C- Khi hành khách chỉ có vé và chưa làm thủ tục lấy thẻ đi tàu bay",
+				"D- Khi hành khách tuân thủ quy định an ninh hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "34. Ai có nhiệm vụ theo dõi tín hiệu của cổng từ hoặc thiết bị soi chiếu cơ thể và biểu hiện của người được kiểm tra?",
+			"options": [
+				"A- Nhân viên ngồi màn hình máy soi tia X",
+				"B- Nhân viên hướng dẫn khách",
+				"C- Nhân viên kiểm thể",
+				"D- Nhân viên kiểm tra trực quan"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "35. Vị trí nào chịu trách nhiệm báo cáo khi phát hiện vật, chất nguy hiểm trong người của hành khách?",
+			"options": [
+				"A- Nhân viên ngồi màn hình máy soi tia X",
+				"B- Nhân viên hướng dẫn khách",
+				"C- Nhân viên kiểm thể",
+				"D- Nhân viên kiểm tra trực quan"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "36. Người không chấp hành việc kiểm thể, cản trở việc kiểm tra an ninh hàng không thì nhân viên ở vị trí đó phải làm gì?",
+			"options": [
+				"A- Báo ngay trực Ca/Kíp/Tổ hoặc Cán bộ trực Đội xin ý kiến giải quyết",
+				"B- Cho đi qua cổng từ luôn tránh ùn tắc",
+				"C- Cho vào khu vực cách ly và tiến hành kiểm tra trực quan",
+				"D- Từ chối và báo hãng hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "37. Kiểm tra bổ sung ngẫu nhiên sau kiểm tra an ninh hàng không lần đầu đối với hành khách bao gồm những kiểu kiểm tra nào?",
+			"options": [
+				"A- Kiểm tra trực quan",
+				"B- Kiểm tra bằng dụng cụ, thiết bị",
+				"C- Kiểm tra bằng động vật phát hiện chất nổ",
+				"D- Đáp án A,B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "38. Lực lượng Công an cửa khẩu đang làm nhiệm vụ tại cảng hàng không, sân bay phải thực hiện kiểm tra những gì khi đi qua cổng từ?",
+			"options": [
+				"A- Cởi áo khoác, mũ, giầy, dép, thắt lưng",
+				"B- Chỉ thực hiện kiểm tra trực quan với người và tài liệu mang theo của lực lượng Công an cửa khẩu",
+				"C- Kiểm tra thẻ kiểm soát an ninh hàng không hoặc số hiệu Công an cửa khẩu",
+				"D- Kiểm tra như hành khách thông thường"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "39. Khi có nghi vấn nhưng chưa xác định được vật phẩm nguy hiểm, nhân viên giám sát màn hình máy soi tia X phải làm gì?",
+			"options": [
+				"A- Soi lại hành lý ở chiều khác nhau bằng máy soi tia X, sử dụng các chức năng phù hợp của máy soi để xác định như phóng to, làm rõ góc cạnh, tăng giảm độ xuyên thấu...",
+				"B- Thông báo cho cán bộ trực tại đó",
+				"C- Thông báo cho hành khách để phỏng vấn thêm thông tin nếu không có dấu hiệu nghi ngờ thì cho qu",
+				"D- Báo hãng vận chuyển phối hợp kiểm tr"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "40. Khi phát hiện vật phẩm nguy hiểm trong hành lý xách tay của hành khách, nhân viên giám sát màn hình máy soi tia X cần làm gì?",
+			"options": [
+				"A- Thông báo cho nhân viên kiểm tra trực quan và tiến hành kiểm tra trực quan hoặc bằng các hình thức kiểm tra phù hợp khác.",
+				"B- Dừng máy trực tiếp thực hiện kiểm tra trực quan kiện hành lý đó",
+				"C- Thông báo cho hành khách để khách mở hành lý và lấy ra vật phẩm nguy hiểm.",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "41. Nhân viên kiểm tra trực quan được thông báo về thông tin gì của kiện hành lý cần kiểm tra trực quan?",
+			"options": [
+				"A- Vị trí của đồ vật/ hành lý cần kiểm tr",
+				"B- Hình dáng của đồ vật/ hành lý cần kiểm tr",
+				"C- Số lượng của vật/chất cần kiểm tr",
+				"D- Đáp án A, B và C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "42. Trong trường hợp nào sẽ phải báo cáo Trực ca/kíp/tổ, cán bộ trực đội ?",
+			"options": [
+				"A- Khi có vướng mắc và tình huống phát sinh trong kiểm tr",
+				"B- Khi không có gì bất thường",
+				"C- Khi bắt đầu tiến hành kiểm tra trực quan hành lý nghi ngờ",
+				"D- Khi phát hiện vật phẩm nguy hiểm trên người của hành khách"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "43. Khi nhận yêu cầu kiểm tra trực quan nhân viên kiểm tra trực quan cần xác định thông tin nào đầu tiên",
+			"options": [
+				"A- Vị trí, tên, đặc điểm, số lượng vật cần kiểm tr",
+				"B- Xác định hành khách đi chuyến bay nào?",
+				"C- Kiểm tra thông tin cá nhân của hành khách",
+				"D- Kiểm tra thông tin người đi cùng hành khách"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "44. Những vật phẩm nào được xem là nguy hiểm và cần đặc biệt chú ý trong quá trình kiểm tra hành lý?",
+			"options": [
+				"A- Vũ khí, công cụ hỗ trợ",
+				"B- Dao, kéo",
+				"C- Động vật sống",
+				"D- Thực phẩm dạng lỏng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "45. Trường hợp còn nghi vấn sau khi kiểm tra trực quan, hành lý sẽ được xử lý như thế nào?",
+			"options": [
+				"A- Đưa hành lý qua máy soi chiếu kiểm tra lại",
+				"B- Đặt vào thùng an ninh theo quy định",
+				"C- Ghi chép sổ sách đầy đủ hoặc lập biên bản vụ việc",
+				"D- Bỏ qua và xử lý hành lý tiếp theo"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "46. Cần kiểm tra bổ sung ngẫu nhiên tối thiểu bao nhiêu phần trăm sau kiểm tra an ninh hàng không lần đầu đối với hành lý?",
+			"options": ["A- 5", "B- 10", "C- 15", "D- 20"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "47. Khi có hành lý, đồ vật không xác nhận được chủ, nhân viên làm nhiệm vụ kiểm tra nên thông báo cho ai?",
+			"options": [
+				"A- Nhân viên tiếp nhận",
+				"B- Trực Ca/Kíp/Tổ",
+				"C- Cán bộ trực Trung tâm",
+				"D- Hành khách"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "48. Để giám sát màn hình máy soi tia X, ta cần thực hiện những hoạt động nào?",
+			"options": [
+				"A- Đăng nhập tài khoản cá nhân và mật khẩu.",
+				"B- Sử dụng chức năng của máy soi tia X để phân tích, nhận định, đánh giá hành lý.",
+				"C- Kiểm tra hành lý ở chiều khác nhau sử dụng các chức năng phù hợp.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "49. Sau khi kiểm tra màn hình máy soi tia X, nếu không phát hiện vật phẩm nguy hiểm trong hành lý ký gửi, thì thực hiện thủ tục gì?",
+			"options": [
+				"A- Tiếp tục kiểm tra an ninh.",
+				"B- Hoàn thành thủ tục kiểm tra an ninh đối với kiện hành lý.",
+				"C- Thông báo cho nhân viên kiểm tra trực quan.",
+				"D- Dừng máy soi và tiến hành kiểm tra trực quan."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "50. Khi phát hiện vật phẩm nguy hiểm trong hành lý ký gửi, ta nên thực hiện thủ tục gì?",
+			"options": [
+				"A- Hoàn thành thủ tục kiểm tra an ninh đối với kiện hành lý.",
+				"B- Thông báo cho nhân viên kiểm tra trực quan.",
+				"C- Xử lý theo quy định khi phát hiện vật phẩm nguy hiểm.",
+				"D- Tiến hành kiểm tra trực quan hoặc các biện pháp thích hợp khác."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "51. Trong quá trình giám sát màn hình máy soi tia X, ta cần sử dụng các chức năng nào để phân tích, nhận định, đánh giá hành lý?",
+			"options": [
+				"A- Phóng to, Làm rõ góc cạnh.",
+				"B- Tăng giảm độ xuyên thấu.",
+				"C- Loại bỏ chất vô cơ, chất hữu cơ.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "52. Khi nhận yêu cầu kiểm tra trực quan, nhân viên kiểm tra trực quan xác định những thông tin nào?",
+			"options": [
+				"A- Tên vật cần kiểm tra",
+				"B- Tên, đặc điểm, số lượng vật cần kiểm tra",
+				"C- Tên khách, số thẻ hành lý, số hiệu chuyến bay",
+				"D- Hãng hàng không mà hành khách mua vé"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "53. Nhân viên kiểm tra trực quan tiến hành kiểm tra hành lý nghi vấn như thế nào?",
+			"options": [
+				"A- Dùng tay trực tiếp tiến hành kiểm tra",
+				"B- Sử dụng găng tay để tiến hành kiểm tra",
+				"C- Tiến hành kiểm tra mà không cần chứng kiến của hành khách",
+				"D- Đưa hành lý lên bàn kiểm tra và tự mở khóa hành lý"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "54. Khi kiểm tra trực quan, nhân viên phải thông báo cho nhân viên giám sát màn hình máy soi biết gì?",
+			"options": [
+				"A- Kết quả kiểm tra",
+				"B- Biện pháp giải quyết đối với vật nghi vấn",
+				"C- Kết quả kiểm tra và biện pháp giải quyết để đảm bảo chắc chắn rằng đồ vật, hành lý nghi vấn đã được kiểm tra theo đúng yêu cầu.",
+				"D- Không cần thông báo gì chỉ cần tiến hành kiểm tra đúng quy trình"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "55. Trong trường hợp không tìm được chủ nhân của kiện hành lý (ký gửi) nghi vấn cần mở kiểm tra an ninh, ai sẽ mở hành lý để tiến hành kiểm tra an ninh?",
+			"options": [
+				"A- Nhân viên kiểm tra trực quan",
+				"B- Nhân viên giám sát màn hình máy soi",
+				"C- Đại diện hãng hàng không",
+				"D- Hành khách khác"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "56. Ai chịu trách nhiệm chỉ đạo, điều hành và giám sát toàn bộ công việc tại điểm kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Nhân viên kiểm tra trực quan",
+				"B- Trực lãnh đạo điều hành đơn vị",
+				"C- Kíp trưởng",
+				"D- Nhân viên giám sát màn hình máy soi"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "57. Khi kiểm tra trực quan phát hiện những đồ vật cấm, vật phẩm nguy hiểm, phải làm gì?",
+			"options": [
+				"A- Kiểm soát và bỏ vào thùng an ninh",
+				"B- Ghi vào \"Sổ kiểm tra trực quan\"",
+				"C- Báo cáo ngay trực Ca/Kíp/Tổ hoặc Cán bộ trực Đội",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "58. Những đồ vật cấm, vật phẩm nguy hiểm khi kiểm tra trực quan phát hiện phải được kiểm soát và bỏ vào đâu?",
+			"options": [
+				"A- Thùng an ninh có khóa đóng theo quy định.",
+				"B- Thùng rác.",
+				"C- Bàn giao cho Hãng hàng không.",
+				"D- Tủ chung của tổ/đội."
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

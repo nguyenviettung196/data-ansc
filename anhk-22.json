@@ -1,0 +1,677 @@
+{
+	"questions": [
+		{
+			"question": "1. Văn bản nào quy định chi tiết về công tác bảo đảm chuyến bay chuyên cơ, chuyên khoang?",
+			"options": [
+				"A- Thông tư 25/2022/TT-BGTVT ngày 20 tháng 10 năm 2022 của Bộ Giao thông vận tải.",
+				"B- Thông tư 13/2019/TT-BGTVT ngày 20 tháng 10 năm 2022 của Bộ Giao thông vận tải.",
+				"C- Thông tư 41/2020/TT-BGTVT ngày 20 tháng 10 năm 2022 của Bộ Giao thông vận tải.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "2. Đối tượng nào sau đây được phục vụ chuyến bay chuyên cơ, chuyên khoang?",
+			"options": [
+				"A- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+				"B- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam,",
+				"C- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+				"D- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, Thủ tướng Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam, Bí thư Tỉnh uỷ."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "3. Nguyên tắc kiểm tra an ninh đối với chuyến bay chuyên cơ, thuê khoang gồm các nguyên tắc nào?",
+			"options": [
+				"A- Bảo đảm an ninh, an toàn tuyệt đối, Bảo đảm nghi lễ đón, tiễn chuyến bay chuyên cơ, chuyên khoang theo quy định.",
+				"B- Bảo đảm tiêu chuẩn chuyên cơ, chuyên khoang theo quy định.",
+				"C- Bảo đảm bí mật kế hoạch đảm bảo an ninh cho đối tượng chuyên cơ, chuyên khoang theo quy định của pháp luật",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "4. Đại sứ đặc mệnh toàn quyền của các nước tại Việt Nam được phục vụ chuyến bay như thế nào?",
+			"options": [
+				"A- Được phục vụ chuyến bay chuyên cơ, chuyên khoang.",
+				"B- Được phục vụ chuyến bay ưu tiên.",
+				"C- Áp dụng như chuyến bay thông thường",
+				"D- Đáp án A, B đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "5. Hành khách là trẻ em 14 tuổi được phục vụ chuyến bay như thế nào?",
+			"options": [
+				"A- Được phục vụ chuyến bay chuyên cơ, chuyên khoang.",
+				"B- Được phục vụ chuyến bay ưu tiên.",
+				"C- Áp dụng như chuyến bay thông thường",
+				"D- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "6. Hành khách có thẻ hội viên bông sen vàng được phục vụ chuyến bay như thế nào?",
+			"options": [
+				"A- Được phục vụ chuyến bay chuyên cơ, chuyên khoang.",
+				"B- Được phục vụ chuyến bay ưu tiên.",
+				"C- Áp dụng như chuyến bay thông thường",
+				"D- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "7. Chuyến bay được miễn kiểm tra ANHK trong trường hợp có văn bản miễn kiểm tra cơ quan nào?",
+			"options": [
+				"A- Cục hàng không Việt Nam.",
+				"B- Cảng vụ hàng không",
+				"C- Người đứng đầu cảng hàng không, sân bay",
+				"D- Giám đốc Trung tâm An ninh hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "8. Nguyên tắc kiểm tra an ninh đối với chuyến bay ưu tiên gồm các nguyên tắc nào?",
+			"options": [
+				"A- Ưu tiên thủ tục hàng không",
+				"B- Ưu tiên luồng tuyến",
+				"C- Ưu tiên sử dụng nhà khách VIP",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "9. Nguyên tắc kiểm tra an ninh đối với người già, trẻ nhỏ; bệnh nhân, người khuyết tật gồm các nguyên tắc nào?",
+			"options": [
+				"A- Ân cần, lịch sự, sẵn sàng giúp đỡ, ưu tiên lối đi riêng",
+				"B- Ân cần, lịch sự, sẵn sàng giúp đỡ.",
+				"C- Ân cần, sẵn sàng giúp đỡ, ưu tiên lối đi riêng",
+				"D- Ân cần, lịch sự, sẵn sàng giúp đỡ, ưu tiên lối đi riêng, miễn kiểm tra ANHK."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "10. Nguyên tắc kiểm tra an ninh đối với đối tượng danh sách đen, truy nã, trục xuất gồm các nguyên tắc nào?",
+			"options": [
+				"A- Thận trọng, cảnh giác",
+				"B- Tuân thủ các quy định của pháp luật liên quan",
+				"C- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "11. Chuyến bay chuyên cơ thuê khoang không được vận chuyển bao nhiêu hành khách là bị can, bị cáo, phạm nhân, người bị trục xuất, dẫn độ, người bị bắt theo quyết định truy nã?",
+			"options": [
+				"A- Tối đa 03 người",
+				"B- Tối đa 05 người",
+				"C- Không vận chuyển hành khách",
+				"D- Không giới hạn"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "12. Quy trình kiểm tra đối với nhân viên nội bộ như thế nào?",
+			"options": [
+				"A- Không cần thiết.",
+				"B- Kiểm tra như hành khách xuất phát.",
+				"C- Kiểm tra soi chiếu đồ vật mang theo người của nhân viên nội bộ",
+				"D- Kiểm tra thẻ KSANHK."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "13. Lực lượng KSANHK phải phối hợp với các đơn vị nào để xử lý các vấn đề khi phát sinh khi triển khai phục vụ các chuyến bay chuyên cơ, chuyên khoang?",
+			"options": [
+				"A- Đại diện hãng hàng không nước ngoài",
+				"B- Hải quan",
+				"C- Công an cửa khẩu (đối với chuyến bay chuyên cơ, chuyên khoang đi quốc tế)",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "15. Việc kiểm tra tình trạng hoạt động của các trang thiết bị an ninh hàng không chính và dự phòng trong công tác phục vụ chuyến bay chuyên cơ phải được thể hiện bằng hồ sơ, thời gian lưu trữ tối thiểu là bao lâu?",
+			"options": ["A- 06 tháng", "B- 01 năm", "C- 02 năm", "D- 03 năm"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "16. Các dấu hiệu nào để nhận biết hành khách ưu tiên đối với hành khách làm thủ tục hàng không tại quầy thông thường?",
+			"options": [
+				"A- Được đóng dấu/in trực tiếp lên thẻ lên tàu bay hoặc cập nhật lên hệ thống xác thực hành khách",
+				"B- Dấu hiệu “VIP”",
+				"C- Dấu hiệu “Priority”, “Ưu tiên” hoặc dấu hiệu khác theo quy định của người khai thác cảng",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "17. Quy trình kiểm tra an ninh đối tượng ưu tiên được thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra thẻ lên tàu bay, giấy tờ về nhân thân của hành khách hoặc xác thực hành khách tự động theo quy định về bảo đảm an ninh hàng không; nhận diện dấu hiệu ưu tiên theo quy định; hướng dẫn hành khách đi vào lối ưu tiên.",
+				"B- Kiểm tra thẻ lên tàu bay, giấy tờ về nhân thân của hành khách hoặc xác thực hành khách tự động theo quy định về bảo đảm an ninh hàng không; nhận diện dấu hiệu ưu tiên theo quy định; hướng dẫn hành khách đi vào lối ưu tiên; thực hiện kiểm tra soi chiếu an ninh đối với người, đồ vật, hành lý xách tay theo quy định.",
+				"C- Kiểm tra thẻ lên tàu bay, giấy tờ về nhân thân của hành khách hoặc xác thực hành khách tự động theo quy định về bảo đảm an ninh hàng không; nhận diện dấu hiệu ưu tiên theo quy định; hướng dẫn hành khách đi vào lối ưu tiên; miễn kiểm tra soi chiếu an ninh đối với người.",
+				"D- Kiểm tra thẻ lên tàu bay, giấy tờ về nhân thân của hành khách hoặc xác thực hành khách tự động theo quy định về bảo đảm an ninh hàng không; nhận diện dấu hiệu ưu tiên theo quy định; hướng dẫn hành khách đi vào lối ưu tiên; miễn kiểm tra soi chiếu an ninh đối với đồ vật, hành lý xách tay."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "18. Quy trình xử lý đối với trường hợp: Thẻ lên tàu không có dấu hiệu hiệu nhận biết riêng nhưng hành khách xuất trình đủ giấy tờ chứng minh thuộc đối tượng ưu tiên như thế nào?",
+			"options": [
+				"A- Nhân viên an ninh hàng không phục vụ hành khách như hành khách thuộc đối tượng ưu tiên và thống kê, ghi nhận các trường hợp bất thường; định kỳ thống kê, báo cáo lãnh đạo Cảng để khuyến cáo các đơn vị phục vụ mặt đất, hãng hàng không.",
+				"B- Nhân viên an ninh hàng không từ chối giải quyết vì không có đủ dấu hiệu nhận biết riêng.",
+				"C- Yêu cầu hành khách liên hệ với đại diện Hãng hàng không để giải quyết."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "19. Quy trình xử lý đối với trường hợp: Thẻ lên tàu có dấu hiệu nhận biết riêng hoặc có thông tin hành khách ưu tiên trên hệ thống xác thực hành khách nhưng hành khách không thuộc đối tượng ưu tiên như thế nào?",
+			"options": [
+				"A- Yêu cầu hành khách liên hệ với đại diện Hãng hàng không để giải quyết.",
+				"B- Nhân viên an ninh hàng không phục vụ hành khách như hành khách thuộc đối tượng ưu tiên và thống kê, ghi nhận các trường hợp bất thường; định kỳ thống kê, báo cáo lãnh đạo Cảng để khuyến cáo các đơn vị phục vụ mặt đất, hãng hàng không.",
+				"C- Nhân viên an ninh hàng không từ chối giải quyết vì không có đủ dấu hiệu nhận biết riêng."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "20. Độ tuổi của hành khách được bố trí lối đi ưu tiên đối với người già và trẻ nhỏ là bao nhiêu ?",
+			"options": [
+				"A- Người già (trên 60 tuổi), trẻ nhỏ (dưới 02 tuổi)",
+				"B- Người già (trên 70 tuổi), trẻ nhỏ (dưới 04 tuổi)",
+				"C- Người già (trên 60 tuổi), trẻ nhỏ (dưới 04 tuổi)",
+				"D- Người già (trên 70 tuổi), trẻ nhỏ (dưới 02 tuổi)"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "21. Quy trình kiểm tra đối với hành khách là người già (trên 70 tuổi), trẻ nhỏ (dưới 02 tuổi) như thế nào?",
+			"options": [
+				"A- Kiểm tra soi chiếu an ninh đối với đồ vật, hành lý xách tay.",
+				"B- Kiểm tra soi chiếu an ninh đối với người.",
+				"C- Kiểm tra như đối với hành khách xuất phát.",
+				"D- Không cần thiết phải kiểm tra vì đối tượng hành khách này không gây uy hiếp đến chuyến bay."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "22. Quy trình kiểm tra người và đồ vật/hành lý mang theo đối với hành khách là bệnh nhân, người khuyết tật như thế nào?",
+			"options": [
+				"A- Kiểm tra soi chiếu an ninh đối với người.",
+				"B- Kiểm tra như đối với hành khách xuất phát.",
+				"C- Thực hiện kiểm tra như đối với hành khách, hành lý xách tay xuất phát.",
+				"D- Không cần thiết phải kiểm tra vì đối tượng hành khách này không gây uy hiếp đến chuyến bay."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "23. Đối với trường hợp hành khách có các bộ phận tay, chân giả có thể tháo rời và có sự đồng ý của hành khách, nhân viên KSANHK sẽ xử lý như thế nào?",
+			"options": [
+				"A- Hướng dẫn khách đến địa điểm riêng biệt để khách có thể tháo rời bộ phận tay/chân giả đó, lấy bộ phận tay hoặc chân giả đó đưa qua máy soi chiếu để kiểm tra, không cần thiết kiểm tra người.",
+				"B- Hướng dẫn khách đến địa điểm riêng biệt để khách có thể tháo rời bộ phận tay/chân giả đó, lấy bộ phận tay hoặc chân giả đó đưa qua máy soi chiếu để kiểm tra. Sau đó tiến hành kiểm tra như hành khách bình thường",
+				"C- Không cần thiết phải kiểm tra vì đối tượng hành khách này không gây uy hiếp đến chuyến bay."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "24. Đối với trường hợp hành khách có các bộ phận tay, chân giả không thể tháo rời , nhân viên KSANAHK sẽ xử lý như thế nào?",
+			"options": [
+				"A- Kiểm tra trực quan hành khách tại buồng lục soát. Đặc biệt chú ý các bộ phận tay/chân giả, kết hợp kiểm tra bằng máy ngửi chất nổ, bộ phát hiện vi vết chất nổ.",
+				"B- Kiểm tra trực quan hành khách tại buồng lục soát, đặt các câu hỏi liên quan để xác định các trường hợp bất thường.",
+				"C- Kiểm tra trực quan hành khách tại buồng lục soát, đặt các câu hỏi liên quan để xác định các trường hợp bất thường. Đặc biệt chú ý các bộ phận tay/chân giả, kết hợp kiểm tra bằng máy ngửi chất nổ.",
+				"D- Kiểm tra trực quan hành khách tại buồng lục soát, đặt các câu hỏi liên quan để xác định các trường hợp bất thường. Đặc biệt chú ý các bộ phận tay/chân giả, kết hợp kiểm tra bằng máy ngửi chất nổ, bộ phát hiện vi vết chất nổ."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "25. Đối với hành khách nằm cáng cứu thương phải thực hiện kiểm tra như thế nào?",
+			"options": [
+				"A- Kiểm tra, soi chiếu hành lý, không kiểm tra người đối với hành khách nằm cáng cứu thương.",
+				"B- Kiểm tra trực quan hoặc các biện pháp thích hợp khác tại nơi phù hợp kiểm tra bằng thiết bị, dụng cụ phát hiện chất nổ (máy ngửi/dò chất nổ, bộ phát hiện vi vết chất nổ)",
+				"C- Không cần thiết phải kiểm tra vì đối tượng hành khách này không gây uy hiếp đến chuyến bay."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "26. Quy trình kiểm tra hành khách khuyết tật ngồi xe lăn như thế nào?",
+			"options": [
+				"A- Áp dụng quy trình kiểm tra trực quan người để kiểm tra hành khách",
+				"B- Áp dụng quy trình kiểm tra bằng máy ngửi chất nổ, bộ phát hiện vi vết chất nổ nếu cần thiết.",
+				"C- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "27. Các vị trí nào cần chú ý khi kiểm tra hành khách khuyết tật ngồi xe lăn?",
+			"options": [
+				"A- Hai bên nách, háng, mông.",
+				"B- Sau lưng và lòng bàn chân.",
+				"C- Khu vực băng bó vết thương (nếu có)...",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "28. Thứ tự kiểm tra hành khách khuyết tật ngồi xe lăn và xe lăn như thế nào?",
+			"options": [
+				"A- Kiểm tra xe lăn trước, kiểm tra hành khách sau.",
+				"B- Kiểm tra hành khách trước, kiểm tra xe lăn sau",
+				"C- Kiểm tra hành khách, không cần kiểm tra xe lăn.",
+				"D- Kiểm tra xe lăn, không cần kiểm tra hành khách."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "29. Người và hành lý đi cùng hành khách khuyết tật ngồi xe lăn được kiểm tra như thế nào?",
+			"options": [
+				"A- Kiểm tra người đi cùng hành khách khuyết tật, không cần kiểm tra hành lý của họ.",
+				"B- Kiểm tra hành lý của người đi cùng hành khách khuyết tật, không cần kiểm tra người.",
+				"C- Kiểm tra như khách bình thường."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "30. Áp dụng một hoặc kết hợp các biện pháp kiểm tra nào sau đây đối với hành khách bị bó bột?",
+			"options": [
+				"A- Kiểm tra bằng máy dò kim loại cầm tay.",
+				"B- Kiểm tra trực quan",
+				"C- Kiểm tra bằng máy ngửi chất nổ, bộ phát hiện vi vết chất nổ.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "31. Các vị trí nào cần chú ý khi kiểm tra hành khách bị bó bột?",
+			"options": [
+				"A- Hai bên nách, háng, mông.",
+				"B- Sau lưng và lòng bàn chân.",
+				"C- Khu vực băng bó vết thương (nếu có)...",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "32. Hành khách có gắn thiết bị phụ trợ y tế trên hoặc trong cơ thể được kiểm tra như thế nào?",
+			"options": [
+				"A- Kiểm tra trực quan",
+				"B- Sử dụng cổng từ để kiểm tra.",
+				"C- Sử dụng máy dò kim loại cầm tay để kiểm tra.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "33. Nhân viên kiểm soát ANHK yêu cầu người dẫn giải đối tượng truy nã, trục xuất trình gì?",
+			"options": [
+				"A- Lệnh hoặc quyết định áp giải của cơ quan có thẩm quyền",
+				"B- Giấy tờ nhân thân",
+				"C- Thẻ lên tàu bay",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "34. Số lượng cho phép mỗi chuyến bay chỉ được chuyên chở bị can hoặc bị cáo là bao nhiêu?",
+			"options": [
+				"A- Không quá 02",
+				"B- Không quá 03",
+				"C- Không quá 05"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "35. Số lượng cho phép mỗi chuyến bay chỉ được chuyên chở người bị trục xuất, dẫn độ là bao nhiêu?",
+			"options": [
+				"A- Không quá 02",
+				"B- Không quá 03",
+				"C- Không quá 05"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "36. Nhân viên KSANHK (kiểm soát ANHK) phối hợp với đơn vị nào để biết thời gian hành khách lên tàu bay của chuyến bay?",
+			"options": [
+				"A- Hãng hàng không",
+				"B- Cảng vụ hàng không",
+				"C- Đại lý bán vé",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "37. Đối tượng truy nã, trục xuất lên tàu bay như thế nào?",
+			"options": [
+				"A- Đối tượng truy nã, trục xuất lên tàu bay sau giờ hành khách bình thường lên tàu bay",
+				"B- Đối tượng truy nã, trục xuất lên tàu bay trước giờ hành khách bình thường lên tàu bay",
+				"C- Đối tượng truy nã, trục xuất lên tàu bay cùng giờ hành khách bình thường lên tàu bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "38. Việc kiểm tra trực quan hành khách, hành lý xách tay đối tượng truy nã, trục xuất được thực hiện tại đâu?",
+			"options": [
+				"A- Tại điểm kiểm tra an ninh hàng không",
+				"B- Tại buồng lục soát",
+				"C- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "39. Đơn vị nào phối hợp với người áp giải đánh giá nguy cơ trong việc vận chuyển hành khách bị áp giải và quyết định các biện pháp bảo đảm an ninh, an toàn phù hợp?",
+			"options": [
+				"A- Cảng vụ hàng không",
+				"B- Hãng hàng không",
+				"C- Ban Giám đốc của Trung tâm ANHK",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "40. Đại diện hãng hàng không phải thông báo cho ai về vị trí ngồi của hành khách là bị can, phạm nhân, người bị trục xuất, dẫn độ và người áp giải cùng với công cụ hỗ trợ họ mang theo?",
+			"options": [
+				"A- Đại diện cảng vụ hàng không",
+				"B- Đại diện hãng hàng không",
+				"C- Người chỉ huy tàu bay",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "41. Người chỉ huy tàu bay thông báo cho đơn vị nào của nơi tàu bay dự định hạ cánh về các yêu cầu trợ giúp cần thiết nếu có.",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Cảng vụ hàng không",
+				"C- Hãng hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "42. Hãng hàng không phải chịu trách nhiệm phối hợp với đơn vị nào tạm giữ giấy tờ về nhân thân của hành khách bị từ chối nhập cảnh nếu hành khách không có giấy tờ về nhân thân hợp lệ?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Công an cửa khẩu",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "43. Hãng hàng không phải chịu trách nhiệm thông báo cho đơn vị nào danh sách hành khách, thời gian, địa điểm quản lý hành khách bị từ chối nhập cảnh và chuyến bay chuyên chở hành khách rời khỏi Việt Nam?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Công an cửa khẩu",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "44. Đơn vị nào tiếp nhận giấy tờ về nhân thân hoặc các giấy tờ khác do cơ quan quản lý xuất nhập cảnh cung cấp và chỉ giao lại giấy tờ nêu trên khi hành khách đã được bàn giao cho nhà chức trách có thẩm quyền của quốc gia nơi tàu bay đến?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Hãng hàng không",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "45. Trường hợp hành khách bị từ chối nhập cảnh không tự nguyện về nước, hãng hàng không phải bố trí tối thiểu bao nhiêu nhân viên an ninh áp giải trên chuyến bay?",
+			"options": [
+				"A- Tối thiểu 01 nhân viên áp giải 01 hành khách.",
+				"B- Tối thiểu 02 nhân viên áp giải 01 hành khách.",
+				"C- Tối thiểu 03 nhân viên áp giải 01 hành khách."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "46. Đơn vị nào chịu mọi chi phí liên quan đến hành khách bị từ chối nhập cảnh?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Hãng hàng không",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "47. Hãng hàng không chịu trách nhiệm vận chuyển hành khách mang quốc tịch nước ngoài đã nhập cảnh Việt Nam, sau đó xuất cảnh để đi nước thứ ba nhưng bị từ chối nhập cảnh và buộc trở lại Việt Nam và bàn giao cho đơn vị nào để xác minh hành trình, thông tin nhân thân, quốc tịch của hành khách để cơ quan chức năng có biện pháp xử lý?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Công an cửa khẩu",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "48. Hành khách không làm chủ được hành vi là những hành khách như thế nào?",
+			"options": [
+				"A- Hành khách mất khả năng nhận thức",
+				"B- Hành khách mất khả năng điều khiển hành vi của mình do bị bệnh tâm thần",
+				"C- Hành khách mất khả năng điều khiển hành vi của mình do sử dụng rượu bia hoặc chất kích thích",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "49. Đại diện hãng hàng không phải thông báo cho ai vị trí ngồi của hành khách bị bệnh tâm thần?",
+			"options": [
+				"A- Người chỉ huy tàu bay",
+				"B- Lực lượng kiểm soát an ninh hàng không",
+				"C- Công an cửa khẩu",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "50. Việc chấp nhận chuyên chở hành khách đã sử dụng rượu, bia hoặc chất kích thích nhưng chưa đến mức không làm chủ được hành vi do đơn vị nào đánh giá, quyết định?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không",
+				"B- Hãng hàng không",
+				"C- Cảng vụ hàng không",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "51. Nhân viên KSANHK yêu cầu thành viên tổ bay xuất trình gì tại điểm kiểm tra ANHK?",
+			"options": [
+				"A- Căn cước công dân",
+				"B- Hộ chiếu",
+				"C- Thẻ nhận dạng tổ bay",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "52. Kiểm tra, đối chiếu danh sách tổ bay của chuyến bay do đơn vị nào cung cấp cho lực lượng KSANHK trước khi thành viên tổ bay làm thủ tục kiểm tra an ninh.",
+			"options": [
+				"A- Người khai thác tàu bay",
+				"B- Cảng vụ hàng không",
+				"C- Lực lượng kiểm soát an ninh hàng không",
+				"D- Công an cửa khẩu"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "53. Trường hợp phát hiện thành viên tổ bay không có tên trong Danh sách thì nhân viên KSANHK yêu cầu thành viên tổ bay liên lạc với bộ phận có trách nhiệm của đơn vị nào để kiểm tra và bổ sung?",
+			"options": [
+				"A- Người khai thác tàu bay",
+				"B- Hãng hàng không",
+				"C- Công an cửa khẩu",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "54. Nội dung thay đổi/bổ sung so với danh sách tổ bay ban đầu phải có xác nhận của đơn vị nào?",
+			"options": [
+				"A- Người khai thác tàu bay",
+				"B- Hãng hàng không",
+				"C- Công an cửa khẩu",
+				"D- Cảng vụ hàng không"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "55. Xác nhận của Đại diện hãng hàng không liên quan đến nội dung thay đổi/bổ sung so với danh sách tổ bay ban đầu phải có những gì?",
+			"options": [
+				"A- Chữ ký của Đại diện hãng",
+				"B- Dấu của Đại diện hãng",
+				"C- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "56. Nhân viên KSANHK thực hiện kiểm tra thẻ KSANHK dài hạn đối với người không phải là hành khách như thế nào?",
+			"options": [
+				"A- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, chức danh, đơn vị của người được cấp thẻ; tem chống giả trên thẻ; đối chiếu thực tế và ảnh trên thẻ.",
+				"B- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, chức danh, đơn vị của người được cấp thẻ; tem chống giả trên thẻ; đối chiếu thực tế và ảnh trên thẻ.",
+				"C- Số thẻ; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, chức danh, đơn vị của người được cấp thẻ; tem chống giả trên thẻ; đối chiếu thực tế và ảnh trên thẻ.",
+				"D- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, chức danh, đơn vị của người được cấp thẻ; đối chiếu thực tế và ảnh trên thẻ."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "57. Nhân viên KSANHK thực hiện kiểm tra thẻ KSANHK ngắn hạn đối với người không phải là hành khách như thế nào?",
+			"options": [
+				"A- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, đơn vị của người được cấp thẻ; số CMND/số thẻ căn cước công dân/số hộ chiếu",
+				"B- Số thẻ; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, đơn vị của người được cấp thẻ; số CMND/số thẻ căn cước công dân/số hộ chiếu",
+				"C- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; thời hạn hiệu lực của thẻ; họ và tên, đơn vị của người được cấp thẻ; số CMND/số thẻ căn cước công dân/số hộ chiếu",
+				"D- Số thẻ; ký hiệu cảng hàng không, sân bay được phép vào và hoạt động; khu vực hạn chế cảng hàng không, sân bay được phép ra/vào và hoạt động; họ và tên, đơn vị của người được cấp thẻ; số CMND/số thẻ căn cước công dân/số hộ chiếu"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "58. Người giám sát, hộ tống người sử dụng thẻ KSANHK ngắn hạn thuộc các đối tượng nào dưới đây?",
+			"options": [
+				"A- Người thường xuyên làm việc tại KVHC của cơ quan đề nghị cấp thẻ ngắn hạn.",
+				"B- Người của cơ quan chủ quản khu vực hạn chế; Cơ quan quản lý; đơn vị hoạt động thường x.uyên tại khu vực hạn chế.",
+				"C- Lực lượng KSANHK, Cảng vụ hàng không.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "59. Đối với các trường hợp: người giám sát, hộ tống; người sử dụng thẻ KSANHK có giá trị sử dụng ngắn hạn vào, hoạt động trong khu vực hạn chế, khu vực cách ly phải được ghi vào Sổ nào?",
+			"options": [
+				"A- Sổ theo dõi người vào/ra khỏi khu vực hạn chế",
+				"B- Sổ kiểm tra các trường hợp đặc biệt",
+				"C- Sổ kiểm tra trực quan",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "60. Đối với hàng hóa đã được Bộ Tư Lệnh cảnh vệ kiểm tra khi đưa lên tàu bay phải có biên bản do đơn vị nào lập?",
+			"options": [
+				"A- Bộ Tư Lệnh cảnh vệ",
+				"B- Cục Hàng không Việt Nam",
+				"C- Bộ Ngoại giao",
+				"D- Bộ Giao thông vận tải"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "61. Không sử dụng thiết bị soi chiếu cơ thể (Body Scanner) đối với đối tượng nào?",
+			"options": [
+				"A- Hành khách ngồi xe lăn",
+				"B- Hành khách ngồi xe lăn, có tay /chân bị bó bột.",
+				"C- Hành khách có tay /chân bị bó bột.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "62. Có thể sử dụng thiết bị soi chiếu cơ thể (Body Scanner) đối với đối tượng nào thể như một biện pháp kiểm tra bổ sung đối với khách không thể đi qua cổng từ?",
+			"options": [
+				"A- Hành khách có thiết bị phụ trợ y tế",
+				"B- Hành khách ngồi xe lăn",
+				"C- Hành khách có tay /chân bị bó bột.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "63. Cần lưu ý gì khi kiểm tra hành khách là đối tượng danh sách đen, truy nã, trục xuất?",
+			"options": [
+				"A- Kiểm tra trực quan hành khách, hành lý",
+				"B- Giám sát chặt chẽ biểu hiện, hành vi của đối tượng",
+				"C- Đáp án A, B đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "64. Nhân viên KSANHK xử lý như thế nào khi gặp tình huống nhân viên sử dụng thẻ kiểm soát an ninh hết hạn (bao gồm các loại thẻ kiểm soát an ninh ngắn hạn và dài hạn)?",
+			"options": [
+				"A- Báo cáo Trực chỉ huy",
+				"B- Từ chối cho vào khu vực cách ly.",
+				"C- Báo cáo Trực chỉ huy, từ chối cho vào khu vực cách ly."
+			],
+			"correctOption": 2,
+			"points": 10
+		}
+	]
+}

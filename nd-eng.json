@@ -1,0 +1,664 @@
+{
+  "questions":[
+		{
+			"question": "Câu 1: What is the concept of cargo?",
+			"options": [
+				"A- Cargo means properties carried by aircraft except mails, baggages, stores and catering supplies.",
+				"B- Cargo means any things passengers carry on board.",
+				"C- Cargo means checked baggage of passengers.",
+				"D- All above are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: What is the concept of Aviation Security Licence?",
+			"options": [
+				"A- Aviation Security Licence is the confirmation of Southern Airport Authority granted to qualified aviation security staff to perform his/her duty.",
+				"B- Aviation Security Licence is the confirmation of Civil Aviation Authority of Viet Nam granted to individuals that are eligible according to regulations of the law to work as a security staffs.",
+				"C- Aviation Security Licence is the confirmation of Airport Operator granted to qualified aviation security staff to perform his/her duty.",
+				"D- All above are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: What is concept of security seal?",
+			"options": [
+				"A- Security seal is the confirmation of the goods, objects, vehicles that have been security checked or the confirmation of the intact condition of the sealed object or vehicles.",
+				"B- Security seal is the confirmation of the goods, objects, vehicles that have been security checked.",
+				"C- Security seal is the confirmation of the intact condition of the sealed object or vehicles.",
+				"D- A and B are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: What is the concept of Aviation Security Supervision?",
+			"options": [
+				"A- Aviation Security Supervision is the use of person, animal and technical equipment, solely or in combination, to monitor and supervise.",
+				"B- Aviation Security Supervision is the use of person and animal to monitor and supervise with a view to detect and prevent acts of violation or signs of violation of aviation security.",
+				"C- Aviation Security Supervision is the use of person, animal and technical equipment, solely or in combination, to monitor and supervise with a view to detect and prevent acts of violation or signs of violation of aviation security.",
+				"D- All above are correct."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Which organization approves Security program of aerodrome, airport operators?",
+			"options": [
+				"A- Southern Airport Authority.",
+				"B- Civil Aviation Authority of Viet Nam.",
+				"C- Airport operator.",
+				"D- All above are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: How many percent of passengers and their carry-on baggage are supposed to be security-checked?",
+			"options": [
+				"A- 5 percent.",
+				"B- 10 percent.",
+				"C- 90 percent.",
+				"D- 100 percent."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: What is the maximum time of X-ray machine monitor supervision to checked-in luggage, cargo and mail?",
+			"options": [
+				"A- No more than 30 minutes and return to it for at least 15 minutes afterwards.",
+				"B- No more than 20 minutes and return to it for at least 20 minutes afterwards.",
+				"C- No more than 30 minutes and return to it for at least 30 minutes afterwards.",
+				"D- No more than 20 minutes and return to it for at least 30 minutes afterwards."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Which security enhancement levels below are unaccompanied baggages not allowed to be transported on the aircraft?",
+			"options": [
+				"A- Security enhancement level 1.",
+				"B- Security enhancement level 2.",
+				"C- Security enhancement level 3.",
+				"D- B and C are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: What are the priorities to all measures dealing with illegal interventions into civil aviation activities?",
+			"options": [
+				"A- Safety for aircraft.",
+				"B- Human lives.",
+				"C- Passenger properties.",
+				"D- A and B are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Who had to be informed about the number of guns and ammunition transported on the aircraft?",
+			"options": [
+				"A- First Officer.",
+				"B- Captain.",
+				"C- Flight Attendant.",
+				"D- A and B are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: How does the visual check of passenger in the body-check room carried out?",
+			"options": [
+				"A- The visual check of passenger in the body-check room will be carried out by the same gender security personnel, with the witness of the third person being the same gender and recorded in the visual check minute.",
+				"B- The visual check of passenger in the body-check room will be carried out by the same gender security personnel, with the witness of the third person being the same gender.",
+				"C- The visual check of passenger in the body-check room will be carried out by security personnel being the same gender.",
+				"D- The visual check of passenger in the body-check room will be carried out by the same gender security personnel, with the witness of the third person being the same gender and not recorded in the visual check minute."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: In which cases that can not perform Aviation security test?",
+			"options": [
+				"A- Aircraft in flight.",
+				"B- VIP flight",
+				"C- At any time.",
+				"D- A and B are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: How often does the Civil Aviation Authority of Vietnam undertake the prime responsibility for, and coordinate with relevant agencies and units inside and outside the aviation industry to organize drills to deal with illegal sector interventions at an airport or at an air traffic service supplier?",
+			"options": [
+				"A- Every 1 year.",
+				"B- Every 2 years",
+				"C- Every 3 years.",
+				"D- Every 4 years."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: In which cases diplomatic bags are screened by X-Ray machine?",
+			"options": [
+				"A- Diplomatic bags are screened by X-Ray machine when the airline sends written proposal to head of airport security and is approved by consular couriers.",
+				"B- Diplomatic bags are screened by X-Ray machine when the airline sends written proposal to director of the airport.",
+				"C- Diplomatic bags are screened by X-Ray machine in all cases.",
+				"D- A and B are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: What action must be taken when screened passengers intermingle with unscreened ones?",
+			"options": [
+				"A- Do nothing because it is the airline responsibility.",
+				"B- All passengers must be rescreened.",
+				"C- It depends on cases.",
+				"D- B and C are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: What is the maximum time of continuing X-Ray machine monitor observation?",
+			"options": [
+				"A- 40 minutes.",
+				"B- 30 minutes.",
+				"C- 10 minutes.",
+				"D- 20 minutes."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: How the regulation of LAGS (liquids, aerosols and gels) control is applied?",
+			"options": [
+				"A- The regulation of LAGS control is applied to domestic flights.",
+				"B- The regulation of LAGS control is applied to both international and domestic flights.",
+				"C- The regulation of LAGS control is applied to international flights.",
+				"D- B and C are correct."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: How long is the maximum validity period of the Airport Security Forces license/badge from the effective date?",
+			"options": [
+				"A- No more than 2 years.",
+				"B- No more than 3 years.",
+				"C- No more than 4 years.",
+				"D- No more than 5 years."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Which of the following statement is true?",
+			"options": [
+				"A- Passengers and their luggage must be reconciled.",
+				"B- Passengers and their luggage do not have to be reconciled.",
+				"C- Passengers and their luggage must be separated.",
+				"D- B and C are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Which of the following statement is true?",
+			"options": [
+				"A- Cabin crew members are checked in the same manner as VIP passengers.",
+				"B- Cabin crew members are exempted from security check.",
+				"C- Cabin crew members are checked in the same manner as normal passengers.",
+				"D- A and C are correct."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: What is the method applied to supervise passengers and carry-on baggages that have completed aviation security check?",
+			"options": [
+				"A- Applying appropriate security checks.",
+				"B- Passengers and their luggages must be continuously monitored by camera security or directly supervised by Aviation Security Staff or both until boarding.",
+				"C- It does not need to be supervised because the security check was passed.",
+				"D- A and B are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Which organization is responsible for the acceptance to carry passengers who are mental illness?",
+			"options": [
+				"A- Aviation airport security.",
+				"B- Airlines.",
+				"C- Relevant airport authority.",
+				"D- All the above are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: What does security staff do with mentally ill passengers as requirement of the airlines?",
+			"options": [
+				"A- Escort the mental illness passengers in/out to aircraft.",
+				"B- Make a report to CAAV.",
+				"C- Do nothing because it is the airline responsibility.",
+				"D- A and B are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: How is the means of transporting meals from suppliers through public areas to aircraft made?",
+			"options": [
+				"A- There must be an aviation security control officer escorting or implementing appropriate security measures.",
+				"B- There must be escorted by implement appropriate security measure.",
+				"C- The ration processing area is usually built adjacent to the parking yard, so there is no need to escort or seal security.",
+				"D- A and B are correct."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: What is the percentage of random check that must be applied to passengers and their carry-on luggage?",
+			"options": [
+				"A- 5 percent.",
+				"B- 10 percent.",
+				"C- 2 percent.",
+				"D- 15 percent."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Which of the following statements is true?",
+			"options": [
+				"A- Cargo and mail shall be security checked at cargo processing unit outside the airport if the unit's facility meets the requirements of aviation security and the unit has an approval from CAAV.",
+				"B- Cargo and mail shall be performed security checked at cargo processing unit outside the airport if the unit's facility meets the requirements of aviation security.",
+				"C- Cargo and mail shall be security checked at certain airports only.",
+				"D- A and B are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Which organization has the authorization to penalize administrative violations related to aviation security of the airport?",
+			"options": [
+				"A- Airport operator.",
+				"B- Relevant airport authority.",
+				"C- Airlines.",
+				"D- Airports Authority."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Which organization issues the list of dangerous items forbidden to be brought on board the aircraft?",
+			"options": [
+				"A- Civil Aviation Authority of Vietnam (CAAV).",
+				"B- Southern Airport Authority (SAA).",
+				"C- Tan Son Nhat International Airport (TIA).",
+				"D- Ministry of Transport (MoT)."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Which organization is responsible for checking, supervising refueling vehicles before entering the airport and assuring that refueling vehicles' delivery/dispensing nozzles are sealed and not damaged?",
+			"options": [
+				"A- Aviation security guarding force .",
+				"B- Fuel company.",
+				"C- Civil Aviation Authority .",
+				"D- Airlines."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Which of the following contents are used to evaluate the annual performance of the Airport Security Forces personnel?",
+			"options": [
+				"A- Professional abilities.",
+				"B- Comply with the rules and regulations of the agency or of the unit.",
+				"C- Responsibility and attitude at work.",
+				"D- All above are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Which organization issues the decision to prohibit transportation by air temporarily or perpetually to passengers committing violations of laws?",
+			"options": [
+				"A- Civil Aviation Authority of Vietnam.",
+				"B- Airport authorities.",
+				"C- Airports.",
+				"D- Airlines."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: What organization is responsible for security check of the aircraft to detect dangerous items hidden or any persons hiding in the aircraft before or after embarkation and disembarkation of passengers, baggage, cargo and mail?",
+			"options": [
+				"A- Aviation Security.",
+				"B- Airlines.",
+				"C- Airport authority.",
+				"D- Airport operator."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Which case below that random check of at least 10 percent after aviation security inspection is applied to?",
+			"options": [
+				"A- Checked baggage.",
+				"B- Cargo.",
+				"C- Passengers and their carry-on baggage.",
+				"D- All above are correct."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Which organization is responsible for setting up checkpoints, patrolling, controlling and maintaining security in the public areas of airports?",
+			"options": [
+				"A- Airport authorities.",
+				"B- Airlines.",
+				"C- Local authorities.",
+				"D- Aviation security guarding force at airport."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: What does security staff do with passengers who refuse to be security-checked?",
+			"options": [
+				"A- Allowed to get onboard.",
+				"B- Refused to transport.",
+				"C- Make a report.",
+				"D- A and B are incorrect."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: In which of the following cases goods and postal items are not subject to security check?",
+			"options": [
+				"A- Goods and postal items do not leave the retricted area and there is continuously appropriate aviation security monitoring.",
+				"B- Transit and transfer goods and postal items transported from aircraft yards to areas where goods are stored the cargo storage area through the non-restricted area and vice versa are sealed and have appropriate security monitoring during transportation to prevent the unauthorized shipment of dangerous items into goods and postal items.",
+				"C- Transit and transit goods and postal items are transported from the airport yard to the cargo storage area through public areas and vice versa.",
+				"D- A and B are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Who have possibility of threatening aviation security?",
+			"options": [
+				"A- Persons who have lost their act control capability.",
+				"B- Denied entry passengers who do not voluntarily return to their countries.",
+				"C- Criminals, accused, deportees, extradited persons, arrestees under pursuit warrants.",
+				"D- All above are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Who is responsibile for providing propaganda of aviation security?",
+			"options": [
+				"A- Departments/ agencies in the aviation industry.",
+				"B- Local authorities where airports are located.",
+				"C- Airlines.",
+				"D- All above are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Which organization is responsible for quality control of aviation security in the aviation industry?",
+			"options": [
+				"A- Civil Aviation Authority of Vietnam.",
+				"B- Ministry of Transport.",
+				"C- Airport authorities.",
+				"D- Airport operators."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Which force cooperate with aviation security guarding force in patrolling to maintain and ensure security and social order in public areas of airports?",
+			"options": [
+				"A- Military.",
+				"B- Local police.",
+				"C- Militia.",
+				"D- Airport Authorities."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Which force will search aircrafts for aviation security in case there is information of dangerous articles on board?",
+			"options": [
+				"A- Police.",
+				"B- Military.",
+				"C- Aviation security guarding force.",
+				"D- Airport authorities."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: What is the meaning of Military weapons?",
+			"options": [
+				"A- Equipment or military animals used for carrying out missions and providing protection, which aims to reduce and prevent the violators from resisting or running way, protect law enforcement officials, people performing protection missions or giving signals of emergency.",
+				"B- Weapons that are manufactured in conformity with technical standards and designs of legal producers and provided for the people's armed forces and other forces prescribed by this Law for conduction of their missions.",
+				"C- Equipment or military animals used for carrying out missions and providing protection.",
+				"D- A and B are incorrect."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Who decide to search people who threaten safety flight at the point of screening or in restricted areas?",
+			"options": [
+				"A- Representative of Airport authorities.",
+				"B- Representative of Airports.",
+				"C- Representative of Civil Aviation Authority.",
+				"D- The head of the aviation security guarding force in the airport."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: In-flight security force belongs to which of the following organizations?",
+			"options": [
+				"A- Ministry of National Defence.",
+				"B- Airport.",
+				"C- Ministry of Public Security.",
+				"D- Aviation Security."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Who will approve the application or remove of the enhanced aviation security level?",
+			"options": [
+				"A- Minister of Public Security.",
+				"B- Minister of Transport.",
+				"C- Director of Civil Aviation Authority .",
+				"D- Director of Airport."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Which agencies or units are responsible for the assurance of aviation security?",
+			"options": [
+				"A- Ministry of Defence.",
+				"B- Ministry of Public Security.",
+				"C- Ministry of Transport.",
+				"D- All above are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: What is the maximum number of the accused, defendants, inmates, extradited persons or arrestees under pursuit warrants allowed to be transported on a flight?",
+			"options": [
+				"A- 03 persons.",
+				"B- 04 persons.",
+				"C- 05 persons.",
+				"D- 06 persons."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: According to provisions of the National civil aviation security Programme of Vietnam,who are authorised to carry pistol on board the aircraft?",
+			"options": [
+				"A- In-flight security officers performing inflight security tasks.",
+				"B- Officers of the High Command of Guard who are on duty to protect leaders of Communist Party of Vietnam and leaders of the State, international visitors of the State on board Vietnam's flights.",
+				"C- Aviation security guards.",
+				"D- A and B are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 49: What is the maximum capacity of each liquid container which are tightly closed and carried on person and hand baggage on international flights?",
+			"options": [
+				"A- 100ml.",
+				"B- 01 liter.",
+				"C- 02 liters.",
+				"D- 05 liters."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 50: Which enhanced aviation security level will be applied in case of complicated political security or social order circumstances?",
+			"options": [
+				"A- Level 1.",
+				"B- Level 2.",
+				"C- Level 3.",
+				"D- A and B are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 51: What kind of support tools is the officer allowed to carry while transferring the defendant, the accused, the deported or extradited person, the person arrested under the wanted order or the person whose entry into the country was rejected ?",
+			"options": [
+				"A- Primitive weapons.",
+				"B- Appropriate support tools.",
+				"C- Military weapons.",
+				"D- Small handguns."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 52: What methods are applied when conducting aviation security check for the disabled, patients using trolleys or ambulance stretchers or people with medical auxiliary equipment on the body?",
+			"options": [
+				"A- Check by Airport security gates.",
+				"B- Check by hand held metal detector.",
+				"C- Check by visual inspection or other appropriate methods at appropriate places.",
+				"D- A and B are correct."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 53: Who is the responsible person to evaluate and give the approval for the carriage of passengers with mental illness and passengers who have used alcohol, beer or stimulants but they are still able to control their behaviors?",
+			"options": [
+				"A- Director of the Aviation Administration.",
+				"B- Airline representative.",
+				"C- The head of the Airport Security Forces.",
+				"D- It is not accepted to carry them."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 54: Which organizations and individuals are responsible for coordinating with the escort to manage and tightly supervise the process of bringing the escorted on and off the aircraft?",
+			"options": [
+				"A- Airport Security Forces personnel.",
+				"B- Airline representative.",
+				"C- Airport Authority.",
+				"D- All above are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 55: Except in the emergencies, whose presence is required to witness the visual inspection of passengers' checked baggage?",
+			"options": [
+				"A- The baggage owner, the legal representative of the ower or the representative of cargo airline.",
+				"B- The representative of the local Airport Authority.",
+				"C- Check-in staff.",
+				"D- All above are correct."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 56: What method should be applied by the Airport Security Forces personnel if a passenger passes the airport security gate or the airport body scanner but the gate or the body scanner is activated or the passenger looks suspicious?",
+			"options": [
+				"A- Check by hand held metal detector.",
+				"B- Check the passenger by visual inspection.",
+				"C- Check by combining the hand held metal detector method and the visual inspection method.",
+				"D- Immediately apply aviation security methods to search thoroughly."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 57: Which agency or unit has the authority to approve the transportation of dangerous items as dangerous goods in accordance with the Transportation of Dangerous Goods Regulations?",
+			"options": [
+				"A- Civil Aviation Authority of Vietnam.",
+				"B- Airport Authority.",
+				"C- Airline representative.",
+				"D- Airport Security Forces."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 58: What agencies or units must we notify prior to conducting aviation security check for aircraft?",
+			"options": [
+				"A- Aircraft operator.",
+				"B- Responsible Airport Authority and the Civil Aviation Authority of Vietnam.",
+				"C- Aircraft operator, responsible Airport Authority and the conduction must be supervised by the Airport Authority.",
+				"D- Aircraft operator and the Civil Aviation Authority of Vietnam."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 59: What information of the person allowed to carry weapons and support tools on the flight must the aircraft operator be informed of?",
+			"options": [
+				"A- The full name and the seat of the person allowed to carry weapons and support tools.",
+				"B- The weapon types and the support tools allowed to carry on the flight.",
+				"C- The full name, the seat of the person, the weapon types and the support tools allowed to carry on the flight.",
+				"D- The weapon types and the seat of the person allowed to carry weapons and support tools."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 60: What method does the Airport Security Force have to apply if unidentified luggages or belongings were detected at the airport or at the other restricted areas?",
+			"options": [
+				"A- Notify the Airlines and search thoroughly those luggages or belongings.",
+				"B- Notify the airport Authority and search thoroughly the luggages and items.",
+				"C- Immediately apply the aviation security method to search thoroughly those luggages or belongings.",
+				"D- Notify the local police."
+			],
+			"correctOption": 2,
+			"points": 10
+		}
+  ]
+}

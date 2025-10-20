@@ -1,0 +1,785 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Công ước Chi-ca-go có hiệu lực từ thời điểm nào?",
+			"options": [
+				"A- 7/12/1944",
+				"B- 4/4/1947",
+				"C- 7/12/1948",
+				"D- 4/4/1949"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Một quốc gia trở thành thành viên ICAO khi nào?",
+			"options": [
+				"A- Khi được ICAO phê chuẩn gia nhập;",
+				"B- Khi hoàn tất việc ký kết Công ước Chicago;",
+				"C- Khi được tất cả các quốc gia thành viên Công ước Chi-ca-go đồng thuận bằng một văn bản chấp thuận;",
+				"D- Cả A, B và C."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Công ước Chi-ca-go có bao nhiêu Phụ ước?",
+			"options": [
+				"A- 10 Phụ ước",
+				"B- 15 Phụ ước",
+				"C- 17 Phụ ước",
+				"D- 19 Phụ ước"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Phụ ước 17- Công ước Chi-ca-go là văn bản về vấn đề gì?",
+			"options": [
+				"A- Bảo vệ hoạt động hàng không đân dụng chống lại những hành vi can thiệp bất hợp pháp",
+				"B- Quản lý an toàn",
+				"C- Đơn giản hóa thủ tục hàng không",
+				"D- Khai thác tàu bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Việt Nam gia nhập Công ước Vác - sa - va ngày nào?",
+			"options": [
+				"A- 11/10/1929",
+				"B- 11/10/1944",
+				"C- 11/10/1982",
+				"D- 11/10/1983"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Phụ ước 17- Công ước Chi-ca-go được Hội đồng ICAO thông qua ngày nào?",
+			"options": [
+				"A- 22/3/1971",
+				"B- 22/3/1972",
+				"C- 22/3/1973",
+				"D- 22/3/1974"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Việc áp dụng các tiêu chuẩn tại Phụ ước 17",
+			"options": [
+				"A- Là bắt buộc đối với các quốc gia thành viên của ICAO",
+				"B- Là bắt buộc đối với các quốc gia trên thế giới",
+				"C- Là không bắt buộc đối với các quốc gia thành viên của ICAO",
+				"D- Tất cả các đáp án trên đều sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Các khuyến cáo thực hành tại Phụ ước 17 của Công ước Chicago là:",
+			"options": [
+				"A- Là những quy định khuyến khích các quốc gia thực hiện để nâng cao công tác bảo đảm an ninh hàng không, nhưng không mang tính bắt buộc",
+				"B- Là những quy định khuyến khích các quốc gia thực hiện để nâng cao công tác bảo đảm an ninh hàng không, bắt buộc phải thực hiện đối với tất cả các quốc gia",
+				"C- Là những quy định khuyến khích các quốc gia thực hiện để nâng cao công tác bảo đảm an ninh hàng không, bắt buộc phải thực hiện đối với các quốc gia thành viên của ICAO",
+				"D- Tất cả các đáp án trên đều sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Sổ tay An ninh hàng không (Doc 8973) có nội dung là:",
+			"options": [
+				"A- hướng dẫn chi tiết về trang thiết bị an ninh soi chiếu",
+				"B- hướng dẫn chi tiết về trang thiết bị an ninh soi chiếu, bảo vệ khu bay, nhân viên an ninh soi chiếu",
+				"C- hướng dẫn chi tiết về trang thiết bị an ninh soi chiếu, bảo vệ khu bay",
+				"D- hướng dẫn chi tiết về trang thiết bị an ninh soi chiếu, bảo vệ khu bay, nhân viên an ninh soi chiếu, công tác huấn luyện đào tạo, kiểm tra soi chiếu người, đồ vật, trang thiết bị"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Công ước Tokyo năm 1963",
+			"options": [
+				"A- quy định về các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay",
+				"B- quy định về an toàn hàng không",
+				"C- quy định về chống lại các hành vi can thiệp bất hợp pháp",
+				"D- quy định về vận chuyển hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Công ước La Hague 1970 quy định về",
+			"options": [
+				"A- ngăn chặn việc chiếm giữ bất hợp pháp tàu bay",
+				"B- an ninh hàng không",
+				"C- an toàn hàng không",
+				"D- vận chuyển hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Việt Nam gia nhập Công ước La Hague 1970 ngày nào?",
+			"options": [
+				"A- 17/9/1979",
+				"B- 17/9/1980",
+				"C- 17/9/1981",
+				"D- 17/9/1982"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Công ước Montreal 1971 quy định về hành vi can thiệp bất hợp pháp là:",
+			"options": [
+				"A- Thực hiện hành vi bạo lực đối với một người đang ở trên tàu bay trong khi bay mà hành động đó gây nguy hiểm cho an toàn của tàu bay đó",
+				"B- Phá hủy tàu bay đang sử dụng hoặc làm hỏng tàu bay như vậy dẫn đến mất khả năng bay hoặc gây mất an toàn của tàu bay trong khi bay",
+				"C- Phá hủy hoặc làm hỏng phương tiện dẫn đường hàng không hoặc cản trở hoạt động của thiết bị đó, nếu bất kỳ hành động nào như vậy sẽ gây mất an toàn của tàu bay đang bay",
+				"D- Tất cả các đáp án trên là đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Nghị định thư Montreal 1988 có nội dung về",
+			"options": [
+				"A- ngăn chặn các hành vi bạo lực bất hợp pháp tại các cảng hàng không phục vụ hàng không dân dụng quốc tế bổ sung cho Công ước Montreal 1971",
+				"B- ngăn chặn các hành vi bạo lực bất hợp pháp tại các cảng hàng không phục vụ hàng không dân dụng quốc tế bổ sung cho Công ước Chicago 1944",
+				"C- ngăn chặn các hành vi bạo lực bất hợp pháp tại các cảng hàng không phục vụ hàng không dân dụng quốc tế bổ sung cho Công ước Vác - sa - va 1929",
+				"D- ngăn chặn các hành vi bạo lực bất hợp pháp tại các cảng hàng không phục vụ hàng không dân dụng quốc tế bổ sung cho Công ước La Hague 1970"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Công ước Montreal 1991 có nội dung là:",
+			"options": [
+				"A- đánh dấu các chất nổ dẻo (plastic) nhằm mục đích phát hiện",
+				"B- an toàn hàng không",
+				"C- Vận chuyển hàng không",
+				"D- an ninh hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Quốc hội ban hành những loại văn bản quy phạm pháp luật nào?",
+			"options": [
+				"A- Hiến pháp; Luật; Bộ luật.",
+				"B- Hiến pháp; Luật; Bộ luật; Nghị định.",
+				"C- Hiến pháp; Luật; Bộ luật; Nghị định; Quyết định; Thông tư.",
+				"D- Cả A, B và C."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Chính phủ ban hành những văn bản nào dưới đây?",
+			"options": [
+				"A- Nghị định số 96/2021/NĐ-CP về công tác bảo đảm chuyến bay chuyên cơ.",
+				"B- Nghị định số 92/NĐ-CP về An ninh hàng không.",
+				"C- Thông tư 23/2023/TT-BGTVT hướng dẫn thực hiện chế độ kỷ luật lao động đặc thù đối với nhân viên hàng không.",
+				"D- Cả A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Pháp luật là gì?",
+			"options": [
+				"A- Là hệ thống các quy tắc xử sự mang tính bắt buộc chung, do nhà nước ban hành hoặc thừa nhận;",
+				"B- Thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị trong xã hội,",
+				"C- Được nhà nước bảo đảm thực hiện nhằm mục đích điều chỉnh các quan hệ xã hội.",
+				"D- Cả A, B và C."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Những văn bản nào sau đây do Bộ Giao thông vận tải ban hành",
+			"options": [
+				"A- Văn bản hợp nhất số 01/VBHN-BGTVT ngày 04/02/2021",
+				"B- Quyết định số 1541/QĐ-CHK về danh mục vật phẩm nguy hiểm cấm, hạn chế mang theo người, hành lý lên tàu bay",
+				"C- Thông tư 29/2021/TT-BGTVT ngày 30/11/2021 của Bộ GTVT quy định chi tiết về quản lý, khai thác cảng hàng không, sân bay",
+				"D- Cả A và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Đối tượng áp dụng của Luật HKDDVN là:",
+			"options": [
+				"A- Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài hoạt động hàng không dân dụng tại Việt Nam.",
+				"B- Tổ chức, cá nhân Việt Nam hoạt động hàng không dân dụng ở nước ngoài, nếu pháp luật của nước ngoài không có quy định khác.",
+				"C- Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài hoạt động hàng không dân dụng ở vùng thông báo bay do Việt Nam quản lý.",
+				"D- Cả A, B và C đều đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Hành vi nào bị nghiêm cấm trong hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Mang theo giấy phép, chứng chỉ phù hợp khi thực hiện nhiệm vụ của nhân viên hàng không;",
+				"B- Can thiệp bất hợp pháp vào hoạt động hàng không dân dụng; Đưa vũ khí, chất cháy, chất nổ, các vật phẩm nguy hiểm khác lên tàu bay, vào cảng hàng không, sân bay và các khu vực hạn chế khác trái quy định;",
+				"C- Đảm bảo an toàn bay, bảo vệ tính mạng, sức khoẻ, tài sản của người khác trong tàu bay;",
+				"D- Cả A, B và C."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Luật hàng không dân dụng Việt Nam quy định về:",
+			"options": [
+				"A- Hoạt động hàng không dân dụng.",
+				"B- Hoạt động của tàu bay công vụ, bao gồm tàu bay quân sự, tàu bay chuyên dụng của lực lượng hải quan, công an và các tàu bay khác sử dụng cho mục đích công vụ nhà nước.",
+				"C- Cả A và B đều đúng.",
+				"D- Cả A và B đều sai."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Những hành vi nào dưới đây thuộc đối tượng của công tác kiểm soát ANHK bị nghiêm cấm trong hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Thực hiện nhiệm vụ của nhân viên hàng không mà không có giấy phép, chứng chỉ phù hợp",
+				"B- Can thiệp bất hợp pháp vào hoạt động hàng không dân dụng",
+				"C- Đưa vật phẩm nguy hiểm vào tàu bay, cảng hàng không, sân bay và các khu vực hạn chế khác trái pháp luật",
+				"D- Cả 3 hành vi trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Những hành vi nào dưới đây bị nghiêm cấm trong hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Thả thiết bị, vật dụng hoặc các vật thể khác vào không trung gây ảnh hưởng đến an toàn bay, môi trường và dân sinh.",
+				"B- Nuôi, thả chim, gia súc, gia cầm trong khu vực Cảng hàng không, sân bay.",
+				"C- Đe dọa, uy hiếp an toàn bay, gây nguy hiểm đến tính mạng, sức khỏe, tài sản của người khác trong tàu bay.",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Người khai thác tàu bay là?",
+			"options": [
+				"A- Doanh nghiệp khai thác cảng hàng không, sân bay",
+				"B- Doanh nghiệp quản lý hoạt động bay",
+				"C- Doanh nghiệp vận chuyển hàng không",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Cơ quan quản lý Nhà nước chuyên ngành hàng không tại cảng hàng không, sân bay gồm:",
+			"options": [
+				"A- Cảng vụ hàng không",
+				"B- Hải quan cửa khẩu, Công an cửa khẩu, Kiểm dịch Y tế",
+				"C- Ủy ban nhân dân địa phương",
+				"D- Tất cả các cơ quan trên"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Cơ quan quản lý Nhà nước tại cảng hàng không, sân bay gồm:",
+			"options": [
+				"A- Cảng vụ hàng không",
+				"B- Hải quan cửa khẩu, Công an cửa khẩu, Kiểm dịch y tế",
+				"C- Ủy ban nhân dân địa phương nơi có cảng hàng không, sân bay",
+				"D- Tất cả các cơ quan trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Khái niệm Khu vực lân cận Cảng hàng không sân bay:",
+			"options": [
+				"A- 10 km tính từ ranh giới Cảng hàng không, sân bay trở ra",
+				"B- 08 km tính từ ranh giới Cảng hàng không, sân bay trở ra",
+				"C- 06 km tính từ ranh giới Cảng hàng không, sân bay trở ra",
+				"D- 04 km tính từ ranh giới Cảng hàng không, sân bay trở ra"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Nhận định nào dưới đây đúng?",
+			"options": [
+				"A- Bộ luật hình sự Việt Nam được áp dụng đối với mọi hành vi phạm tội thực hiện trên lãnh thổ Việt Nam, ngoại trừ hành vi phạm tội hoặc hậu quả của hành vi phạm tội xảy ra trên tàu bay mang quốc tịch Việt Nam.",
+				"B- Bộ luật hình sự Việt Nam trong bất cứ trường hợp nào đều không có hiệu lực áp dụng đối với mọi hành vi phạm tội xảy ra trên tàu bay không mang quốc tịch Việt Nam đang ở tại giới hạn vùng trời nằm ngoài lãnh thổ Việt Nam.",
+				"C- Bộ luật hình sự Việt Nam được áp dụng đối với mọi hành vi phạm tội thực hiện trên lãnh thổ Việt Nam, bao gồm cả hành vi phạm tội hoặc hậu quả của hành vi phạm tội xảy ra trên tàu bay mang quốc tịch Việt Nam.",
+				"D- Cả A, B, và C đều đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Nghị định xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng quy định về nội dung gì?",
+			"options": [
+				"A- Hành vi vi phạm hành chính;",
+				"B- Hình thức, mức xử phạt, biện pháp khắc phục hậu quả đối với từng hành vi vi phạm hành chính;",
+				"C- Thẩm quyền lập biên bản, thẩm quyền xử phạt, mức xử phạt tiền cụ thể theo từng chức danh đối với hành vi vi phạm hành chính trong lĩnh vực hàng không dân dụng;",
+				"D- Cả A, B và C."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Dịch vụ hàng không bao gồm các loại dịch vụ nào?",
+			"options": [
+				"A- Dịch vụ liên quan trực tiếp đến khai thác tàu bay",
+				"B- Dịch vụ liên quan trực tiếp đến khai thác vận chuyển hàng không",
+				"C- Dịch vụ hàng không là dịch vụ liên quan trực tiếp đến hoạt động bay",
+				"D- Cả A, B và C đều đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Dịch vụ đảm bảo an ninh hàng không là:",
+			"options": [
+				"A- Dịch vụ hàng không",
+				"B- Dịch vụ phi hàng không",
+				"C- Cả A và B đều đúng",
+				"D- Cả A và B đều sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Hoạt động nào sau đây là hoạt động quản lý nhà nước trong lĩnh vực hàng không dân dụng tại cảng hàng không, sân bay?",
+			"options": [
+				"A- Tổ chức khai thác cảng hàng không, sân bay đảm bảo an toàn, hiệu quả",
+				"B- Công tác phối hợp hoạt động của các cơ quan quản lý nhà nước và của các tổ chức khác tại cảng hàng không, sân bay",
+				"C- Tổ chức cung ứng dịch vụ đảm bảo an toàn hàng không; an ninh hàng không tại cảng hàng không, sân bay",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Tổ chức/cá nhân có thẩm quyền quyết định đình chỉ thực hiện chuyến bay?",
+			"options": [
+				"A- Giám đốc Cảng vụ hàng không",
+				"B- Thanh tra hàng không",
+				"C- Giám đốc Cảng hàng không, sân bay",
+				"D- Cả A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Tổ chức/cá nhân có thẩm quyền quyết định khám xét tàu bay?",
+			"options": [
+				"A- Giám đốc Cảng vụ hàng không",
+				"B- Thanh tra hàng không",
+				"C- Giám đốc Cảng hàng không, sân bay",
+				"D- Đáp án A, B sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Tổ chức/cá nhân có thẩm quyền yêu cầu tàu bay hạ cánh tại Cảng hàng không, sân bay?",
+			"options": [
+				"A- Giám đốc Cảng vụ hàng không",
+				"B- Giám đốc Cảng hàng không",
+				"C- Cục hàng không Việt Nam",
+				"D- Cả A và C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Tổ chức/cá nhân có thẩm quyền quyết định đóng cửa cảng hàng không, sân bay trong 24 giờ vì lý do an toàn hàng không, an ninh hàng không?",
+			"options": [
+				"A- Bộ trưởng Bộ Giao thông vận tải",
+				"B- Giám đốc Cảng vụ hàng không",
+				"C- Giám đốc Cảng hàng không, sân bay",
+				"D- Cả A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Trong những quyền và nghĩa vụ sau đây, đâu là quyền và nghĩa vụ của doanh nghiệp cảng hàng không, sân bay?",
+			"options": [
+				"A- Quản lý, tổ chức khai thác kết cấu hạ tầng, trang bị, thiết bị của cảng hàng không, sân bay",
+				"B- Tổ chức cung cấp dịch vụ bảo đảm an ninh hàng không, an toàn hàng không, dịch vụ hàng không và các dịch vụ công cộng khác tại cảng hàng không, sân bay",
+				"C- Kiểm tra, giám sát việc tuân thủ các quy định về an toàn hàng không, an ninh hàng không tại cảng hàng không, sân bay và trong khu vực lân cận cảng hàng không, sân bay",
+				"D- Cả A và B đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Tổ chức, cá nhân kinh doanh tại cảng hàng không, sân bay bao gồm:",
+			"options": [
+				"A- Doanh nghiệp cảng hàng không",
+				"B- Doanh nghiệp cung cấp dịch vụ hàng không",
+				"C- Tổ chức, cá nhân cung cấp dịch vụ khác",
+				"D- Cả A, B, và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Luật hàng không dân dụng Việt Nam định nghĩa khái niệm Nhân viên hàng không như thế nào?",
+			"options": [
+				"A- Là những người hoạt động liên quan trực tiếp đến bảo đảm an toàn hàng không, an ninh hàng không, khai thác tàu bay, vận chuyển hàng không, hoạt động bay",
+				"B- Có giấy phép, chứng chỉ chuyên môn phù hợp do Bộ Giao thông vận tải cấp hoặc công nhận",
+				"C- Phải được ký hợp đồng lao động bằng văn bản với tổ chức sử dụng lao động",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Tàu bay được coi là đang bay",
+			"options": [
+				"A- Là toàn bộ thời gian tàu bay hoạt động trên đường hàng không",
+				"B- Kể từ thời điểm tàu bay cất cánh ra khỏi đường cất hạ cánh đến thời điểm tàu bay hoàn tất việc hạ cánh xuống đường cất hạ cánh",
+				"C- Kể từ thời điểm mà tất cả các cánh cửa ngoài được đóng lại sau khi hoàn thành xếp tải đến thời điểm mà bất kỳ cửa ngoài nào được mở ra để dỡ tải.",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Tổ bay bao gồm?",
+			"options": [
+				"A- Tổ lái, tiếp viên hàng không",
+				"B- Tổ lái, tiếp viên hàng không và các nhân viên hàng không khác theo yêu cầu thực hiện chuyến bay",
+				"C- Tổ lái, tiếp viên và những người làm nhiệm vụ khác trên chuyến bay theo phân công của người khai thác tàu bay",
+				"D- Cả A và B"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Tổ lái là?",
+			"options": [
+				"A- Người thực hiện nhiệm vụ điều khiển tàu bay",
+				"B- Bao gồm tổ lái, tiếp viên hàng không theo yêu cầu thực hiện chuyến bay",
+				"C- Bao gồm lái chính, lái phụ và nhân viên hàng không khác phù hợp với loại tàu bay.",
+				"D- Cả A và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Tiếp viên hàng không là?",
+			"options": [
+				"A- Những người thực hiện nhiệm vụ điều khiển tàu bay",
+				"B- Bao gồm lái chính, lái phụ và tiếp viên hàng không khác phù hợp với loại tàu bay",
+				"C- Người thực hiện nhiệm vụ bảo đảm an toàn cho hành khách trong chuyến bay, phục vụ trên tàu bay theo sự phân công của người khai thác tàu bay hoặc người chỉ huy tàu bay",
+				"D- Cả A, B và C đều sai"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Người chỉ huy tàu bay là?",
+			"options": [
+				"A- là thành viên tổ lái được người khai thác tàu bay chỉ định cho một chuyến bay",
+				"B- có quyền cao nhất trong tàu bay",
+				"C- Chịu trách nhiệm bảo đảm an toàn hàng không, an ninh hàng không cho tàu bay, người và tài sản trong tàu bay trong thời gian tàu bay đang bay",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Cơ quan nào chịu trách nhiệm quyết định việc thiết lập và khai thác vùng trời sân bay, khu vực bay phục vụ hoạt động hàng không chung?",
+			"options": [
+				"A- Bộ Quốc Phòng",
+				"B- Bộ Giao thông vận tải",
+				"C- Bộ Công an",
+				"D- Bộ Quốc phòng chủ trì phối hợp Bộ Giao thông vận tải thực hiện"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: Tổ chức/cá nhân nào quyết định việc thiết lập và khai thác đường hàng không?",
+			"options": [
+				"A- Thủ tướng Chính phủ",
+				"B- Bộ Quốc phòng",
+				"C- Bộ Giao thông vận tải",
+				"D- Cục Hàng không Việt Nam"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: Cơ quan nào cấp phép cho chuyến bay thực hiện hoạt động bay dân dụng tại Việt Nam?",
+			"options": [
+				"A- Bộ Quốc Phòng",
+				"B- Bộ Ngoại giao",
+				"C- Bộ Giao thông vận tải",
+				"D- Cả A và C"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 49: Dịch vụ bảo đảm hoạt động bay bao gồm những dịch vụ nào?",
+			"options": [
+				"A- Dịch vụ không lưu; dịch vụ thông tin, dẫn đường, giám sát",
+				"B- Dịch vụ khí tượng; dịch vụ thông báo tin tức hàng không",
+				"C- Dịch vụ tìm kiếm, cứu nạn",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 50: Tổ chức/cá nhân nào quyết định thiết lập khu vực cấm bay, khu vực hạn chế bay?",
+			"options": [
+				"A- Bộ Quốc phòng",
+				"B- Thủ tướng Chính phủ",
+				"C- Bộ giao thông vận tải",
+				"D- Cả A và B"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 51: Vận chuyển hàng không bao gồm:",
+			"options": [
+				"A- Việc vận chuyển hành khách, hành lý bằng đường hàng không",
+				"B- Việc vận chuyển hàng hóa, bưu gửi bằng đường hàng không",
+				"C- Việc vận chuyển hành khách, hành lý, hàng hóa bằng đường hàng không",
+				"D- Cả A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 52: Vận chuyển hàng không quốc tế là",
+			"options": [
+				"A- Việc vận chuyển bằng đường hàng không trong lãnh thổ của một quốc gia",
+				"B- Việc vận chuyển bằng đường hàng không qua lãnh thổ của hơn một quốc gia",
+				"C- Cả A và B đều đúng",
+				"D- Cả A và B đều sai"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 53: Quyền vận chuyển hàng không nội địa được cấp cho:",
+			"options": [
+				"A- Các hãng hàng không Việt Nam",
+				"B- Các hãng hàng không nước ngoài",
+				"C- Các hãng hàng không nước ngoài khi tham gia phòng chống, khắc phục thiên tai, dịch bệnh; cứu trợ nhân đạo khẩn cấp",
+				"D- Cả A và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 54: Tổ chức/cá nhân nào chịu trách nhiệm trước pháp luật về tính chính xác của thông tin về hàng hóa được ghi trong vận đơn hàng không?",
+			"options": [
+				"A- Người gửi hàng",
+				"B- Doanh nghiệp vận chuyển hàng hóa",
+				"C- Nhân viên an ninh soi chiếu hàng hóa",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 55: Vé hành khách là:",
+			"options": [
+				"A- Chứng từ vận chuyển hành khách bằng đường hàng không",
+				"B- Bằng chứng của việc giao kết hợp đồng, các điều kiện của hợp đồng",
+				"C- Chứng từ vận chuyển hàng hóa bằng đường hàng không",
+				"D- Cả A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 56: Có thể từ chối vận chuyển đối với hành khách có vé và đã được xác nhận chỗ không?",
+			"options": [
+				"A- Không thể từ chối",
+				"B- Có thể, với điều kiện hành khách đó đồng ý",
+				"C- Có thể, theo yêu cầu của người vận chuyển",
+				"D- Có thể, nếu hành khách đó thuộc 1 trong 7 trường hợp quy định được phép từ chối vận chuyển"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 57: Hành khách có vé và đã được xác nhận chỗ sẽ bị từ chối vận chuyển trong trường hợp nào dưới đây?",
+			"options": [
+				"A- Do tình trạng sức khỏe của hành khách mà người vận chuyển nhận thấy việc vận chuyển hoặc vận chuyển tiếp sẽ gây nguy hại cho hành khách đó, cho những người khác trong tàu bay hoặc gây nguy hại cho chuyến bay; Để ngăn ngừa lây lan dịch bệnh",
+				"B- Hành khách không chấp hành quy định về bảo đảm an toàn hàng không, an ninh hàng không, khai thác vận chuyển hàng không; Hành khách có hành vi làm mất trật tự công cộng, uy hiếp an toàn bay hoặc gây ảnh hưởng đến tính mạng, sức khỏe, tài sản của người khác",
+				"C- Hành khách trong tình trạng say rượu, bia hoặc các chất kích thích khác mà không làm chủ được hành vi; Vì lý do an ninh; Theo yêu cầu của cơ quan nhà nước có thẩm quyền",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 58: Hành lý không đi cùng với hành khách trên cùng một chuyến bay trong trường hợp nào?",
+			"options": [
+				"A- Hành lý bị thất lạc; hành lý là túi thư ngoại giao",
+				"B- Hành lý được vận chuyển như hàng hóa; hành lý bị giữ lại vì lý do an toàn",
+				"C- Hành lý của hành khách bị chết trong tàu bay và thi thể đã được đưa khỏi tàu bay",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 59: Tổ chức/cá nhân nào phải chịu trách nhiệm bồi thường thiệt hại về người, hành lý, hàng hóa cho hành khách đi tàu bay?",
+			"options": [
+				"A- Cơ quan quản lý nhà nước chuyên ngành hàng không",
+				"B- Doanh nghiệp vận chuyển hàng không",
+				"C- Doanh nghiệp khai thác cảng hàng không",
+				"D- Bộ Tài chính"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 60: An ninh hàng không là gì?",
+			"options": [
+				"A- Là việc sử dụng kết hợp các biện pháp, nguồn nhân lực, trang bị, thiết bị",
+				"B- Phòng ngừa, ngăn chặn và đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng",
+				"C- Nhằm mục đích bảo vệ an toàn cho tàu bay, hành khách, tổ bay và những người dưới mặt đất",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 61: Khái niệm Hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng:",
+			"options": [
+				"A- Là hành vi có khả năng uy hiếp an toàn hoạt động hàng không dân dụng",
+				"B- Là hành vi can thiệp gây nguy hiểm cho các hoạt động hàng không",
+				"C- Cả A và B",
+				"D- Cả A và B đều sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 62: Địa bàn hoạt động của lực lượng kiểm soát ANHK gồm:",
+			"options": [
+				"A- Cảng hàng không, sân bay; trên tàu bay",
+				"B- Cơ sở cung cấp dịch vụ không lưu; cơ sở sản xuất, bảo dưỡng, sửa chữa tàu bay, thiết bị tàu bay",
+				"C- Cơ sở cung cấp dịch vụ hàng không tại cảng hàng không, sân bay; cơ sở xử lý hàng hóa, bưu gửi để đưa lên tàu bay",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 63: Hành lý nào sau đây được phép vận chuyển không cùng chuyến bay với hành khách?",
+			"options": [
+				"A- Hành lý thất lạc",
+				"B- Túi thư ngoại giao, túi lãnh sự",
+				"C- Hành lý bị giữ lại vì lý do an toàn của chuyến bay",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 64: Kiểm tra, soi chiếu, giám sát an ninh hàng không trước chuyến bay là:",
+			"options": [
+				"A- Một biện pháp đảm bảo an ninh hàng không",
+				"B- Một biện pháp ngăn chặn hành vi vi phạm hành chính trong lĩnh vực hàng không dân dụng",
+				"C- Một biện pháp quản lý nhà nước trong lĩnh vực hàng không dân dụng",
+				"D- A, B, C đều sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 65: Đảm bảo an ninh hàng không được thực hiện bằng những biện pháp nào?",
+			"options": [
+				"A- Thiết lập khu vực hạn chế tại cảng hàng không, sân bay",
+				"B- Kiểm tra, soi chiếu, giám sát an ninh hàng không trước chuyến bay",
+				"C- Loại trừ khả năng chuyên chở bất hợp pháp vật phẩm nguy hiểm bằng đường hàng không và áp dụng các biện pháp phòng ngừa đặc biệt khi cho phép chuyên chở các vật phẩm nguy hiểm đó",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 66: Lực lượng nào dưới đây chịu trách nhiệm thực hiện việc phòng ngừa, ngăn chặn và đối phó ban đầu đối với hành vi can thiệp bất hợp pháp bất hợp pháp vào hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Kiểm soát an ninh hàng không",
+				"B- Công an nhân dân",
+				"C- Quân đội nhân dân",
+				"D- Hải quan cửa khầu"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 67: Loại hành lý nào do người vận chuyển chịu trách nhiệm bảo quản và chịu trách nhiệm bồi thường thiệt hại nếu để mất mát, hư hỏng?",
+			"options": [
+				"A- Hành lý xách tay",
+				"B- Hành lý ký gửi",
+				"C- Cả A và B đều đúng",
+				"D- Cả A và B đều sai"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 68: Chương trình An ninh hàng không dân dụng quốc gia do cơ quan nào ban hành?",
+			"options": [
+				"A- Chính phủ",
+				"B- Bộ Giao thông vận tải",
+				"C- Cục hàng không Việt Nam",
+				"D- Cảng vụ hàng không khu vực"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 69: Hoạt động hàng không chung là là hoạt động sử dụng tàu bay để thực hiện các chuyến bay trong các lĩnh vực:",
+			"options": [
+				"A- Công nghiệp, nông nghiệp, lâm nghiệp, ngư nghiệp, xây dựng",
+				"B- Phục vụ tìm kiếm, cứu nạn, cấp cứu, cứu hộ, y tế",
+				"C- Nghiên cứu khoa học, văn hóa, thể thao, đào tạo, huấn luyện, bay hiệu chuẩn, đo đạc, chụp ảnh, quay phim, bay phục vụ nhu cầu cá nhân",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 70: Ai có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng?",
+			"options": [
+				"A- Thanh tra viên; Chánh Thanh tra Cục Hàng không Việt Nam, Chánh Thanh tra Bộ Giao thông vận tải, Cục trưởng Cục Hàng không Việt Nam;",
+				"B- Trưởng đại diện Cảng vụ hàng không; Giám đốc Cảng vụ hàng không;",
+				"C- Chủ tịch Ủy ban nhân dân cấp xã, huyện, tỉnh; Lực lượng Công an nhân dân.",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 71: Pháp luật Việt nam quy định những đối tượng nào sau đây là nhân viên hàng không?",
+			"options": [
+				"A- Thành viên tổ lái; tiếp viên hàng không; giáo viên huấn luyện bay;",
+				"B- Nhân viên an ninh hàng không; nhân viên điều khiển vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay.",
+				"C- Nhân viên khai thác mặt đất phục vụ chuyến bay; nhân viên cứu nạn, chữa cháy tại cảng hàng không, sân bay.",
+				"D- Cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		}
+	]
+}

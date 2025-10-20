@@ -1,0 +1,527 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Biện pháp phân tích hành vi và phát hiện hành vi bất thường có vai trò gì trong bảo đảm an ninh hàng không?",
+			"options": [
+				"A- Đảm bảo an ninh hàng không hiệu quả và bền vững.",
+				"B- Cải tiến quy trình và biện pháp kiểm tra an ninh.",
+				"C- Giảm thiểu sai sót trong công tác đảm bảo an ninh.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Biện pháp phân tích hành vi và phát hiện hành vi bất thường dựa trên những dữ liệu và thông tin nào?",
+			"options": [
+				"A- Thông tin từ quy trình kiểm tra soi chiếu.",
+				"B- Dữ liệu từ các hoạt động an ninh.",
+				"C- Thông tin từ các biện pháp cải tiến quy trình kiểm tra an ninh.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Phân tích hành vi và phát hiện hành vi bất thường giúp tối ưu hóa hiệu quả của công tác gì?",
+			"options": [
+				"A- Công tác nhân sự của lực lượng kiểm soát an ninh.",
+				"B- Công tác bảo đảm an ninh hàng không.",
+				"C- Công tác phân tích thông tin an ninh.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Biện pháp phân tích hành vi và phát hiện hành vi bất thường giúp giảm thiểu điều gì trong công tác đảm bảo an ninh?",
+			"options": [
+				"A- Các vụ việc vi phạm của nhân viên kiểm soát an ninh hàng không.",
+				"B- Sai sót trong công tác kiểm tra an ninh.",
+				"C- Các vụ việc vi phạm về an ninh hàng không.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Tâm lý tội phạm được hiểu như thế nào?",
+			"options": [
+				"A- Hành vi phạm tội của một cá nhân.",
+				"B- Trạng thái tư tưởng, tình cảm, suy nghĩ bên trong liên quan đến hành vi phạm tội.",
+				"C- Tình trạng thái độ và hành vi bất thường của một tội phạm.",
+				"D- Biểu hiện của hành vi phạm tội."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Những biểu hiện tâm lý tội phạm gồm những điều gì?",
+			"options": [
+				"A- Ánh mắt bình tĩnh, thái độ chậm chạp.",
+				"B- Nói lắp bắp, nói lặp lại, không đồng nhất.",
+				"C- Tâm trạng vui vẻ thái quá.",
+				"D- Nói nhiều, nặng về trình bày."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Phương pháp phát hiện tâm lý tội phạm dựa trên những gì?",
+			"options": [
+				"A- Quan sát, nhận diện những biểu hiện khác thường.",
+				"B- Kiểm tra, đối chiếu giấy tờ tùy thân của hành khách.",
+				"C- Thu thập thông tin từ tin tức tình báo, danh sách đen.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Để phát hiện tâm lý tội phạm, ta có thể kiểm tra đối chiếu các giấy tờ tùy thân của hành khách với danh sách nào?",
+			"options": [
+				"A- Danh sách các đối tượng đã từng phạm tội do cơ quan có thẩm quyền thông báo.",
+				"B- Danh sách các đối tượng tội phạm được cơ quan có thẩm quyền thông báo.",
+				"C- Danh sách các đối tượng đã từng bị cấm bay.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Thông tin thu thập để phát hiện tâm lý tội phạm bao gồm thông tin từ những nguồn nào?",
+			"options": [
+				"A- Tin tức tình báo.",
+				"B- Danh sách đen.",
+				"C- Các quyết định truy nã của các cơ quan có thẩm quyền.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Tâm lý hành khách được định nghĩa như thế nào?",
+			"options": [
+				"A- Những suy nghĩ và quan điểm về cuộc sống của hành khách.",
+				"B- Quyền lợi và trách nhiệm của hành khách tại cảng hàng không.",
+				"C- Suy nghĩ, niềm tin, cảm xúc và quan điểm của hành khách khi sử dụng các dịch tại Cảng hàng không.",
+				"D- Sự hài lòng của hành khách với chất lượng dịch vụ tại sân bay."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Biểu hiện của một hành khách vui vẻ, phấn khởi là gì?",
+			"options": [
+				"A- Lắc đầu và nhăn mặt.",
+				"B- Mỉm cười và cảm ơn.",
+				"C- Nói lời phê bình và thái độ coi thường nhân viên hàng không.",
+				"D- Lo lắng và sợ hãi."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Hành khách có thể tỏ thái độ chê bai và bất cần khi nào?",
+			"options": [
+				"A- Khi nhân viên hàng không chuyên nghiệp.",
+				"B- Khi chuyến bay bay đúng giờ.",
+				"C- Khi được nhân viên hàng không yêu cầu tuân thủ quy định.",
+				"D- Khi nhận được thông tin đầy đủ từ nhân viên hàng không."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Biểu hiện của một hành khách lo lắng và sợ hãi là gì?",
+			"options": [
+				"A- Nói tiếng to và khua chân múa tay.",
+				"B- Nói nhiều.",
+				"C- Hồi hộp và tim đập nhanh.",
+				"D- Từ chối mọi sự giúp đỡ."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Tâm lý hành khách có biểu hiện gì khi hành khách phản ứng tức giận với dịch vụ không tốt?",
+			"options": [
+				"A- Nói những lời tích cực và cảm ơn.",
+				"B- Lắc đầu và nhăn mặt.",
+				"C- Mắt mở to và lo lắng.",
+				"D- Nói ấp úng và mỉm cười."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Hành khách được phân loại dựa trên những gì?",
+			"options": [
+				"A- Biểu hiện hành vi.",
+				"B- Ý thức tuân thủ.",
+				"C- Giới tính.",
+				"D- Đáp án A,B,C đúng."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Nhóm hành khách nào được phân loại dựa trên biểu hiện hành vi?",
+			"options": [
+				"A- Nhóm hành khách Nam hoặc nữ",
+				"B- Nhóm hành khách tuân thủ quy định",
+				"C- Hành khách có thái độ tích cực, thái độ tiêu cực",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Nhóm hành khách nào được phân loại dựa trên ý thức tuân thủ?",
+			"options": [
+				"A- Hành khách có ý thức tuân thủ nghiêm ngặt",
+				"B- Hành khách không có ý thức tuân thủ",
+				"C- Hành khách thân thiện",
+				"D- Đáp án A, B đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Nhóm hành khách nào được phân loại dựa trên giới tính?",
+			"options": [
+				"A- Nhóm hành khách vui vẻ",
+				"B- Nhóm hành khách da màu",
+				"C- Nhóm hành khách nam, nữ",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Tổng cộng bao nhiêu nhóm hành khách được phân loại?",
+			"options": ["A- 1", "B- 3", "C- 4", "D- 5"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Hành khách được phân loại dựa theo những yếu tố nào?",
+			"options": [
+				"A- Tình trạng sức khỏe, nơi sinh sống",
+				"B- Biểu hiện hành vi, Ý thức tuân thủ, Giới tính, Tôn giáo",
+				"C- Giới tính và độ tuổi",
+				"D- Màu da và quốc tịch"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Mục tiêu của việc phân loại hành khách là gì?",
+			"options": [
+				"A- Nhận diện và giải quyết các vấn đề của hành khách",
+				"B- Đảm bảo an toàn trong quá trình vận chuyển",
+				"C- Tạo điều kiện thuận lợi cho nhân viên an ninh hàng không nhận định từng đối tượng hành khách để có cách giao tiếp, ứng xử phù hợp trong quá trình kiểm tra, giám sát an ninh hàng không",
+				"D- Thuận tiện cho nhân viên để quản lý hành khách"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Nhân viên nội bộ là gì?",
+			"options": [
+				"A- Cán bộ quản lý của sân bay",
+				"B- Cán bộ công nhân viên làm việc thường xuyên tại cảng hàng không, sân bay",
+				"C- Các hướng dẫn khách đoàn tại cảng hàng không, sân bay",
+				"D- Các nhân viên của hãng hàng không tại cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Hiệu ứng đám đông đối với nhân viên nội bộ có ảnh hưởng gì?",
+			"options": [
+				"A- Họ sẽ tuân theo các quy trình quy định",
+				"B- Họ thường xuyên kiểm soát được hành vi của mình",
+				"C- Họ sẽ hành động theo đa số những hành động của hành khách",
+				"D- Họ sẽ có tâm lý khác biệt với người khác"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Nhân viên nội bộ có thể gây ra những vấn đề gì cho hành khách khi giải thích không rõ ràng?",
+			"options": [
+				"A- Hành khách có thể hiểu nhầm và hiểu sai",
+				"B- Hành khách không bị ảnh hưởng gì đến vì hãng đã cung cấp thông tin cho hành khách từ khi mua vé và làm thủ tục",
+				"C- Hành khách sẽ tuân thủ đúng các quy định",
+				"D- Hành khách sẽ bị chậm chuyến bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Những yếu tố nào có thể tác động đến tâm lý của nhân viên nội bộ?",
+			"options": [
+				"A- Hiệu ứng đám đông; chuyến bay bị hủy, chậm trễ",
+				"B- Quốc tịch của hành khách",
+				"C- GIới tính của hành khách",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Nguy cơ gì có thể xảy ra khi nhân viên nội bộ thường xuyên tiếp xúc với những đồ vật có giá trị cao?",
+			"options": [
+				"A- Nảy sinh lòng tham, trộm cắp tài sản của hành khách",
+				"B- Nhẹ dạ cả tin dễ bị lừa bởi các đối tượng bên ngoài",
+				"C- Sợ hãi những đồ vật có giá trị cao",
+				"D- Cẩn thận hơn trong quá trình làm việc"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Phân tích hành vi được thực hiện bằng những cách thức như thế nào?",
+			"options": [
+				"A- Quan sát trực tiếp và gián tiếp bằng camera, Phỏng vấn các thông tin liên quan; Kiểm tra, soi chiếu, giám sát an ninh hàng không đối với hành khách, hành lý, đồ vật… của hành khách có hành vi bất thường",
+				"B- Thu thập thông tin từ các nguồn đáng tin cậy; Quan sát trực tiếp và gián tiếp bằng camera; Phỏng vấn các thông tin liên quan;",
+				"C- Thu thập thông tin từ các nguồn đáng tin cậy; Quan sát trực tiếp và gián tiếp bằng camera; Phỏng vấn các thông tin liên quan; Kiểm tra, soi chiếu, giám sát an ninh hàng không đối với hành khách, hành lý, đồ vật… của hành khách có hành vi bất thường",
+				"D- Thu thập thông tin từ các nguồn đáng tin cậy; Kiểm tra, soi chiếu, giám sát an ninh hàng không đối với hành khách, hành lý, đồ vật… của hành khách có hành vi bất thường"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Quy trình phân tích hành vi bắt đầu bằng việc gì?",
+			"options": [
+				"A- Quan sát và nhận diện hành vi bất thường",
+				"B- Tiến hành phỏng vấn hành khách",
+				"C- Soi chiếu và kiểm tra an ninh hàng không",
+				"D- Thu thập thông tin từ các công cụ checklist"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Hành vi nào dưới đây của hành khách có thể xem là bất thường?",
+			"options": [
+				"A- Hành khách toát mồ hôi và run rẩy",
+				"B- Hành khách hối thúc nhân viên an ninh",
+				"C- Hành khách không nói được ngôn ngữ địa phương",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Hành khách nào có thể được xem là có nguy cơ cao?",
+			"options": [
+				"A- Hành khách có quốc tịch thuộc danh sách đề nghị của Cục hàng không Việt Nam",
+				"B- Hành khách không nói được nhiều ngôn ngữ",
+				"C- Hành khách khó khăn khi di chuyển",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Để phân tích hành vi, cần sử dụng công cụ gì để thu thập thông tin?",
+			"options": [
+				"A- Bảng checklist",
+				"B- Bảng tính Excel",
+				"C- Hộp công cụ đa năng",
+				"D- Máy quét mã vạch"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Khu vực nào cần được tập trung quan sát và nhận diện hành vi bất thường của hành khách?",
+			"options": [
+				"A- Khu vực làm thủ tục hàng không.",
+				"B- Khu vực điểm kiểm tra an ninh soi chiếu.",
+				"C- Cả A và B đều đúng.",
+				"D- Không có đáp án đúng."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Kỹ năng gì cần có khi quan sát và nhận diện hành vi bất thường của hành khách?",
+			"options": [
+				"A- Tập trung quan sát, nhìn bao quát từ tổng thể đến chi tiết.",
+				"B- Đánh giá phân tích và xâu chuỗi những cử chỉ, hành vi liên quan của hành khách.",
+				"C- Giữ tính bí mật khi thực hiện việc quan sát.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Thu thập thông tin liên quan đến hành trình của hành khách nhằm mục đích gì?",
+			"options": [
+				"A- Hành khách có xuất thân hoặc đi qua những khu vực có xung đột sắc tộc, tôn giáo hoặc cực đoan không? hành khách có liên quan đến tổ chức khủng bố nào không? Khách có thường xuyên di chuyển, qua lại các khu vực nhạy cảm về chính trị không?",
+				"B- Xác minh công việc, mối quan hệ…của hành khách có gì mờ ám, bất thường không",
+				"C- Hành khách có mang những đồ vật gì nghi ngờ liên quan vật, chất cấm có thể khống chế hoặc gây rủi ro cho Tổ bay/hành khách, tàu bay",
+				"D- Có quan hệ thân quen với nhân viên sân bay không? có quan sát để tìm hiểu các khu chức năng của sân bay không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Thu thập các thông tin về Quốc tịch, ngày sinh, giới tính; Quê quán, nơi ở, Nơi làm việc; Quan hệ xã hội; Thành phần dân tộc; Sở thích, thói quen, ... thuộc về nội dung nào dưới đây",
+			"options": [
+				"A- Thu thập thông tin liên quan đến hành trình của hành khách",
+				"B- Thu thập thông tin liên quan đến tiểu sử bản thân của hành khách",
+				"C- Thu thập thông tin kiểm tra người, hành lý, đồ vật của hành khách",
+				"D- Đáp án A,B,C sai"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Trong phân tích hành vi, việc phối hợp với nhân viên an ninh và công an tuần tra khu vực có mục đích gì?",
+			"options": [
+				"A- Kiểm tra người của hành khách",
+				"B- Xác minh thông tin nhân thân của hành khách",
+				"C- Mở rộng phạm vi quan sát hành khách",
+				"D- Kiểm tra hành lý của hành khách"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Khi thu thập thông tin, việc gì là cần thiết phải được đảm bảo?",
+			"options": [
+				"A- Giữ bí mật và ghi chép cẩn thận, rõ ràng; Đảm bảo đúng quy định liên quan đến bí mật Nhà nước, Lưu dữ liệu dưới dạng văn bản, video, clips, hình ảnh",
+				"B- Cung cấp đầy đủ thông tin cho hành khách",
+				"C- Hủy ngay bản ghi chép sau khi sử dụng",
+				"D- Luôn lưu thành 1 bản sao để lưu trữ phòng khi sự cố xảy ra"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Việc phân tích thông tin dựa trên những tiêu chí nào?",
+			"options": [
+				"A- Tôn trọng quyền riêng tư của hành khách",
+				"B- Âm mưu, ý định thực hiện một cuộc tấn công, sự khả thi của cuộc tấn công, sự thiệt hại do cuộc tấn công gây ra;",
+				"C- Chính xác, ngắn gọn, có bằng chứng",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Cán bộ có thẩm quyền đưa ra quyết định gì khi hành khách không có khả năng bị đe dọa?",
+			"options": [
+				"A- Hoàn thành thủ tục an ninh hàng không cho hành khách",
+				"B- Thực hiện biện pháp kiểm tra bổ sung",
+				"C- Báo cáo cấp trên và yêu cầu chỉ đạo",
+				"D- Thông báo đến các cơ quan chức năng liên quan để phối hợp kiểm tra giám sát"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Cán bộ có thẩm quyền đưa ra quyết định gì khi hành khách có khả năng bị đe dọa thấp?",
+			"options": [
+				"A- Hoàn thành thủ tục an ninh hàng không cho hành khách",
+				"B- Báo cáo cấp trên và yêu cầu chỉ đạo; Thực hiện biện pháp kiểm tra bổ sung",
+				"C- Cách ly hành khách đến khu vực riêng",
+				"D- Thông báo đến các cơ quan chức năng liên quan để phối hợp kiểm tra giám sát"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Các dấu hiệu nào cho thấy hành khách không có khả năng bị đe dọa?",
+			"options": [
+				"A- Hành khách có lịch trình cụ thể, mục đích chuyến đi rõ ràng",
+				"B- Hành khách thay đổi nơi cư trú nhiều lần",
+				"C- Có nhiều dấu hiệu không rõ ràng",
+				"D- Có đồ vật nghi ngờ trong hành lý hàng hóa"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Các dấu hiệu nào cho thấy hành khách có khả năng bị đe dọa cao?",
+			"options": [
+				"A- Có nhiều dấu hiệu trùng khớp liên quan đến hoạt động tội phạm, hành khách có quốc tịch nằm trong nhóm các nước có nguy cơ cao theo danh sách đề nghị của Cục Hàng không Việt Nam",
+				"B- Trong hành lý, đồ vật có một số đồ vật lạ khó xác định",
+				"C- Đã di chuyển nhiều lần tới các khu vực có sự bất ổn về chính trị, xung đột sắc tộc, tôn giáo",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Biện pháp nào được đề cập đầu tiên trong trường hợp hành khách có khả năng bị đe dọa cao?",
+			"options": [
+				"A- Lập tức cách ly hành khách với đồ vật, hành lý",
+				"B- Kiểm tra trực quan lại 1 lần nữa",
+				"C- Tiến hành thẩm vấn theo bảng checklist",
+				"D- Kiểm tra, rà soát lại ngẫu nhiên những hành khách khách trên cùng chuyến bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Nhân viên an ninh tuần tra khu vực có nhiệm vụ gì trong quy trình xử lý hành khách làm thủ tục sát giờ bay tại quầy làm thủ tục hàng không?",
+			"options": [
+				"A- Quan sát hành khách có những biểu hiện hành vi bất thường.",
+				"B- Phối hợp với hãng hàng không, nhân viên phục vụ chuyến bay kiểm tra các thông tin liên quan đến nhân thân của hành khách.",
+				"C- Đề nghị nhân viên phục vụ chuyến bay tăng cường đặt câu hỏi hành khách về vấn đề an ninh hàng không.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 45: Trong trường hợp cần thiết, nhân viên an ninh tuần tra khu vực có thể phối hợp với nhân viên phục vụ chuyến bay có các dấu hiệu đặc biệt trên thẻ lên tàu bay hoặc giấy tờ nhân thân của hành khách để làm gì?",
+			"options": [
+				"A- Để nhân viên an ninh soi chiếu có thể nhận diện và áp dụng các biện pháp kiểm tra phù hợp.",
+				"B- Để kiểm tra trực quan hành lý ký gửi.",
+				"C- Để theo dõi toàn bộ diễn biến hành vi của hành khách.",
+				"D- Đáp án A,B,C sai"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 46: Cán bộ kíp trực tại điểm kiểm soát an ninh hàng không đánh giá nhanh tình hình như thế nào?",
+			"options": [
+				"A- Quan sát nhanh thái độ, biểu hiện bất thường của hành khách, những người đi cùng hành khách và những người xung quanh.",
+				"B- Đánh giá sơ bộ mục đích, ý đồ của hành khách đến sát giờ bay.",
+				"C- Đánh giá sơ bộ xem hành khách đến sát giờ bay để hối thúc, gây sức ép cho nhân viên hàng không về mặt thời gian.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 47: Điểm kiểm tra an ninh soi chiếu tại sân bay cần phối hợp với bộ phận nào để giám sát toàn bộ khu vực?",
+			"options": [
+				"A- Nhân viên làm thủ tục của hãng hàng không",
+				"B- Đại diện hãng hàng không",
+				"C- Nhân viên giám sát camera",
+				"D- Kíp trưởng tại điểm kiểm tra an ninh soi chiếu"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 48: Nhân viên an ninh tuần tra khu vực có nhiệm vụ gì tại quầy làm thủ tục hàng không?",
+			"options": [
+				"A- Quan sát và tìm hiểu nguyên nhân hành khách có biểu hiện tâm lý hành động bất thường.",
+				"B- Hỗ trợ hành khách làm thủ tục cho đỡ ùn tắc.",
+				"C- Quan sát các hành khách xung quanh để kịp thời hỗ trợ khi cần",
+				"D- Phối hợp với hãng hàng không, nhân viên phục vụ chuyến bay kiểm tra giấy tờ tùy thân của hành khách"
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

@@ -1,0 +1,334 @@
+{
+	"questions": [
+		{
+			"question": "1. Thứ tự kiểm tra hành khách bằng thiết bị phát hiện kim loại cầm tay được thực hiện như thế nào là đúng?",
+			"options": [
+				"A- Từ trên xuống dưới, từ trái qua phải, từ trước ra sau",
+				"B- Từ trên xuống dưới, từ phải qua trái, từ trước ra sau",
+				"C- Từ trên xuống dưới, từ trái qua phải, từ sau ra trước",
+				"D- Từ dưới lên trên, từ phải qua trái, từ trước ra sau"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "2. Nhân viên kiểm soát ANHK thực hiện việc kiểm tra hành khách sau cổng từ bằng các biện pháp thích hợp trong các trường hợp nào sau đây?",
+			"options": [
+				"A- Cổng từ có tín hiệu báo động.",
+				"B- Có biểu hiện nghi vấn.",
+				"C- Khách đi cùng trẻ em.",
+				"D- Đáp án a và b."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "3. Cổng từ có mấy loại tín hiệu báo động?",
+			"options": [
+				"A- Một loại duy nhất.",
+				"B- Hai loại.",
+				"C- Ba loại.",
+				"D- Bốn loại."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "4. Which shall security measures be applied to passenger and their cabin baggage?",
+			"options": [
+				"A- Physical Search.",
+				"B- X-ray machines",
+				"C- Walk through metal detectors and hand-held metal detectors.",
+				"D- All above are correct."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "5. Việc kiểm tra, giám sát an ninh đối với thành viên tổ bay và hành lý của họ được thực hiện như thế nào?",
+			"options": [
+				"A- Thực hiện như đối với hành khách, hành lý xách tay của hành khách.",
+				"B- Tạo điều kiện cho đi một luồng riêng không cần phải kiểm tra, giám sát chặt chẽ như hành khách.",
+				"C- Kiểm tra thẻ, đối chiếu với danh sách tổ bay của từng chuyến bay do người khai thác tàu bay cung cấp; ưu tiên không cần phải giám sát chặt chẽ.",
+				"D- Chỉ kiểm tra hành lý, chỉ giám sát mà không cần kiểm tra người."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "6. Việc kiểm tra người và đồ vật cá nhân mang theo của giao thông viên ngoại giao, giao thông viên lãnh sự hay đại diện của cơ quan đại diện ngoại giao, cơ quan lãnh sự đến gửi, nhận túi ngoại giao, túi lãnh sự phải được thực hiện như thế nào?",
+			"options": [
+				"A- Kiểm tra an ninh hàng không như hành khách.",
+				"B- Miễn kiểm tra an ninh hàng không.",
+				"C- Chỉ được phép kiểm tra trực quan.",
+				"D- Chỉ kiểm tra đồ vật cá nhân mang theo, miễn kiểm tra người."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Dung tích của mỗi chai, lọ, bình chứa chất lỏng đã được đóng kín hoàn toàn mang theo người và hành lý xách tay lên tàu bay không được quá bao nhiêu lít (đối với các chuyến bay quốc tế)?",
+			"options": [
+				"A- Không quá 0,1 lít.",
+				"B- Không quá 01 lít.",
+				"C- Không quá 02 lít.",
+				"D- Không quá 05 lít."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "8. Khi phát hiện vũ khí trong người hành khách, nhân viên kiểm soát an ninh hàng không phải xử lý như thế nào?",
+			"options": [
+				"A- Báo cáo cán bộ phụ trách.",
+				"B- Nhanh chóng bằng biện pháp thích hợp khống chế ngăn chặn để xử lý.",
+				"C- Yêu cầu cho xem giấy phép sử dụng.",
+				"D- Báo cáo đại diện hãng vận chuyển."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "9. Cán bộ áp giải bị can, bị cáo, phạm nhân, người bị trục xuất, dẫn độ, người bị bắt theo quyết định truy nã, người bị từ chối nhập cảnh được phép mang theo loại vũ khí, công cụ hỗ trợ nào trên tàu bay khi thực hiện nhiệm vụ?",
+			"options": [
+				"A- Vũ khí quân dụng.",
+				"B- Vũ khí thô sơ.",
+				"C- Công cụ hỗ trợ thích hợp.",
+				"D- Vũ khí và công cụ hỗ trợ."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "10. Cá nhân nào chịu trách nhiệm kiểm tra cổng từ trước khi đưa vào sử dụng lại sau một thời gian không sử dụng?",
+			"options": [
+				"A- Kíp trưởng.",
+				"B- Cán bộ kỹ thuật.",
+				"C- Đội trưởng.",
+				"D- Nhân viên bảo trì."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "11. Thời gian phải thực hiện kiểm tra hàng tuần cổng từ với mẫu thử theo quy định là bao lâu?",
+			"options": [
+				"A- 01 tuần/lần.",
+				"B- 02 tuần/lần.",
+				"C- 03 tuần/lần.",
+				"D- 04 tuần/lần."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "12. Cách thức kiểm tra cổng từ với mẫu thử được đặt tại những vị trí nào trên cơ thể để kiểm tra?",
+			"options": [
+				"A- Nách bên phải; hông bên phải; vòng eo ở giữa lưng; bên trong mắt cá chân bên phải.",
+				"B- Nách bên phải; hông bên phải; vòng eo ở giữa lưng; bên trong mắt cá chân bên trái.",
+				"C- Nách bên phải; hông bên phải; bên trong mắt cá chân bên trái.",
+				"D- Nách bên trái; hông bên trái; vòng eo giữa lưng; bên trong mắt cá chân bên trái."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "13. Là nhân viên kiểm soát an ninh hàng không thực hiện nhiệm vụ kiểm tra hành khách sau cổng từ, anh(chị) xử lý như thế nào khi một hành khách mặc một chiếc áo khoác dày đi qua cổng từ?",
+			"options": [
+				"A- Không kiểm tra vì cổng từ không phát tín hiệu.",
+				"B- Đề nghị hành khách quay lại cởi áo khoác cho qua máy soi.",
+				"C- Đề nghị hành khách cởi áo khoác và kiểm tra người.",
+				"D- Đề nghị hành khách cởi áo khoác để kiểm tra áo, không cần kiểm tra người."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "14. Bảo quản thiết bị phát hiện kim loại cầm tay như thế nào là đúng?",
+			"options": [
+				"A- Không để trên bề mặt ẩm ướt.",
+				"B- Không để trên bề mặt bằng kim loại.",
+				"C- Không dùng để đập, gõ.",
+				"D- Cả 1, 2, 3 đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "15. Cổng từ và thiết bị phát hiện kim loại cầm tay có phát hiện được các loại thuốc nổ nào?",
+			"options": [
+				"A- Phát hiện được thuốc nổ dạng lỏng.",
+				"B- Phát hiện được thuốc nổ dẻo.",
+				"C- Phát hiện được cả thuốc nổ dạng lỏng và dẻo.",
+				"D- Không phát hiện được thuốc nổ dạng lỏng và dẻo."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "16. Khi kiểm tra hành khách sau cổng từ, phát hiện hành khách có để trong túi quần 01 bao thuốc lá còn nguyên chưa bóc, nhân viên an ninh phải làm xử lý như thế nào?",
+			"options": [
+				"A- Đề nghị khách quay lại cho bao thuốc vào máy soi để kiểm tra.",
+				"B- Đề nghị khách bóc bao thuốc ra để kiểm tra trực quan.",
+				"C- Không kiểm tra vì bao thuốc lá còn nguyên tem.",
+				"D- Đề nghị hành khách không mang thuốc lá lên tàu bay."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "17. Trong khi đang kiểm tra 01 hành khách sau cổng từ, phát hiện hành khách thứ 2 đi vào qua cổng từ, anh (chị) phải làm như thế nào?",
+			"options": [
+				"A- Đề nghị hành khách đó đứng chờ và kiểm tra sau khi đã kiểm tra xong hành khách thứ nhất.",
+				"B- Đề nghị hành khách đó quay ra phía ngoài cổng từ và chỉ đi vào sau khi đã kiểm tra xong hành khách trước đó.",
+				"C- Cho đi vào vì cổng từ không phát tín hiệu báo động.",
+				"D- Tiến hành kiểm tra trực quan hành khách đó."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "18. Khi kiểm tra hành khách sau cổng từ, phát hiện trong túi quần hành khách có chứa đồ vật vật chưa được xác định, anh (chị) xử lý như thế nào?",
+			"options": [
+				"A- Thò tay vào túi quần của hành khách lấy vật đó ra để kiểm tra.",
+				"B- Đề nghị hành khách tự lấy ra để kiểm tra.",
+				"C- Bàn giao cho nhân viên kiểm tra trực quan hành lý xách tay kiểm tra.",
+				"D- Báo cáo cán bộ trực."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "19. Biện pháp kiểm soát an ninh hàng không tăng cường tương ứng cấp độ 2 được áp dụng trong trường hợp nào sau đây?",
+			"options": [
+				"A- Có sự kiện chính trị, xã hội trọng đại của đất nước.",
+				"B- Có tình hình mất an ninh chính trị, trật tự xã hội nghiêm trọng tại địa phương.",
+				"C- Có tình hình an ninh chính trị, trật tự xã hội phức tạp.",
+				"D- Có thông tin xác thực về một âm mưu can thiệp bất hợp pháp vào hoạt động hàng không dân dụng có địa điểm, mục tiêu, thời gian cụ thể."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "20. Trường hợp người được phép vào khu vực hạn chế thăm quan, chụp ảnh, quay phim…, cần phải đáp ứng điều kiện gì?",
+			"options": [
+				"A- Có giấy tờ tùy thân đầy đủ.",
+				"B- Có nhân viên hàng không đi kèm giám sát.",
+				"C- Có nhân viên đơn vị chủ quản hoặc nhân viên kiểm soát an ninh đi kèm, giám sát.",
+				"D- Đáp án 1,2 và 3."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "21. Khi kiểm tra hành khách bằng thiết bị phát hiện kim loại cầm tay, cần chú ý những vị trí nào trên cơ thể thường cất giấu vật cấm?",
+			"options": [
+				"A- Khuỷu chân, thắt lưng, sống lưng.",
+				"B- Háng, ngực, nách.",
+				"C- Trong tất (vớ), giầy, nón, bắp chân.",
+				"D- Đáp án 1,2 và 3"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "22. Nhân viên kiểm soát an ninh hàng không kiểm tra hành khách sau cổng từ có những nhiệm vụ nào sau đây?",
+			"options": [
+				"A- Phối hợp với nhân viên hướng dẫn khách điều hòa lượng khách qua cổng từ.",
+				"B- Kiểm tra hành khách khi cổng từ có tín hiệu báo động hoặc khách có biểu hiện nghi vấn.",
+				"C- Hướng dẫn hành khách nhận lại hành lý xách tay sau khi qua máy soi.",
+				"D- Cả 1,2 và 3"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "23. Hành khách, hành lý nghi ngờ là:",
+			"options": [
+				"A- Hành khách, hành lý có những dấu hiệu bên ngoài bất thường có thể quan sát được như bất thường về hình dáng, kích thước, trọng lượng, trạng thái, quy luật,... hoặc có thông tin cung cấp về đối tượng hành khách, hành lý có dấu hiệu nghi ngờ.",
+				"B- Hành khách, hành lý có kích thước, trọng lượng, trạng thái bất thường.",
+				"C- Có thông tin cung cấp về đối tượng hành khách, hành lý có dấu hiệu nghi ngờ.",
+				"D- Cả a,b và c sai."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "24. Trường hợp hành khách không biết các thủ tục quy định về an ninh hàng không, khi kiểm tra người bằng thiết bị phát hiện kim loại cầm tay, phát hiện hành khách mang vật phẩm nguy hiểm theo người lên tàu bay, anh/chị sẽ xử lý như thế nào?",
+			"options": [
+				"A- Yêu cầu hành khách phải bỏ vật phẩm nguy hiểm trên vào nơi quy định.",
+				"B- Báo cáo cán bộ trực Tổ/Đội để xử lý.",
+				"C- Thông báo cho hành khách biết những đồ vật này không được phép mang lên tàu bay hoặc làm thủ tục ký gửi trên cùng chuyến bay theo quy định của nhà vận chuyển.",
+				"D- Thông báo cho Hãng vận chuyển."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "25. Nhân viên kiểm soát an ninh hàng không xử lý như thế nào trong trường hợp trang thiết bị an ninh hỏng hóc, trục trặc hoặc không đảm bảo kỹ thuật khi đang khai thác?",
+			"options": [
+				"A- Báo Trung tâm Khai thác Ga.",
+				"B- Báo Trung tâm Điều hành.",
+				"C- Báo cáo cán bộ trực điều hành Đội.",
+				"D- Báo Trực ban an ninh."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "26. Khi đèn tín hiệu của thiết bị phát hiện cầm tay báo màu vàng, tín hiệu đó biểu hiện tình trạng như thế nào của thiết bị?",
+			"options": [
+				"A- Báo hiệu pin của thiết bị hỏng.",
+				"B- Báo hiệu pin của thiết bị sắp hết.",
+				"C- Báo hiệu thiết bị hoạt động không chính xác.",
+				"D- Báo hiệu thiết bị bị nhiễm từ."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "27. Trong các trường hợp nào sau đây phải tiến hành tái kiểm tra an ninh hàng không?",
+			"options": [
+				"A- Hành khách, hành lý xách tay đã kiểm tra an ninh hàng không nhưng ra khỏi khu vực cách ly sau đó mới quay lại.",
+				"B- Trường hợp có sự tiếp xúc, trộn lẫn giữa hành khách, hành lý xách tay đã qua kiểm tra và người chưa qua kiểm tra an ninh hàng không.",
+				"C- Trường hợp niêm phong an ninh không còn nguyên vẹn hoặc hành lý ký gửi, hàng hoá, bưu gửi, đồ vật phục vụ trên tàu bay, tủ, túi đựng suất ăn bị rách, vỡ.",
+				"D- Đáp án 1,2 và 3"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "28. Trường hợp hành khách cố tình và có dấu hiệu nghi vấn, khi kiểm tra bằng thiết bị phát hiện kim loại cầm tay, phát hiện hành khách mang vật phẩm nguy hiểm theo người lên tàu bay, anh/chị sẽ xử lý như thế nào?",
+			"options": [
+				"A- Yêu cầu hành khách phải bỏ vật phẩm nguy hiểm trên vào nơi quy định.",
+				"B- Phải báo cáo ngay cho cán bộ Đội để giải quyết.",
+				"C- Thông báo cho hành khách biết những đồ vật này sẽ không được phép mang lên tàu bay.",
+				"D- Thông báo cho Hãng vận chuyển."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "29. Trường hợp hành khách bị từ chối nhập cảnh đi từ khu vực cách ly ra ngoài khu vực công cộng và trở lại khu vực cách ly phải được kiểm tra an ninh như thế nào?",
+			"options": [
+				"A- Kiểm tra an ninh như hành khách xuất phát.",
+				"B- Tiến hành kiểm tra hành lý xách tay.",
+				"C- Tiến hành kiểm tra trực quan hành khách.",
+				"D- Đáp án 1,2 và 3."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "30. Biểu hiện nghi vấn khi quan sát dáng vẻ bề ngoài của hành khách?",
+			"options": [
+				"A- Quần áo không hợp thời trang.",
+				"B- Quần áo không phù hợp với điều kiện thời tiết, khí hậu.",
+				"C- Quần áo tối màu.",
+				"D- Quần áo nhiều màu sắc."
+			],
+			"correctOption": 1,
+			"points": 10
+		}
+	]
+}

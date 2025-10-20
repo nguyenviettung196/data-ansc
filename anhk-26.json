@@ -1,0 +1,378 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Đồng bộ hành khách, hành lý là gì?",
+			"options": [
+				"A- Là quá trình kiểm tra, đối chiếu hàng hóa mang lên tàu bay",
+				"B- Là quá trình đối chiếu thông tin giữa hành khách và hàng hóa vận chuyển trên tàu bay",
+				"C- Quá trình kiểm tra, đối chiếu đảm bảo hành lý đưa lên tàu bay đều thuộc về hành khách đã lên tàu bay đó.",
+				"D- Quá trình bảo đảm hàng hóa đúng thuộc về hành khách đã lên tàu bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Đồng bộ hành khách, hành lý nhằm đảm bảo điều gì?",
+			"options": [
+				"A- Tất cả hành lý được đưa lên tàu bay là của những hành khách đã lên tàu bay",
+				"B- Tất cả hành lý đã được kiểm tra an ninh",
+				"C- Hành khách được bảo đảm đã lên tàu bay thật sự",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Đồng bộ hành khách, hành lý áp dụng cho những chuyến bay nào?",
+			"options": [
+				"A- Áp dụng xác suất một số chuyến bay",
+				"B- Tất cả các chuyến bay",
+				"C- Các chuyến bay quốc tế",
+				"D- Các chuyến bay nội địa"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Mục đích của việc đồng bộ hành khách, hành lý?",
+			"options": [
+				"A- Giúp nhân viên thủ tục thuận lợi trong công tác cân bằng trọng tải",
+				"B- Ngăn chặn các đối tượng cài đặt vật phẩm nguy hiểm trong hành lý nhưng không lên tàu bay",
+				"C- Kiểm tra xem hành khách có tuân thủ quy định về trọng lượng, số lượng hành lý hay không?",
+				"D- Đối chiếu thông tin về họ tên của hành khách với hành lý có khớp nhau không?"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Việc đồng bộ hành khách, hành lý được thực hiện vào thời điểm nào?",
+			"options": [
+				"A- Trước khi tàu bay cất cánh",
+				"B- Khi tàu bay hạ cánh",
+				"C- Khi tàu bay vừa cất cánh",
+				"D- Ngay khi mở quầy thủ tục của chuyến bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Đồng bộ hành khách, hành lý nhằm ngăn chặn việc gì?",
+			"options": [
+				"A- Ngăn chặn việc hành khách đi nhầm chặng bay",
+				"B- Ngăn chặn việc hành khách không đưa hành lý lên tàu bay",
+				"C- Ngăn chặn việc hành khách cài đặt vật phẩm nguy hiểm trong hành lý",
+				"D- Ngăn chặn việc hành lý bị thất lạc hoặc rách vỡ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Đồng bộ hành khách, hành lý là quá trình bảo đảm cái gì?",
+			"options": [
+				"A- Bảo đảm an ninh và an toàn cho tất cả các hành khách trên chuyến bay",
+				"B- Bảo đảm tính hợp pháp của hành khách lên tàu bay",
+				"C- Bảo đảm sự thuận lợi trong việc kiểm tra và vận chuyển hành lý",
+				"D- Bảo đảm hành lý được mang đúng quy định của hãng hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Hành lý của mỗi hành khách phải được vận chuyển cùng với hành khách trên một chuyến bay, trừ các trường hợp nào?",
+			"options": [
+				"A- Hành lý thất lạc",
+				"B- Hành lý bị giữ lại vì lý do an toàn của chuyến bay",
+				"C- Túi ngoại giao, túi lãnh sự",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Hành lý của hành khách bị chết trên tàu bay và thi thể đã được đưa khỏi tàu bay sẽ được vận chuyển như thế nào?",
+			"options": [
+				"A- Vẫn được vận chuyển bình thường đến điểm cuối hành trình.",
+				"B- Phải đưa ra khỏi tàu bay cùng thi thể.",
+				"C- Tùy trường hợp do Hãng hàng không quyết định.",
+				"D- Đưa xuống khoang hàng hóa và vận chuyển như hàng hóa."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Hành lý vận chuyển như hàng hóa có cần hành khách đi cùng không?",
+			"options": [
+				"A- Không",
+				"B- Có",
+				"C- Tùy quy định của Hãng hàng không",
+				"D- Chỉ hàng hóa nguy hiểm mới không cần hành khách đi cùng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Hành lý của hành khách bị giữ lại vì lý do an toàn của chuyến bay sẽ được vận chuyển như thế nào?",
+			"options": [
+				"A- Hãng hàng không sẽ có trách nhiệm vận chuyển và gửi cho khách sau khi kiện hành lý đó được kiểm tra và xác định an toàn.",
+				"B- Khách phải quay trở lại sân bay để phối hợp kiểm tra và nhận lại.",
+				"C- Lực lượng kiểm soát an ninh phải có trách nhiệm vận chuyển với kiện hành lý cần kiểm tra đó.",
+				"D- Chỉ được vận chuyển trong trường hợp Giám đốc sân bay đồng ý."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Nguyên tắc đồng bộ hành khách và hành lý không áp dụng cho trường hợp nào?",
+			"options": [
+				"A- Hành lý đi cùng hành khách trên 1 chuyến bay",
+				"B- Hành lý của hành khách trên các chuyến bay chuyên cơ",
+				"C- Túi ngoại giao, túi lãnh sự",
+				"D- Hành lý của khách đi theo đoàn"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Trường hợp hành khách không có mặt để thực hiện chuyến bay, hãng hàng không có trách nhiệm làm gì với hành lý của hành khách đó?",
+			"options": [
+				"A- Hành lý được vận chuyển bình thường",
+				"B- Đưa hành lý xuống tàu bay",
+				"C- Lưu giữ lại hành lý của hành khách",
+				"D- Trả lại hành lý cho hành khách"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Công việc nào sau đây không phải trách nhiệm của hãng hàng không trong việc đảm bảo vận chuyển đồng bộ hành khách, hành lý?",
+			"options": [
+				"A- Đóng gói hành lý chắc chắn không bị rách vỡ",
+				"B- Lập bảng kê hành lý ký gửi",
+				"C- Ký bản kê danh mục hành lý ký gửi",
+				"D- Đảm bảo phải có thẻ hành lý"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Trách nhiệm của lực lượng kiểm soát an ninh hàng không trong xử lý đối với hành lý vận chuyển không có hành khách đi cùng chuyến bay là gì?",
+			"options": [
+				"A- Kiểm tra đồ vật ở các tư thế khác nhau bằng máy soi tia X, Kiểm tra bằng dụng cụ, thiết bị phát hiện chất nổ",
+				"B- Kiểm tra trực quan",
+				"C- Bàn giao hành lý cho khách sau khi kiểm tra xong",
+				"D- Lực lượng kiểm soát an ninh hàng không không có trách nhiệm xử lý hành lý vận chuyển không có hành khách đi cùng chuyến bay."
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Điểm chú ý khi xử lý hành lý vận chuyển không có hành khách đi cùng chuyến bay là gì?",
+			"options": [
+				"A- An ninh hàng không tạm giữ hành lý bỏ chuyến bay mà không cần thông báo cho Hãng vận chuyển",
+				"B- Hành lý ký gửi vận chuyển không cùng với hành khách không cần lập thành biên bản",
+				"C- An ninh hàng không không tạm giữ bất kỳ đồ vật hay hành lý của hành khách bỏ chuyến bay mà không thông báo",
+				"D- Không có điểm chú ý nào"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Văn bản pháp luật nào có quy định về việc đồng bộ hành khách, hành lý?",
+			"options": [
+				"A- Luật Hàng không dân dụng Việt Nam",
+				"B- Luật Giao thông hàng không Việt Nam",
+				"C- Luật An ninh hàng không Việt Nam",
+				"D- Luật Hải quan Việt Nam"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Khi hành khách đã hoàn tất thủ tục an ninh nhưng không thực hiện chuyến bay và báo cho lực lượng an ninh hàng không, hành lý của khách sẽ được xử lý như thế nào?",
+			"options": [
+				"A- Được giữ lại tại sân bay và bàn giao cho Cảng vụ hàng không xử lý",
+				"B- Được đưa ra khỏi tàu bay trước khi chuyến bay được khởi hành.",
+				"C- Được chuyển đến điểm đến như hành trình ban đầu",
+				"D- Được chuyển đến một chuyến bay sau."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Trường hợp nào sau đây, hành lý của hành khách sẽ được đưa ra khỏi tàu bay trước khi chuyến bay khởi hành?",
+			"options": [
+				"A- Khách hàng thực hiện chuyến bay như bình thường",
+				"B- Hành khách quá cảnh, nối chuyến",
+				"C- Hành khách sau khi hoàn tất thủ tục kiểm tra an ninh hàng không và vào khu vực cách ly không thực hiện chuyến bay.",
+				"D- Đáp án A,B,C đúng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Khi hành khách quá cảnh, nối chuyến nhưng không tiếp tục hành trình, hành lý của khách sẽ được xử lý như thế nào?",
+			"options": [
+				"A- Được giữ lại trong tàu bay.",
+				"B- Được đưa ra khỏi tàu bay trước khi chuyến bay được khởi hành.",
+				"C- Được chuyển đến máy bay hạ cánh gần nhất.",
+				"D- Được chuyển đến một chuyến bay sau."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Trong trường hợp hành khách không thực hiện chuyến bay sau khi hoàn tất thủ tục vận chuyển và gửi hành lý tại quầy thủ tục, hành lý của khách sẽ được xử lý như thế nào?",
+			"options": [
+				"A- Được giữ lại trong tàu bay.",
+				"B- Được đưa ra khỏi tàu bay trước khi chuyến bay được khởi hành.",
+				"C- Được chuyển đến máy bay hạ cánh gần nhất.",
+				"D- Được chuyển đến một chuyến bay sau"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Cơ quan, đơn vị nào chịu trách nhiệm kiểm tra an ninh hàng không tàu bay trước khi tiếp nhận hành khách, hành lý, hàng hóa lên tàu bay và sau khi hành khách, hành lý, hàng hóa xuống hết khỏi tàu bay?",
+			"options": [
+				"A- Cảng vụ hàng không.",
+				"B- Lực lượng kiểm soát an ninh hàng không.",
+				"C- Người khai thác tàu bay.",
+				"D- Ban An ninh an toàn."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Cơ quan, đơn vị nào chịu trách nhiệm kiểm tra, đối chiếu giấy tờ nhân thân, thẻ lên tàu của khách để đảm bảo đúng chuyến bay?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không.",
+				"B- Cảng vụ hàng không.",
+				"C- Hãng hàng không.",
+				"D- Tiếp viên hàng không thực hiện chuyến bay đó."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Đối với hành lý ký gửi không có khách đi cùng theo quy định, nhân viên soi chiếu khi kiểm tra trực quan hành ký ký gửi xử lý như thế nào?",
+			"options": [
+				"A- Từ chối vận chuyển.",
+				"B- Thông báo đại diện hãng vận chuyển để phối hợp kiểm tra.",
+				"C- Không kiểm tra trực quan.",
+				"D- Báo cáo cán bộ trực Tổ/Đội giải quyết."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Toàn bộ hành lý của hành khách phải được đưa xuống tàu bay trước khi cho tàu bay khởi hành trong trường hợp hành khách đó đã được cấp thẻ lên tàu bay nhưng không thực hiện hoặc không tiếp tục thực hiện chuyến bay là trách nhiệm của cơ quan, đơn vị nào?",
+			"options": [
+				"A- Cảng vụ hàng không.",
+				"B- Hãng hàng không.",
+				"C- Lực lượng kiểm soát an ninh hàng không.",
+				"D- Công an địa phương"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Có bao nhiêu trường hợp hành lý không có hành khách đi cùng được vận chuyển trên một chuyến bay?",
+			"options": [
+				"A- 4 trường hợp",
+				"B- 5 trường hợp",
+				"C- 6 trường hợp",
+				"D- 7 trường hợp"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Trước khi đưa vào khu vực lưu giữ và trước khi được đưa lại lên tàu bay đối với hành lý thất lạc, nhầm địa chỉ phải được thực hiện biện pháp kiểm tra an ninh thích hợp nào?",
+			"options": [
+				"A- Kiểm tra trực quan 2 lần.",
+				"B- Kiểm tra, soi chiếu an ninh hàng không.",
+				"C- Thông báo cho Hãng hàng không.",
+				"D- Thông báo cho Cảng vụ hàng không."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Vì lý do an ninh, trong những trường hợp nào dưới đây hành lý bị từ chối chuyên chở:",
+			"options": [
+				"A- Hành khách đã làm thủ tục bay",
+				"B- Hành lý chưa được kiểm tra an ninh. Hành lý thuộc loại hàng hóa cấm vận chuyển với quốc gia đi đến hay quá cảnh.",
+				"C- Hành lý có mùi chưa được đóng gói để tránh thoát mùi khó chịu ra ngoài.",
+				"D- Hành lý chưa đóng tiền hành lý quá cước."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Khái niệm đồng bộ hành khách và hành lý nào dưới đây là chính xác nhất",
+			"options": [
+				"A- Là quá trình soi chiếu và bảo đảm tất cả các hành lý được đưa lên tàu bay đều thuộc về những hành khách của chuyến bay, là những hành khách thật sự đã lên tàu bay, và những hành lý đó là hành lý an toàn",
+				"B- Là quá trình kiểm tra, đối chiếu và bảo đảm tất cả các hành lý được đưa lên tàu bay đều thuộc về những hành khách của chuyến bay, là những hành khách thật sự đã lên tàu bay, và những hành lý đó đã trải qua các biện pháp kiểm tra an ninh cần thiết.",
+				"C- Là quá trình kiểm tra và bảo đảm tất cả các hành lý được đưa lên tàu bay đều thuộc về những hành khách của chuyến bay, là những hành khách thật sự đã lên tàu bay, và những hành lý đó đã được kiểm tra qua máy soi tia X",
+				"D- Là quá trình đối chiếu và bảo đảm tất cả các hành lý được đưa lên tàu bay đều thuộc về những hành khách của chuyến bay, là những hành khách thật sự đã lên tàu bay, và những hành lý đó đã trải qua các biện pháp kiểm tra an ninh cần thiết."
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Thẻ hành lý ký gửi cần có những thông tin nào dưới đây",
+			"options": [
+				"A- Số hiệu chuyến bay, ngày tháng năm, mã số kiện hành lý, cân nặng của kiện hành lý",
+				"B- Số hiệu chuyến bay, ngày tháng năm, mã số kiện hành lý,tên nhân viên làm thủ tục cho kiện hành lý đó",
+				"C- Số hiệu chuyến bay, ngày tháng năm, mã số kiện hành lý, họ tên hành khách",
+				"D- Số hiệu chuyến bay, ngày tháng năm, mã số kiện hành lý, địa chỉ nơi đến"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Trách nhiệm lập bảng kê hành lý ký gửi và đối chiếu với danh sách hàng khách trước khi máy bay khởi hành thuộc về tổ chức/cá nhân nào?",
+			"options": [
+				"A- Lực lương kiểm soát an ninh hàng không",
+				"B- Cơ trưởng",
+				"C- Hãng hàng không",
+				"D- Cảng vụ hàng không."
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Trường hợp hành khách đã được cấp thẻ lên tàu bay nhưng không có mặt để thực hiện chuyến bay thì hành lý của hàng khách đó phải xử lý như thế nào?",
+			"options": [
+				"A- Hành lý đã được kiểm tra an ninh nên vận chuyển bình thường",
+				"B- Hành lý phải đưa xuống khỏi tàu bay trước khi tàu bay khởi hành",
+				"C- Hành lý đó phải bàn giao cho Cảng vụ hàng không xử lý",
+				"D- Tái kiểm tra an ninh toàn bộ hành lý trên chuyến bay đó"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Hành lý không đi cùng hàng khách trên chuyến bay thì cần áp dụng các biện pháp kiểm tra bổ sung nào dưới đây?",
+			"options": [
+				"A- Kiểm tra bằng thiết bị phát hiện chất nổ",
+				"B- Kiểm tra trực quan",
+				"C- Không cần kiểm tra lại vì đã kiểm tra rồi",
+				"D- Dùng chó nghiệp vụ để kiểm tra"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Việc lập biên bản đối với hành lý vận chuyển không có hành khách đi cùng trên chuyến bay là trách nhiệm của cá nhân/tổ chức nào?",
+			"options": [
+				"A- Lực lượng kiểm soát an ninh hàng không.",
+				"B- Cục Hàng không Việt Nam.",
+				"C- Cảng vụ hàng không.",
+				"D- Đại diện hãng hàng không."
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

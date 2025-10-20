@@ -1,0 +1,463 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Lịch sử Ngành Hàng không dân dụng thế giới bắt đầu khi một khí cầu nóng do anh em nhà Montgolfier bay lên không trung thời gian nào?",
+			"options": [
+				"A- Ngày 21 tháng 11 năm 1781",
+				"B- Ngày 21 tháng 11 năm 1782",
+				"C- Ngày 21 tháng 11 năm 1783",
+				"D- Ngày 21 tháng 11 năm 1784"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Chuyến bay của chiếc máy bay đầu tiên của ngành Hàng không thế giới được thực hiện thời gian nào?",
+			"options": [
+				"A- Ngày 17 tháng 12 năm 1902",
+				"B- Ngày 17 tháng 12 năm 1903",
+				"C- Ngày 17 tháng 12 năm 1904",
+				"D- Ngày 17 tháng 12 năm 1905"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Sự kiện nào trong Ngành hàng không dân dụng thế giới diễn ra năm 1927?",
+			"options": [
+				"A- ICAO được thành lập",
+				"B- Chuyến bay xuyên Đại Tây Dương của Charles Lindbergh",
+				"C- Chuyến bay thương mại đầu tiên giữa London và Paris",
+				"D- Máy bay trực thăng được chế tạo"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Máy bay trực thăng một cánh quạt VS-300 do Igor Sikorsky chế tạo bay thời gian nào?",
+			"options": [
+				"A- Năm 1939",
+				"B- Năm 1940",
+				"C- Năm 1941",
+				"D- Năm 1942"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Sau chiến tranh thế giới lần thứ II, diễn ra sự kiện nào?",
+			"options": [
+				"A- Sự bùng nổ của hàng không dân dụng",
+				"B- Hàng nghìn phi công quân sự giải ngũ",
+				"C- Các hãng máy bay mở rộng sản xuất",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Chiếc máy bay phản lực đầu tiên được sử dụng rộng rãi là máy bay nào?",
+			"options": [
+				"A- Boeing 707",
+				"B- Boeing 727",
+				"C- Boeing 737",
+				"D- Boeing 747"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Máy bay tư nhân đầu tiên thực hiện chuyến bay ra ngoài không gian thời gian nào?",
+			"options": [
+				"A- Tháng 6 năm 2001",
+				"B- Tháng 6 năm 2002",
+				"C- Tháng 6 năm 2003",
+				"D- Tháng 6 năm 2004"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Tên của máy bay tư nhân đầu tiên thực hiện chuyến bay ra ngoài không gian?",
+			"options": [
+				"A- Vostok",
+				"B- Soyuz",
+				"C- Thần Châu",
+				"D- Space Ship One"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Đến thập niên 60 của Thế kỷ XX có những sự kiện nào ảnh hưởng đến sự phát triển vượt bậc của Ngành Hàng không thế giới?",
+			"options": [
+				"A- Sự xuất hiện của vệ tinh viễn thông",
+				"B- Sự xuất hiện của hệ thống định vị toàn cầu GPS",
+				"C- Sự ứng dụng máy tính điện tử",
+				"D- Cả 03 sự kiện trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Sự kiện một nhóm không tặc cướp 4 máy bay hành khách hiệu Boeing đang trên đường bay nội địa Hoa Kỳ để không tặc nước này thời gian nào?",
+			"options": [
+				"A- Ngày 11 tháng 9 năm 2000",
+				"B- Ngày 11 tháng 9 năm 2001",
+				"C- Ngày 11 tháng 9 năm 2002",
+				"D- Ngày 11 tháng 9 năm 2003"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Ngành Hàng không dân dụng là một ngành quan trọng trong nền kinh tế đóng góp lớn vào sự phát triển của các quốc gia. Vai trò, vị trí bao gồm:",
+			"options": [
+				"A- Cung cấp phương tiện giao thông vận tải nhanh, an toàn và hiệu quả",
+				"B- Tạo liên kết giữa các nước và vũng lãnh thổ",
+				"C- Truyền tải kiến thức và văn hóa; Bảo đảm an ninh an toàn",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Đặc điểm của Ngành Hàng không dân dụng",
+			"options": [
+				"A- Cần đầu tư vốn lớn, sử dụng công nghệ cao",
+				"B- Cần tuân thủ các tiêu chuẩn an toàn cao; Yêu cầu kỹ thuật cao",
+				"C- Liên quan đến các quy định của pháp luật nghiêm ngặt",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: ICAO (Tổ chức Hàng không dân dụng Quốc tế) được viết tắt bởi những từ nào?",
+			"options": [
+				"A- International Commercial Aircraft Organizations.",
+				"B- Intergrated Civil Aviation Organization.",
+				"C- Inter-common Aircraft Organizations.",
+				"D- International Civil Aviation Organization."
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Tổ chức Hàng không dân dụng quốc tế được thành lập năm nào",
+			"options": ["A- 1945", "B- 1946", "C- 1947", "D- 1948"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Nội dung nào trên đây là mục tiêu chủ yếu của ICAO",
+			"options": [
+				"A- Đảm bảo sự bình đẳng giữa các quốc gia thành viên",
+				"B- Thúc đẩy sự phát triển toàn diện của hoạt động hàng không dân dụng quốc tế",
+				"C- Khuyến khích phát triển những đường bay, xây dựng sân bay và trang thiết bị không vận phục vụ cho hoạt động của tàu bay dân dụng",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Hiệp hội vận tải hàng không quốc tế (IATA) được thành lập thời gian nào?",
+			"options": [
+				"A- Năm 1942",
+				"B- Năm 1943",
+				"C- Năm 1944",
+				"D- Năm 1945"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Các hoạt động của IATA liên quan đến An ninh hàng không",
+			"options": [
+				"A- Quy định chương trình đào tạo Hàng nguy hiểm đối với nhân viên an ninh soi chiếu phục vụ cho các chuyến bay của các hãng hàng không thành viên của IATA",
+				"B- Thiết lập các quy trình, thủ tục vận chuyển Hàng nguy hiểm bằng đường hàng không",
+				"C- Thiết lập quy định về an ninh hàng không cho các quốc gia",
+				"D- 1 và 2 là đáp án đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Hội đồng sân bay quốc tế (ACI) được thành lập năm nào?",
+			"options": ["A- 1990", "B- 1991", "C- 1992", "D- 1993"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Tổng công ty Cảng hàng không Việt Nam - CTCP (ACV) là thành viên của ACI Asia Pacific từ năm nào?",
+			"options": ["A- 2010", "B- 2011", "C- 2012", "D- 2013"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Nội dung nào là mục tiêu của ACI",
+			"options": [
+				"A- Thúc đẩy sự xuất sắc của ngành bằng các cung cấp cho các thành viên các công cụ và chuyên môn sáng tạo",
+				"B- Hỗ trợ năng lực của các sân bay để cung cấp vận chuyển hàng không an toàn, hiệu quả",
+				"C- Tối đa hóa sự hợp tác, hỗ trợ giữa các cảng hàng không",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Vietnam Airlines là thành viên của liên minh hàng không nào",
+			"options": [
+				"A- Star Alliance",
+				"B- Skyteam",
+				"C- One world",
+				"D- Tất cả các tổ chức trên"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Vietnam Airlines là thành viên của tổ chức nào?",
+			"options": [
+				"A- IATA",
+				"B- Sky Team",
+				"C- Star Alliance",
+				"D- A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Anh chị hãy nêu tên 3 liên minh hàng không lớn nhất",
+			"options": [
+				"A- Star Alliance, Sky Team, One World",
+				"B- Star Alliance, ICAO, IATA",
+				"C- One World, IATA, Sky Team",
+				"D- Sky Team, ICAO, IATA"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Theo Luật Hàng không dân dụng Việt Nam, vận chuyển hàng không là:",
+			"options": [
+				"A- Vận chuyển hành khách, hành lý, hàng hóa, bưu gửi bằng đường hàng không",
+				"B- Vận chuyển hành khách, hành lý, hàng hóa bằng đường hàng không",
+				"C- Vận chuyển hành khách, hành lý bằng đường hàng không",
+				"D- Vận chuyển hành khách, hàng hóa bằng đường hàng không"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Vận chuyển hàng không thường lệ là:",
+			"options": [
+				"A- Việc vận chuyển đường hàng không bao gồm các chuyến bay được thực hiện đều đặn, theo lịch bay được công bố",
+				"B- Việc vận chuyển đường hàng không bao gồm các chuyến bay được thực hiện đều đặn, theo lịch bay được công bố và mở công khai cho công chúng sử dụng",
+				"C- Việc vận chuyển đường hàng không bao gồm các chuyến bay được thực hiện theo lịch bay được công bố và mở công khai cho công chúng sử dụng",
+				"D- Việc vận chuyển đường hàng không bao gồm các chuyến bay được thực hiện đều đặn và mở công khai cho công chúng sử dụng"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Trường hợp hành khách nào sau đây đã được xác nhận chỗ trên chuyến bay hoặc đang trong hành trình bay nhưng bị từ chối vận chuyển",
+			"options": [
+				"A- Hành khách không chấp hành quy định về bảo đảm an toàn hàng không, an ninh hàng không, khai thác vận chuyển hàng không",
+				"B- Hành khách mất khả năng nhận thức hoặc mất khả năng điều khiển hành vi của mình do bệnh tâm thần hoặc do sử dụng rượu, bia hoặc các chất kích thích mà không làm chủ được hành vi",
+				"C- Vì lý do an ninh trong các trường hợp được Pháp luật quy định",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Sân bay Lũng Cò được xây dựng năm nào?",
+			"options": ["A- 1945", "B- 1946", "C- 1947", "D- 1948"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Ban Nghiên cứu Không quân - tổ chức tiền thân của Ngành hàng không dân dụng Việt Nam được thành lập thời gian nào?",
+			"options": ["A- 1949", "B- 1950", "C- 1951", "D- 1952"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Quân đội nhân dân Việt Nam tiếp nhận sân bay Gia Lâm thời gian nào?",
+			"options": [
+				"A- Ngày 10 tháng 10 năm 1954",
+				"B- Ngày 10 tháng 10 năm 1955",
+				"C- Ngày 10 tháng 10 năm 1956",
+				"D- Ngày 10 tháng 10 năm 1957"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Ngành Hàng không dân dụng Việt Nam thành lập thời gian nào?",
+			"options": [
+				"A- Ngày 22 tháng 12 năm 1954",
+				"B- Ngày 15 tháng 01 năm 1955",
+				"C- Ngày 15 tháng 01 năm 1956",
+				"D- Ngày 22 tháng 12 năm 1956"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 31: Việt Nam trở thành thành viên chính thức của Tổ chức Hàng không dân dụng quốc tế (ICAO) thời gian nào?",
+			"options": [
+				"A- Ngày 12 tháng 4 năm 1980",
+				"B- Ngày 12 tháng 4 năm 1990",
+				"C- Ngày 12 tháng 4 năm 2000",
+				"D- Ngày 12 tháng 4 năm 2010"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 32: Luật Hàng không dân dụng Việt Nam ra đời vào ngày tháng năm nào?",
+			"options": [
+				"A- Ngày 26/12/1991",
+				"B- Ngày 26/12/1992",
+				"C- Ngày 29/6/2006",
+				"D- Ngày 29/6/2007"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 33: Tổng công ty Cảng hàng không Việt Nam (ACV) - Công ty TNHH nhà nước một thành viên thành lập thời gian nào?",
+			"options": [
+				"A- Ngày 08 tháng 2 năm 2011",
+				"B- Ngày 08 tháng 2 năm 2012",
+				"C- Ngày 08 tháng 2 năm 2013",
+				"D- Ngày 08 tháng 2 năm 2014"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 34: Hiện nay, Tổng công ty Cảng hàng không Việt Nam (ACV) quản lý, điều hành bao nhiêu cảng hàng không trên lãnh thổ Việt Nam?",
+			"options": [
+				"A- 20 cảng hàng không",
+				"B- 21 cảng hàng không",
+				"C- 22 cảng hàng không",
+				"D- 23 cảng hàng không"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 35: Việt Nam tiếp nhận thực hiện quyền kiểm soát phần phía Nam vùng thông báo bay (FIR) Hồ Chí Minh từ thời gian nào?",
+			"options": [
+				"A- Ngày 8/12/1991",
+				"B- Ngày 08/12/1992",
+				"C- Ngày 08/12/1993",
+				"D- Ngày 08/12/1994"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 36: Tổng công ty Cảng hàng không Việt Nam (ACV) - Công ty cổ phần được thành lập theo Quyết định nào?",
+			"options": [
+				"A- Quyết định số 1710/QĐ-TTg ngày 06 tháng 10 năm 2014 của Thủ tướng Chính phủ",
+				"B- Quyết định số 1710/QĐ-TTg ngày 06 tháng 10 năm 2015 của Thủ tướng Chính phủ",
+				"C- Quyết định số 666/QĐ-TTg ngày 06 tháng 10 năm 2014 của Thủ tướng Chính phủ",
+				"D- Quyết định số 666/QĐ-TTg ngày 06 tháng 10 năm 2015 của Thủ tướng Chính phủ"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 37: Đặc điểm của Ngành Hàng không dân dụng Việt Nam",
+			"options": [
+				"A- Yêu cầu phát triển kinh tế - xã hội gắn với an ninh quốc phòng; làm nhiệm vụ chuyên cơ",
+				"B- Tính hội nhập quốc tế cao",
+				"C- Tốc độ phát triển cao gắn với xu hướng cổ phần hóa, xã hội hóa mạnh mẽ",
+				"D- Tất cả các đáp án trên"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 38: Chức năng của Cục Hàng không Việt Nam là",
+			"options": [
+				"A- Là cơ quan trực thuộc Bộ Giao thông vận tải, thực hiện chức năng tham mưu, giúp Bộ trưởng Bộ Giao thông vận tải quản lý nhà nước và Hàng không dân dụng trong phạm vi cả nước",
+				"B- Là nhà chức trách hàng không theo quy định của pháp luật",
+				"C- Có tư cách pháp nhân, con dấu hình Quốc huy, có tài khoản riêng theo quy định của pháp luật",
+				"D- Tất cả A, B và C"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 39: Hệ thống các cơ quan quản lý nhà nước về hàng không dân dụng bao gồm:",
+			"options": [
+				"A- Bộ Giao thông vận tải, Tổng công ty Cảng hàng không Việt Nam, Tổng công ty Quản lý bay Việt Nam, Tổng công ty Hàng không Việt Nam.",
+				"B- Bộ Giao thông vận tải, Cục Hàng không Việt Nam, các doanh nghiệp trong Ngành hàng không dân dụng Việt Nam.",
+				"C- Bộ Giao thông vận tải, Cục Hàng không Việt Nam, các Cảng vụ hàng không",
+				"D- Bộ Giao thông vận tải, Cục Hàng không Việt Nam, các doanh nghiệp trong Ngành hàng không dân dụng Việt Nam"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 40: Cảng hàng không cấp 2 thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP bao gồm",
+			"options": [
+				"A- Cảng hàng không Cát Bi, Cần Thơ, Cam Ranh, Phú Bài, Phú Quốc, Liên Khương, Ban Mê Thuột, Vinh",
+				"B- Cảng hàng không Cần Thơ, Cam Ranh, Phú Bài, Phú Quốc, Liên Khương, Ban Mê Thuột, Vinh",
+				"C- Cảng hàng không Cát Bi, Cam Ranh, Phú Bài, Phú Quốc, Liên Khương, Ban Mê Thuột, Vinh",
+				"D- Cảng hàng không Cát Bi, Cần Thơ, Cam Ranh, Phú Bài, Phú Quốc, Liên Khương, Ban Mê Thuột"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 41: Cảng hàng không cấp 1 thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP bao gồm",
+			"options": [
+				"A- Cảng hàng không Quốc tế Nội Bài, Đà Nẵng, Tân Sơn Nhất, Cam Ranh",
+				"B- Cảng Hàng không Quốc tế Nội Bài, Đà Nẵng, Tân Sơn Nhất, Cát Bi",
+				"C- Cảng hàng không Quốc tế Nội Bài, Đà Nẵng, Phú Bài, Tân Sơn Nhất",
+				"D- Cảng hàng không Quốc tế Nội Bài, Đà Nẵng, Tân Sơn Nhất"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 42: Cảng Hàng không Quốc tế Nội Bài là",
+			"options": [
+				"A- Doanh nghiệp trực thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP",
+				"B- Chi nhánh trực thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP",
+				"C- Công ty con trực thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP",
+				"D- Công ty liên kết trực thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 43: Công ty con trực thuộc Tổng công ty Cảng hàng không Việt Nam - CTCP là:",
+			"options": [
+				"A- Công ty TNHH một thành viên do Tổng công ty Cảng hàng không Việt Nam - CTCP chiếm hơn 50% vốn điều lệ",
+				"B- Công ty cổ phần do Tổng công ty Cảng hàng không Việt Nam - CTCP chiếm hơn 50% vốn điều lệ",
+				"C- Công ty cổ phần/công ty TNHH một thành viên do Tổng công ty Cảng hàng không Việt Nam - CTCP chiếm dưới 50% vốn điều lệ",
+				"D- A và B"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 44: Cơ cấu tổ chức của Cảng hàng không cấp 1 của ACV bao gồm:",
+			"options": [
+				"A- Ban giám đốc; Các phòng, văn phòng; Các trung tâm trực thuộc; Các đội nghiệp vụ",
+				"B- Ban giám đốc; Các phòng, văn phòng, các đội nghiệp vụ",
+				"C- Ban giám đốc, Văn phòng, các đội nghiệp vụ",
+				"D- Ban giám đốc, các đội trực thuộc, các Tổ"
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

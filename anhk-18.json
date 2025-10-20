@@ -1,0 +1,286 @@
+{
+	"questions": [
+		{
+			"question": "1. Máy ngửi chất nổ MO-2M có thể dò tìm chất nổ ở mấy chế độ?",
+			"options": [
+				"A- 02 chế độ",
+				"B- 03 chế độ",
+				"C- 04 chế độ",
+				"D- 05 chế độ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "2. Trong điều kiện môi trường ổn định, Máy ngửi chất nổ MO-2M cần bao nhiêu thời gian để hiệu chỉnh tín hiệu nền?",
+			"options": [
+				"A- Từ 5-7 giây",
+				"B- Từ 5-10 giây",
+				"C- Từ 5-15 giây",
+				"D- Từ 7-10 giây"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "3. Nguyên nhân khiến ngưỡng báo động ATL của máy ngửi chất nổ MO-2M vượt quá 0,4V là gì?",
+			"options": [
+				"A- Môi trường nhiều khói, bụi, mùi hóa chất; Môi trường không ổn định (gió); Nhiệt độ của máy tăng cao bất thường",
+				"B- Môi trường nhiều khói, bụi, mùi hóa chất; Môi trường không ổn định (gió); Các chi tiết máy bị hỏng trong quá trình sử dụng",
+				"C- Môi trường nhiều khói, bụi, mùi hóa chất; Môi trường không ổn định (gió); Hệ thống phân tích của máy bị nhiễm bẩn",
+				"D- Môi trường nhiều khói, bụi, mùi hóa chất; Môi trường không ổn định (gió); Hệ thống phân tích của máy bị nhiễm bẩn; Các chi tiết máy bị hỏng trong quá trình sử dụng"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "4. Trong khi sử dụng máy ngửi chất nổ MO-02 để dò tìm chất nổ ở chế độ dò hơi, khoảng cách từ đầu hút khí đến đối tượng được dò không nhỏ hơn bao nhiêu cm?",
+			"options": ["A- 1cm", "B- 2cm", "C- 3cm", "D- 4cm"],
+			"correctOption": 1,
+			"points": 10
+		},
+
+		{
+			"question": "5. Trong khi sử dụng máy ngửi chất nổ MO-02 để dò tìm chất nổ ở chế độ dò hạt, lấy mẫu bằng bẫy lấy mẫu cần bao nhiêu thời gian?",
+			"options": [
+				"A- Từ 10-15 giây",
+				"B- Từ 15-20 giây",
+				"C- Từ 25-30 giây",
+				"D- Từ 10-30 giây"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "6. Trước khi tiến hành quá trình kiểm chứng đối với máy dò tìm chất nổ SABRE, nhân viên vận hành cần mang loại găng tay nào?",
+			"options": [
+				"A- Găng tay cao su không có lớp bột",
+				"B- Găng tay cao su có lớp bột",
+				"C- Găng tay vải",
+				"D- Không được đeo găng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "7. Sau mỗi lần kiểm chứng máy dò tìm chất nổ SABRE thành công hoặc mỗi lần máy phát hiện chất nổ, phải tiến hành phân tích bao nhiêu tấm gạc sạch liên tiếp để đảm bảo không còn dấu vết chất nổ bên trong máy và sẵn sàng cho bước tiếp theo?",
+			"options": ["A- 02 tấm", "B- 03 tấm", "C- 04 tấm", "D- 05 tấm"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "8. Khi sử dụng máy dò tìm chất nổ SABRE ở chế độ dò hạt, nhân viên vận hành sử dụng miếng gạc lấy mẫu trên diện tích không lớn hơn bao nhiêu m2?",
+			"options": ["A- 0,2m2", "B- 0,4m2", "C- 0,5m2", "D- 0,6m2"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "9. Trường hợp máy dò tìm chất nổ SABRE phát hiện chất nổ khi sử dụng phân tích mẫu chất nổ ở chế độ dò hạt, nhân viên vận hành phải thực hiện những bước nào đối với máy để xử lý báo động?",
+			"options": [
+				"A- Gỡ miếng gạc ra khỏi máy; Tiến hành phân tích 01 tấm gạc sạch tiếp theo để đảm bảo không còn dấu vết chất nổ bên trong máy và sẵn sàng cho lần kiểm tra tiếp theo (lần phân tích này máy phải báo “Pass”)",
+				"B- Gỡ miếng gạc ra khỏi máy; Tiến hành phân tích 02 tấm gạc sạch liên tiếp để đảm bảo không còn dấu vết chất nổ bên trong máy và sẵn sàng cho lần kiểm tra tiếp theo (cả 02 lần phân tích máy đều phải báo “Pass”)",
+				"C- Gỡ miếng gạc ra khỏi máy; Tiến hành phân tích 03 tấm gạc sạch liên tiếp để đảm bảo không còn dấu vết chất nổ bên trong máy và sẵn sàng cho lần kiểm tra tiếp theo (cả 03 lần phân tích máy đều phải báo “Pass”)",
+				"D- Gỡ miếng gạc ra khỏi máy; Tiến hành phân tích 04 tấm gạc sạch liên tiếp để đảm bảo không còn dấu vết chất nổ bên trong máy và sẵn sàng cho lần kiểm tra tiếp theo (cả 04 lần phân tích máy đều phải báo “Pass”)"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "10. Trường hợp máy dò tìm chất nổ SABRE không phát hiện chất nổ khi sử dụng phân tích mẫu chất nổ ở chế độ dò hạt, màn hình hiển thị dòng chữ thông báo nào?",
+			"options": ["A- ALARM", "B- READY", "C- PASS", "D- NOT CLEAN"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "11. Khi sử dụng máy ngửi chất nổ IONSCAN 500DT, đối với mẫu có bề mặt mẫu sạch và khô, gạc lẫy mẫu có thể sử dụng lại đến bao nhiêu lần?",
+			"options": ["A- 05 lần", "B- 15 lần", "C- 20 lần", "D- 25 lần"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "12. Khi sử dụng máy ngửi chất nổ IONSCAN 500DT để phân tích mẫu, nếu kiểm tra một mẫu sạch không thành công, màn hình sẽ chuyển cảnh báo màu gì?",
+			"options": ["A- Màu đỏ", "B- Màu cam", "C- Màu vàng", "D- Màu tím"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "13. Khi sử dụng máy ngửi chất nổ IONSCAN 500DT để phân tích mẫu, nếu không có chất nổ, màn hình máy sẽ báo những thông tin gì?",
+			"options": [
+				"A- “Alarm detected” và “ready to analyze; Insert Sample”",
+				"B- “Alarm detected” và “ready to analyze”",
+				"C- “No Alarm detected” và “ready to analyze”",
+				"D- “No Alarm detected” và “ready to analyze; Insert Sample”"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "14. Khi sử dụng máy ngửi chất nổ IONSCAN 500DT, để tránh hư hại cho cần lấy mẫu sau khi đưa vào máy để phân tích, cần phải thực hiện hành động gì đối với cán lấy mẫu?",
+			"options": [
+				"A- Người vận hành sử dụng tay nắm chặt cán lấy mẫu trong quá trình phân tích mẫu.",
+				"B- Người vận hành luôn tháo cán lấy mẫu khỏi khuôn ngay sau khi khuôn lấy mẫu được đưa vào máy để phân tích",
+				"C- Người vận hành tháo cán lấy mẫu khỏi khuôn sau khi máy phân tích mẫu xong.",
+				"D- Người vận hành luôn tháo cán lấy mẫu khỏi khuôn ngay sau khi khuôn lấy mẫu được đưa vào máy, sau đó sử dụng tay ấn chặt vào khuôn mẫu trong quá trình phân tích mẫu"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "15. Khi sử dụng máy ngửi chất nổ TRACE PRO, nếu kết quả kiểm tra cảm biến là không đạt thì người vận hành lặp lại các bước kiểm tra bao nhiêu lần?",
+			"options": ["A- 01 lần", "B- 02 lần", "C- 03 lần", "D- 04 lần"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "16. Trong quá trình hiệu chuẩn máy ngửi chất nổ TRACE PRO, kết quả kiểm tra là đạt khi nào?",
+			"options": [
+				"A- Khi máy phát cảnh báo cho cả TATP và RDX (có thể xuất hiện cảnh báo những chất khác)",
+				"B- Khi máy phát cảnh báo cho cả TATP và TNT (có thể xuất hiện cảnh báo những chất khác)",
+				"C- Khi máy phát cảnh báo cho cả TNT và PETN (có thể xuất hiện cảnh báo những chất khác)",
+				"D- Khi máy phát cảnh báo cho cả TATP và PETN (có thể xuất hiện cảnh báo những chất khác)"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "17. Trong quá trình hiệu chuẩn máy ngửi chất nổ TRACE PRO, kết quả kiểm tra là đạt khi nào?",
+			"options": [
+				"A- khi màn hình hiển thị Alarm hoặc có cảnh báo nhưng không có cả hai TNT và PETN",
+				"B- khi màn hình hiển thị Alarm hoặc có cảnh báo nhưng không có cả hai TATP và RDX",
+				"C- khi màn hình hiển thị Clear hoặc có cảnh báo nhưng không có cả hai TATP và RDX",
+				"D- khi màn hình hiển thị Clear hoặc có cảnh báo nhưng không có cả hai TNT và PETN"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "18. Khi sử dụng máy ngửi chất nổ TRACE PRO, mỗi miếng gạc lấy mẫu có thể được sử dụng tới bao nhiêu lần cho tới cuối ngày làm việc?",
+			"options": ["A- 15 lần", "B- 20 lần", "C- 25 lần", "D- 30 lần"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "19. Máy ngửi chất nổ TRACE PRO có bao nhiêu chế độ dò tìm chất nổ?",
+			"options": [
+				"A- 01 chế độ",
+				"B- 02 chế độ",
+				"C- 03 chế độ",
+				"D- 04 chế độ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "20. Máy ngửi chất nổ HARDENED MOBILE TRACE khi khởi động lần đầu, máy sẽ hoàn thành quá trình làm sạch bằng nhiệt trong bao nhiêu giờ?",
+			"options": ["A- 12 giờ", "B- 24 giờ", "C- 36 giờ", "D- 48 giờ"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "21. Khi sử dụng máy ngửi chất nổ HARDENED MOBILE TRACE, sau lần làm nóng ĐẦU TIÊN, nếu thiết bị đã tắt nguồn trong hơn 72 giờ, người vận hành bật nguồn thiết bị và thực hiện làm nóng hoặc để thiết bị ổn định trong bao nhiêu giờ?",
+			"options": [
+				"A- làm nóng 2 giờ hoặc để thiết bị ổn định trong 2 giờ",
+				"B- làm nóng 4 giờ hoặc để thiết bị ổn định trong 4 giờ",
+				"C- làm nóng 4 giờ hoặc để thiết bị ổn định trong 12 giờ",
+				"D- làm nóng 12 giờ hoặc để thiết bị ổn định trong 12 giờ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "22. Máy ngửi chất nổ HARDENED MOBILE TRACE hoạt động tốt nhất khi nào?",
+			"options": [
+				"A- Khi máy luôn được bật nguồn",
+				"B- Khi máy được tắt ít nhất 04 giờ sau khi sử dụng 24 giờ",
+				"C- Khi máy được tắt ít nhất 04 giờ sau khi sử dụng 36 giờ",
+				"D- Khi máy được tắt ít nhất 04 giờ sau khi sử dụng 72 giờ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "23. Khi sử dụng máy ngửi chất nổ HARDENED MOBILE TRACE, trường hợp pin được lắp vào thiết bị, đèn báo sạc pin BẬT cho người vận hành biết thông tin gì?",
+			"options": [
+				"A- Nguồn bên ngoài chưa được kết nối và đang sử dụng pin",
+				"B- Nguồn điện bên ngoài được kết nối và pin không được sạc",
+				"C- Nguồn bên ngoài đã được kết nối và pin không được sạc",
+				"D- Nguồn bên ngoài đã được kết nối và pin đang sạc"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "24. Khi sử dụng máy ngửi chất nổ HARDENED MOBILE TRACE, trường hợp pin được lắp vào thiết bị, đèn báo sạc pin NHÁY cho người vận hành biết thông tin gì?",
+			"options": [
+				"A- Nguồn bên ngoài đã được kết nối và pin đang sạc",
+				"B- Nguồn điện bên ngoài được kết nối và pin không có trong thiết bị",
+				"C- Nguồn bên ngoài chưa được kết nối và đang sử dụng pin",
+				"D- Nguồn điện bên ngoài được kết nối và pin không được sạc"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "25. Khi sử dụng máy ngửi chất nổ HARDENED MOBILE TRACE ở chế độ dò hạt, người vận hành thực hiện thao tác quệt mẫu như thế nào?",
+			"options": [
+				"A- Quệt mẫu theo hình tròn, hướng quệt ngược chiều kim đồng hồ, mỗi vị trí quệt cách nhau khoảng 2 – 5 cm",
+				"B- Quệt mẫu theo hình tròn, hướng quệt theo chiều kim đồng hồ, mỗi vị trí quệt cách nhau khoảng 2 – 5 cm",
+				"C- Quệt mẫu theo một hướng, mỗi lần quệt khoảng 1 – 3 cm",
+				"D- Quệt mẫu theo một hướng, mỗi lần quệt khoảng 2 – 5 cm"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "26. Khi sử dụng máy ngửi chất nổ HARDENED MOBILE TRACE, người vận hành thực hiện lấy mẫu hạt đối với các khối / hoặc gói bột nghi là chất nổ cần lưu ý những điều gì?",
+			"options": [
+				"A- Không quẹt trực tiếp bẫy lấy mẫu lên khối / hoặc gói bột đó; Lấy mẫu gián tiếp bằng cách dùng bông gạc / hoặc có thể dùng ngón tay (đã đeo găng tay) quẹt lên khối / hoặc gói bột nghi vấn",
+				"B- Quẹt trực tiếp bẫy lấy mẫu lên khối / hoặc gói bột đó; Lấy mẫu gián tiếp bằng cách dùng bông gạc / hoặc có thể dùng ngón tay (đã đeo găng tay) quẹt lên khối / hoặc gói bột nghi vấn",
+				"C- Không quẹt trực tiếp bẫy lấy mẫu lên khối / hoặc gói bột đó; Lấy mẫu trực tiếp bằng ngón tay (không sử dụng găng tay) quẹt lên khối / hoặc gói bột nghi vấn",
+				"D- Quẹt trực tiếp bẫy lấy mẫu lên khối / hoặc gói bột đó; Lấy mẫu trực tiếp bằng ngón tay (không sử dụng găng tay) quẹt lên khối / hoặc gói bột nghi vấn"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "27. Quy trình sử dụng bộ phát hiện vi vết chất nổ EXD-17 để phân tích mẫu thử bằng các bình thuốc thử E, X, P, O gồm bao nhiêu bước?",
+			"options": ["A- 3 bước", "B- 4 bước", "C- 5 bước", "D- 6 bước"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "28. Khi sử dụng bộ phát hiện vi vết chất nổ EXD-17, các bình thuốc thử được sử dụng lần lượt theo thứ tự như thế nào",
+			"options": [
+				"A- Bình E, Bình P, Bình X, Bình O",
+				"B- Bình E, Bình X, Bình P, Bình O",
+				"C- Bình E, Bình P, Bình O, Bình X",
+				"D- Bình P, Bình E, Bình X, Bình O"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "29. Khi sử dụng bộ phát hiện vi vết chất nổ EXD-17, bình thuốc thử mang nhãn hiệu nào phát hiện được thuốc nổ TNT?",
+			"options": ["A- Bình X", "B- Bình P", "C- Bình E", "D- Bình O"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "30. Khi sử dụng bộ phát hiện vi vết chất nổ EXD-17, bình thuốc thử mang nhãn hiệu nào phát hiện được thuốc nổ C4?",
+			"options": ["A- Bình X", "B- Bình P", "C- Bình E", "D- Bình O"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "31. Khi sử dụng bộ phát hiện vi vết chất nổ EXD-17 kiểm tra chất nổ gốc Peroxide, thời gian đọc kết quả là bao lâu?",
+			"options": [
+				"A- 30 giây - 3 phút",
+				"B- 4 phút",
+				"C- 5 phút",
+				"D- 10 phút"
+			],
+			"correctOption": 0,
+			"points": 10
+		}
+	]
+}

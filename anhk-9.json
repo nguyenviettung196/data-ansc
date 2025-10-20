@@ -1,0 +1,323 @@
+{
+	"questions": [
+		{
+			"question": "Câu 1: Công ước ký tại Tokyo (Nhật Bản) ngày 14/9/1963 và có hiệu lực từ ngày 04 tháng 12 năm 1969 nội dung đề cập về vấn đề gì?",
+			"options": [
+				"A- Công ước về các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay",
+				"B- Công ước về các hành vi vi phạm an ninh và một số hành vi khác thực hiện trên tàu bay",
+				"C- Công ước về các hành vi vi phạm an toàn và một số hành vi khác thực hiện trên tàu bay",
+				"D- Công ước về các hành vi can thiệp bất hợp pháp và một số hành vi khác thực hiện trên tàu bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: Công ước về các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay được ký tại Tokyo (Nhật Bản) vào ngày nào?",
+			"options": [
+				"A- 14/10/1963",
+				"B- 14/9/1963",
+				"C- 14/11/1963",
+				"D- 14/9121963"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: Công ước về các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay ký ngày 14/9/1963 tại Tokyo gồm bao nhiêu chương và bao nhiêu điều?",
+			"options": [
+				"A- 7 chương 21 điều",
+				"B- 7 chương 23 điều",
+				"C- 7 chương 26 điều",
+				"D- 7 chương 27 điều"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: Công ước về các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay ký ngày 14/9/1963 tại Tokyo (Nhật Bản) không áp dụng cho loại tàu bay nào?",
+			"options": [
+				"A- Tàu bay công vụ",
+				"B- Tàu bay chở hàng",
+				"C- Tàu bay quân sự",
+				"D- Tàu bay dân sự"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: Theo công ước Tokyo (Nhật Bản) năm 1963, thời gian bay được tính như thế nào?",
+			"options": [
+				"A- Thời gian bay được tính từ thời điểm đóng cửa khoang hành khách của tàu bay đến thời điểm tàu bay kết thúc việc lăn bánh sau khi hạ cánh",
+				"B- Thời gian bay được tính từ thời điểm đóng cửa khoang hàng của tàu bay đến thời điểm tàu bay kết thúc việc lăn bánh sau khi hạ cánh",
+				"C- Thời gian bay được tính từ thời điểm tàu bay nổ máy nhằm mục đích cất cánh đến thời điểm tàu bay hạ cánh xuống sân bay đến",
+				"D- Thời gian bay được tính từ thời điểm tàu bay nổ máy nhằm mục đích cất cánh đến thời điểm tàu bay kết thúc việc lăn bánh sau khi hạ cánh"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: Theo công ước Tokyo (Nhật Bản) năm 1963, người chỉ huy tàu bay được xác lập quyền hạn gì để duy trì trật tự cho chuyến bay?",
+			"options": [
+				"A- Được phép cưỡng chế kẻ đang thực hiện hành vi phạm tội và những hành vi vi phạm khác",
+				"B- Không được phép cưỡng chế kẻ đang thực hiện hành vi phạm tội và những hành vi vi phạm khác vì lý do đảm bảo an toàn cho chuyến bay",
+				"C- Được phép yêu cầu hành khách trợ giúp cưỡng chế kẻ đang thực hiện hành vi phạm tội và những hành vi vi phạm khác",
+				"D- Chỉ được phép cưỡng chế kẻ đang thực hiện hành vi phạm tội"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: Hạn chế của Công ước Tokyo (Nhật Bản) năm 1963 là gì?",
+			"options": [
+				"A- Công ước chỉ quy định hành vi tội phạm",
+				"B- Công ước chỉ quy định các hành vi khác không phải là tội phạm nhưng có thể đe doạ tới an toàn, gây nguy hại cho tàu bay và cho người, tài sản trên tàu bay",
+				"C- Công ước không liệt kê hành vi phạm tội"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: Công ước ký tại Hague ngày 16/12/1970 và có hiệu lực từ ngày 14 tháng 10 năm 1971 nội dung đề cập về vấn đề gì?",
+			"options": [
+				"A- Công ước nhằm ngăn chặn việc chiếm giữ bất hợp pháp tàu bay",
+				"B- Công ước nhằm ngăn chặn các hành vi phạm tội và một số hành vi khác thực hiện trên tàu bay",
+				"C- Công ước nhằm ngăn chặn các hành vi vi phạm an ninh và một số hành vi khác thực hiện trên tàu bay",
+				"D- Công ước nhằm ngăn chặn các hành vi vi phạm an toàn và một số hành vi khác thực hiện trên tàu bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Công ước Hague 1970 có bao nhiêu quốc gia tham gia?",
+			"options": [
+				"A- 170 quốc gia",
+				"B- 172 quốc gia",
+				"C- 173 quốc gia",
+				"D- 174 quốc gia"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: Công ước Hague 1970 có bao nhiêu điều?",
+			"options": ["A- 09 điều", "B- 11 điều", "C- 13 điều", "D- 14 điều"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Công ước ký tại Montreal ngày 23/9/1971 và có hiệu lực từ ngày 26/01/1973 nội dung đề cập về vấn đề gì?",
+			"options": [
+				"A- Công ước nhằm ngăn chặn việc chiếm giữ bất hợp pháp tàu bay",
+				"B- Công ước về ngăn chặn các hành vi bất hợp pháp chống lại an toàn của hàng không dân dụng",
+				"C- Công ước nhằm ngăn chặn các hành vi vi phạm an ninh và một số hành vi khác thực hiện trên tàu bay",
+				"D- Công ước nhằm ngăn chặn các hành vi vi phạm an toàn và một số hành vi khác thực hiện trên tàu bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: Công ước Montreal 1971 có bao nhiêu quốc gia tham gia?",
+			"options": [
+				"A- 170 quốc gia",
+				"B- 172 quốc gia",
+				"C- 174 quốc gia",
+				"D- 175 quốc gia"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: Công ước Montreal 1971 có bao nhiêu điều?",
+			"options": ["A- 13 điều", "B- 15 điều", "C- 16 điều", "D- 17 điều"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: Theo Công ước Montreal 1971, định nghĩa tàu bay đang khai thác là gì?",
+			"options": [
+				"A- Tàu bay đang khai thác là tàu bay đang trong thời gian kể từ khi bắt đầu các công việc cho một chuyến bay đến 03 giờ sau khi tàu bay hạ cánh, bao gồm toàn bộ thời gian tàu bay đang bay",
+				"B- Tàu bay đang khai thác là tàu bay đang trong thời gian kể từ khi bắt đầu các công việc cho một chuyến bay đến 24 giờ sau khi tàu bay hạ cánh, bao gồm toàn bộ thời gian tàu bay đang bay",
+				"C- Tàu bay đang khai thác là tàu bay đang trong thời gian kể từ khi bắt đầu các công việc cho một chuyến bay đến 05 giờ sau khi tàu bay hạ cánh, bao gồm toàn bộ thời gian tàu bay đang bay",
+				"D- Tàu bay đang khai thác là tàu bay đang trong thời gian kể từ khi bắt đầu các công việc cho một chuyến bay đến 07 giờ sau khi tàu bay hạ cánh, bao gồm toàn bộ thời gian tàu bay đang bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: Theo Công ước Montreal 1971, hành vi can thiệp bất hợp pháp được định nghĩa và liệt kê như thế nào?",
+			"options": [
+				"A- Thực hiện hành vi bạo lực đối với một người đang ở trên tàu bay trong khi bay mà hành động đó sẽ gây nguy hiểm đến an toàn của tàu bay đó; Phá huỷ tàu bay đang sử dụng hoặc làm hỏng tàu bay như vậy dẫn đến mất khả năng bay hoặc sẽ gây mất an toàn của tàu bay trong khi bay",
+				"B- Đặt hoặc chỉ đạo đặt vào tàu bay đang sử dụng, dù bằng bất cứ phương thức nào, một thiết bị hoặc chất sẽ phá huỷ tàu bay hoặc gây thiệt hạ cho tàu bay dẫn đến làm mất khả năng bay, hoặc làm hỏng tàu bay dẫn đến mất an toàn của tàu bay đang bay",
+				"C- Phá huỷ hoặc làm hỏng phương tiện dẫn đường hàng không hoặc cản trở hoạt động của các thiết bị đó, nếu bất kỳ hành động nào như vậy sẽ gây mất an toàn cho tàu bay đang bay; Chuyển thông tin mà mình biết là sai để làm mất an toàn cho tàu bay đang bay",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Nghị định thư Montreal 1988 là phụ chương của công ước nào?",
+			"options": [
+				"A- Công ước Montreal 1971",
+				"B- Công ước Tokyo 1963",
+				"C- Công ước Hague 1970",
+				"D- Công ước Chicago 1944"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Công ước ký tại Montreal ngày 1/3/1991 nội dung đề cập về vấn đề gì?",
+			"options": [
+				"A- Công ước về đánh dấu các chất nổ rắn nhằm mục đích phát hiện",
+				"B- Công ước về đánh dấu các chất nổ dẻo (plastic) nhằm mục đích phát hiện",
+				"C- Công ước về đánh dấu các chất nổ lỏng nhằm mục đích phát hiện",
+				"D- Công ước về đánh dấu các chất nổ khí nhằm mục đích phát hiện"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: Phụ lục 17 của Công ước về Hàng không Dân dụng Quốc tế (hay còn gọi là Công ước Chicago 1944) được Hội đồng ICAO thông qua vào ngày nào?",
+			"options": [
+				"A- Ngày 22/3/1971",
+				"B- Ngày 22/3/1973",
+				"C- Ngày 22/3/1974",
+				"D- Ngày 22/3/1975"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: Hành vi can thiệp bất hợp pháp được phân loại thành bao nhiêu cấp độ theo nhóm hành vi nghiêm trọng?",
+			"options": [
+				"A- 2 cấp độ",
+				"B- 3 cấp độ",
+				"C- 5 cấp độ",
+				"D- 7 cấp độ"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Nhóm hành vi nghiêm trọng cấp độ 1 bao gồm những hành vi nào?",
+			"options": [
+				"A- Xâm nhập trái pháp luật vào tàu bay, cảng hàng không, sân bay và công trình, trang bị, thiết bị hàng không dân dụng; đưa vật phẩm nguy hiểm vào tàu bay, cảng hàng không, sân bay và khu vực hạn chế khác trái pháp luật.",
+				"B- Cung cấp thông tin sai đến mức uy hiếp an toàn của tàu bay đang bay hoặc trên mặt đất; an toàn của hành khách, tổ bay, nhân viên mặt đất hoặc người tại cảng hàng không, sân bay và công trình, trang bị, thiết bị hàng không dân dụng.",
+				"C- Cố ý thực hiện hành vi vi phạm pháp luật uy hiếp đến an toàn khai thác tàu bay; khai thác cảng hàng không, sân bay; đảm bảo hoạt động bay; tấn công, xâm nhập, can thiệp trái phép vào hệ thống thông tin chuyên ngành hàng không.",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 21: Nhóm hành vi nghiêm trọng cấp độ 2 bao gồm những hành vi nào?",
+			"options": [
+				"A- Chiếm đoạt bất hợp pháp tàu bay đang bay; chiếm đoạt bất hợp pháp tàu bay trên mặt đất; sử dụng tàu bay như một vũ khí; xâm nhập trái pháp luật vào tàu bay, cảng hàng không, sân bay và công trình, trang bị, thiết bị hàng không dân dụng",
+				"B- Chiếm đoạt bất hợp pháp tàu bay đang bay; chiếm đoạt bất hợp pháp tàu bay trên mặt đất; sử dụng tàu bay như một vũ khí; đưa vật phẩm nguy hiểm vào tàu bay, cảng hàng không, sân bay",
+				"C- Chiếm đoạt bất hợp pháp tàu bay đang bay; chiếm đoạt bất hợp pháp tàu bay trên mặt đất; sử dụng tàu bay như một vũ khí; bắt giữ con tin trong tàu bay hoặc tại cảng hàng không, sân bay.",
+				"D- Chiếm đoạt bất hợp pháp tàu bay đang bay; chiếm đoạt bất hợp pháp tàu bay trên mặt đất; sử dụng tàu bay như một vũ khí; cung cấp thông tin sai đến mức uy hiếp an toàn của tàu bay đang bay hoặc trên mặt đấ"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 22: Phương án khẩn nguy tổng thể đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng cấp quốc gia do cá nhân/đơn vị nào xây dựng?",
+			"options": [
+				"A- Ủy ban An ninh hàng không dân dụng quốc gia",
+				"B- Công an tỉnh, thành phố",
+				"C- Ban Chỉ huy khẩn nguy hàng không huyện đảo",
+				"D- Người khai thác cảng hàng không, sân bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 23: Kế hoạch khẩn nguy hàng không đối phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng cấp tỉnh, thành phố trực thuộc trung ương nơi có cảng hàng không, sân bay do cá nhân/đơn vị nào xây dựng?",
+			"options": [
+				"A- Ủy ban An ninh hàng không dân dụng quốc gia",
+				"B- Công an tỉnh, thành phố",
+				"C- Ban Chỉ huy khẩn nguy hàng không huyện đảo",
+				"D- Người khai thác cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 24: Kế hoạch khẩn nguy hàng không của huyện do Trưởng Ban Chỉ đạo phòng, chống khủng bố của các tỉnh, thành phố trực thuộc trung ương nơi có cảng hàng không, sân bay tại huyện đảo chỉ đạo, hướng dẫn cá nhân/đơn vị nào xây dựng?",
+			"options": [
+				"A- Ủy ban An ninh hàng không dân dụng quốc gia",
+				"B- Công an tỉnh, thành phố",
+				"C- Ban Chỉ huy khẩn nguy hàng không huyện đảo",
+				"D- Người khai thác cảng hàng không, sân bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 25: Kế hoạch khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp của cảng hàng không, sân bay do cá nhân/đơn vị nào xây dựng?",
+			"options": [
+				"A- Ủy ban An ninh hàng không dân dụng quốc gia",
+				"B- Công an tỉnh, thành phố",
+				"C- Ban Chỉ huy khẩn nguy hàng không huyện đảo",
+				"D- Người khai thác cảng hàng không, sân bay"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 26: Nhiệm vụ, quyền hạn nào là của Ban Chỉ đạo khẩn nguy hàng không quốc gia trong việc tổ chức, ứng phó với hành vi can thiệp bất hợp pháp?",
+			"options": [
+				"A- Đáp ứng hoặc từ chối các yêu sách về chính trị, quốc phòng, an ninh quốc gia, kinh tế của đối tượng can thiệp bất hợp pháp (sau khi xin ý kiến của Thủ tướng Chính phủ đối với các yêu sách về chính trị, quốc phòng, an ninh quốc gia, trật tự xã hội)",
+				"B- Chỉ đạo cơ quan thường trực Ban Chỉ đạo phòng, chống khủng bố tổ chức tập huấn, huấn luyện, bồi dưỡng kỹ năng, nghiệp vụ đối phó với các tình huống khẩn nguy hàng không tại địa phương",
+				"C- chỉ đạo, điều hành phối hợp các đơn vị hàng không hoạt động tại cảng hàng không, sân bay thực hiện phương án khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp",
+				"D- Chỉ đạo cơ sở bảo đảm hoạt động bay nằm ngoài cảng hàng không, sân bay: Theo dõi, nắm tình hình, đánh giá các mối đe dọa uy hiếp đến an ninh hàng không tại cơ sở"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 27: Nhiệm vụ, quyền hạn nào là của Ban Chỉ đạo phòng, chống khủng bố của các tỉnh, thành phố trực thuộc trung ương trong việc tổ chức, ứng phó với hành vi can thiệp bất hợp pháp?",
+			"options": [
+				"A- Đáp ứng hoặc từ chối các yêu sách về chính trị, quốc phòng, an ninh quốc gia, kinh tế của đối tượng can thiệp bất hợp pháp (sau khi xin ý kiến của Thủ tướng Chính phủ đối với các yêu sách về chính trị, quốc phòng, an ninh quốc gia, trật tự xã hội)",
+				"B- Chỉ đạo cơ quan thường trực Ban Chỉ đạo phòng, chống khủng bố tổ chức tập huấn, huấn luyện, bồi dưỡng kỹ năng, nghiệp vụ đối phó với các tình huống khẩn nguy hàng không tại địa phương",
+				"C- chỉ đạo, điều hành phối hợp các đơn vị hàng không hoạt động tại cảng hàng không, sân bay thực hiện phương án khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp",
+				"D- Chỉ đạo cơ sở bảo đảm hoạt động bay nằm ngoài cảng hàng không, sân bay: Theo dõi, nắm tình hình, đánh giá các mối đe dọa uy hiếp đến an ninh hàng không tại cơ sở"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 28: Nhiệm vụ, quyền hạn nào là của Ban chỉ huy khẩn nguy Cảng hàng không, sân bay trong việc tổ chức, ứng phó với hành vi can thiệp bất hợp pháp?",
+			"options": [
+				"A- Đáp ứng hoặc từ chối các yêu sách về chính trị, quốc phòng, an ninh quốc gia, kinh tế của đối tượng can thiệp bất hợp pháp (sau khi xin ý kiến của Thủ tướng Chính phủ đối với các yêu sách về chính trị, quốc phòng, an ninh quốc gia, trật tự xã hội)",
+				"B- Chỉ đạo cơ quan thường trực Ban Chỉ đạo phòng, chống khủng bố tổ chức tập huấn, huấn luyện, bồi dưỡng kỹ năng, nghiệp vụ đối phó với các tình huống khẩn nguy hàng không tại địa phương",
+				"C- chỉ đạo, điều hành phối hợp các đơn vị hàng không hoạt động tại cảng hàng không, sân bay thực hiện phương án khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp",
+				"D- Chỉ đạo cơ sở bảo đảm hoạt động bay nằm ngoài cảng hàng không, sân bay: Theo dõi, nắm tình hình, đánh giá các mối đe dọa uy hiếp đến an ninh hàng không tại cơ sở"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 29: Nhiệm vụ, quyền hạn nào là của Tổng công ty Quản lý bay Việt Nam trong việc tổ chức, ứng phó với hành vi can thiệp bất hợp pháp?",
+			"options": [
+				"A- Đáp ứng hoặc từ chối các yêu sách về chính trị, quốc phòng, an ninh quốc gia, kinh tế của đối tượng can thiệp bất hợp pháp (sau khi xin ý kiến của Thủ tướng Chính phủ đối với các yêu sách về chính trị, quốc phòng, an ninh quốc gia, trật tự xã hội)",
+				"B- Chỉ đạo cơ quan thường trực Ban Chỉ đạo phòng, chống khủng bố tổ chức tập huấn, huấn luyện, bồi dưỡng kỹ năng, nghiệp vụ đối phó với các tình huống khẩn nguy hàng không tại địa phương",
+				"C- chỉ đạo, điều hành phối hợp các đơn vị hàng không hoạt động tại cảng hàng không, sân bay thực hiện phương án khẩn nguy đối phó ban đầu với hành vi can thiệp bất hợp pháp",
+				"D- Chỉ đạo cơ sở bảo đảm hoạt động bay nằm ngoài cảng hàng không, sân bay: Theo dõi, nắm tình hình, đánh giá các mối đe dọa uy hiếp đến an ninh hàng không tại cơ sở"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 30: Nguyên tắc hợp tác quốc tế trong ứng phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng?",
+			"options": [
+				"A- Tuân thủ quy định của pháp luật Việt Nam và các điều ước quốc tế mà Việt Nam là thành viên; phù hợp với chính sách, đường lối đối ngoại của nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+				"B- Tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ của các quốc gia liên quan, không can thiệp vào công việc nội bộ của nhau; phối hợp hài hòa, chủ động, tích cực, minh bạch vì lợi ích chung",
+				"C- Các hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng thuộc phạm vi trách nhiệm của Việt Nam, có liên quan đến công dân, tài sản của nước ngoài được thông báo kịp thời đến quốc gia liên quan (qua đường ngoại giao hoặc thông qua ICAO)",
+				"D- Đáp án A, B, C đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		}
+	]
+}

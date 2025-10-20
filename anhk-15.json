@@ -1,0 +1,302 @@
+{
+	"questions": [
+		{
+			"question": "1.Việc thực hiện kiểm tra an ninh hàng không tàu bay trước khi tiếp nhận hành khách, hành lý, hàng hóa, bưu gửi lên tàu bay và sau khi hành khách, hành lý, hàng hóa, bưu gửi xuống hết khỏi tàu bay thuộc trách nhiệm của cơ quan/đơn vị nào?",
+			"options": [
+				"Tổ bay của chuyến bay",
+				"Người khai thác tàu bay",
+				"Cảng vụ hàng không liên quan",
+				"Lực lượng kiểm soát an ninh hàng không của người khai thác Cảng hàng không, sân bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "2.Mục đích của việc kiểm tra an ninh hàng không tàu bay trước khi tiếp nhận hành khách, hành lý, hàng hóa, bưu gửi lên tàu bay và sau khi hành khách, hành lý, hàng hóa, bưu gửi xuống hết khỏi tàu bay là gì?",
+			"options": [
+				"Phát hiện bom, mìn, vật liệu nổ được cất giấu trên tàu bay",
+				"Phát hiện vũ khí được cất giấu trên tàu bay",
+				"Phát hiện các vật phẩm nguy hiểm có thể được cất giấu hoặc người trốn trên tàu bay",
+				"Phát hiện các vật dụng hành khách bỏ quên trên tàu bay"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "3.Việc lục soát an ninh hàng không được thực hiện đối với tàu bay trong trường hợp nào?",
+			"options": [
+				"Khi có thông tin trên tàu bay có vật phẩm nguy hiểm mà chưa được phát hiện, xác định trong quá trình kiểm tra, soi chiếu trước khi đưa lên tàu bay",
+				"Trường hợp có người trên tàu bay phát ngôn đe dọa an toàn của chuyến bay",
+				"Trường hợp có hành khách gây mất an ninh trật tự, hành hung tổ bay",
+				"Đáp án A và B đúng"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Tổ chức/cá nhân nào trực tiếp thực hiện lục soát an ninh tàu bay?",
+			"options": [
+				"Thợ kỹ thuật tàu bay của hãng hàng không có liên quan",
+				"Lực lượng kiểm soát an ninh hàng không tại Cảng hàng không, sân bay",
+				"Tổ bay của chuyến bay",
+				"Người khai thác tàu bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Người được giao nhiệm vụ kiểm tra an ninh tàu bay thực hiện theo trình tự, thủ tục được quy định cụ thể tại",
+			"options": [
+				"Chương trình ANHK của người khai thác tàu bay",
+				"Chương trình ANHK của hãng hàng không",
+				"Hướng dẫn công việc của đơn vị thực hiện kiểm tra an ninh tàu bay",
+				"Kế hoạch khẩn nguy ứng phó với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng tại cảng hàng không, sân bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Những vị trí nào cần lục soát kỹ khi tiến hành lục soát tàu bay?",
+			"options": [
+				"Cụm càng tàu bay, gồm: buồng càng, các bộ phận điều khiển cụm bánh lốp",
+				"Các ghế ngồi, bao gồm cả đệm, vỏ đệm, túi, lưng ghế, nơi để áo phao dưới ghế, gầm ghế, giữa các ghế, giữa ghế và thành tàu bay/vách ngăn",
+				"Nơi để hành lý, hàng hoá, thùng rác, buồng vệ sinh, các hộc",
+				"Cụm càng tàu bay, gồm: buồng càng, các bộ phận điều khiển cụm bánh lốp; Các ghế ngồi, bao gồm cả đệm, vỏ đệm, túi, lưng ghế, nơi để áo phao dưới ghế, gầm ghế, giữa các ghế, giữa ghế và thành tàu bay/vách ngăn; Nơi để hành lý, hàng hoá, thùng rác, buồng vệ sinh, các hộc"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Việc kiểm tra an ninh hàng không được thực hiện đối với những phương tiện nào?",
+			"options": [
+				"Phương tiện vào khu vực hạn chế",
+				"Phương tiện ra khỏi khu vực hạn chế",
+				"Phương tiện vào, ra và hoạt động tại khu vực hạn chế",
+				"Phương tiện hoạt động tại khu vực hạn chế"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Việc lục soát an ninh hàng không được thực hiện đối với phương tiện trong các trường hợp nào?",
+			"options": [
+				"Trường hợp không có thiết bị kiểm tra an ninh",
+				"Trường hợp tăng cường an ninh",
+				"Trường hợp có dấu hiệu hoặc thông tin đe dọa uy hiếp an ninh hàng không",
+				"Trường hợp không có thiết bị kiểm tra an ninh; trường hợp tăng cường an ninh; trường hợp có dấu hiệu hoặc thông tin đe dọa uy hiếp an ninh hàng không"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Quy trình lục soát phương tiện được thực hiện theo trình tự như thế nào?",
+			"options": [
+				"Toàn bộ khu bên ngoài phương tiện (thân xe, gầm xe, lốp xe, bánh dự phòng, cốp xe); Khu vực buồng lái và khu vực máy, động cơ; Toàn bộ khoang chở khách hoặc thùng hàng; Kiểm tra các đồ vật trên phương tiện",
+				"Toàn bộ khu bên ngoài phương tiện (thân xe, gầm xe, lốp xe, bánh dự phòng, cốp xe); Kiểm tra các đồ vật trên phương tiện; Khu vực buồng lái và khu vực máy, động cơ; Toàn bộ khoang chở khách hoặc thùng hàng",
+				"Toàn bộ khu bên ngoài phương tiện (thân xe, gầm xe, lốp xe, bánh dự phòng, cốp xe); Toàn bộ khoang chở khách hoặc thùng hàng; Kiểm tra các đồ vật trên phương tiện; Khu vực buồng lái và khu vực máy, động cơ",
+				"Toàn bộ khu bên ngoài phương tiện (thân xe, gầm xe, lốp xe, bánh dự phòng, cốp xe); Khu vực buồng lái và khu vực máy, động cơ; Kiểm tra các đồ vật trên phương tiện; Toàn bộ khoang chở khách hoặc thùng hàng"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Lục soát phương tiện được thực hiện theo các thức như thế nào?",
+			"options": [
+				"Lục soát từ sàn tới mắt cá chân, ở mức này cần tiến hành kiểm tra kỹ gầm ghế, các hộc phía dưới; Lục soát từ mắt cá chân đến ngang hông, chú ý lục soát thành ghế, các hộc; Lục soát từ ngang hông lên trần xe, chú ý lục soát các giá treo, hộc để hành lý, các thiết bị gắn trên trần xe",
+				"Lục soát từ sàn tới đầu gối, ở mức này cần tiến hành kiểm tra kỹ gầm ghế, các hộc phía dưới; Lục soát từ đầu gối đến đỉnh đầu, chú ý lục soát thành ghế, các hộc; Lục soát từ đỉnh đầu lên trần xe, chú ý lục soát các giá treo, hộc để hành lý, các thiết bị gắn trên trần xe",
+				"Lục soát từ sàn tới ngang hông, ở mức này cần tiến hành kiểm tra kỹ gầm ghế, các hộc phía dưới; Lục soát từ ngang hông đến đỉnh đầu, chú ý lục soát thành ghế, các hộc; Lục soát từ đỉnh đầu lên trần xe, chú ý lục soát các giá treo, hộc để hành lý, các thiết bị gắn trên trần xe",
+				"Lục soát từ sàn tới ngang hông, ở mức này cần tiến hành kiểm tra kỹ gầm ghế, các hộc phía dưới; Lục soát từ ngang hông lên trần xe, chú ý lục soát các giá treo, hộc để hành lý, các thiết bị gắn trên trần xe"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Quy trình kiểm tra trực quan phương tiện được thực hiện theo trình tự như thế nào?",
+			"options": [
+				"Dùng gương soi kiểm tra gầm, bề mặt phía trên của phương tiện; Kiểm tra trực quan bên trong buồng lái của phương tiện; Kiểm tra khoang chở người, hàng của phương tiện (trừ các trường hợp khoang chở hàng được niêm phong theo quy định); Kiểm tra các niêm phong của phương tiện, hàng hóa chuyên chở trên phương tiện",
+				"Quan sát, kiểm tra bên ngoài phương tiện; Kiểm tra trực quan bên trong buồng lái của phương tiện; Kiểm tra khoang chở người, hàng của phương tiện (trừ các trường hợp khoang chở hàng được niêm phong theo quy định); Kiểm tra các niêm phong của phương tiện, hàng hóa chuyên chở trên phương tiện",
+				"Quan sát, kiểm tra bên ngoài phương tiện; Dùng gương soi kiểm tra gầm, bề mặt phía trên của phương tiện; Kiểm tra trực quan bên trong buồng lái của phương tiện; Kiểm tra khoang chở người, hàng của phương tiện (trừ các trường hợp khoang chở hàng được niêm phong theo quy định); Kiểm tra các niêm phong của phương tiện, hàng hóa chuyên chở trên phương tiện",
+				"Quan sát, kiểm tra bên ngoài phương tiện; Dùng gương soi kiểm tra gầm, bề mặt phía trên của phương tiện; Kiểm tra trực quan bên trong buồng lái của phương tiện; Kiểm tra khoang chở người, hàng của phương tiện (trừ các trường hợp khoang chở hàng được niêm phong theo quy định)"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Trong khi kiểm tra an ninh đối với phương tiện vận chuyển suất ăn, trường hợp tủ, túi đựng suất ăn khi di chuyển từ khu vực khác vào khu vực hạn chế mà không có niêm phong an ninh hoặc niêm phong an ninh hoặc tủ, túi đụng suất ăn không còn nguyên vẹn thì phải được nhân viên kiểm soát an ninh kiểm tra an ninh hàng không như thế nào?",
+			"options": [
+				"Không cần phải kiểm tra an ninh hàng không",
+				"Kiểm tra an ninh hàng không bằng soi chiếu tia X",
+				"Kiểm tra an ninh hàng không bằng phương pháp kiểm tra trực quan",
+				"Kiểm tra an ninh hàng không bằng soi chiếu tia X hoặc bằng phương pháp kiểm tra trực quan"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Trong khi kiểm tra an ninh đối với phương tiện vận chuyển nhiên liệu hàng không, trường hợp kiểm tra các cửa nạp, cửa xả không có niêm phong an ninh hoặc niêm phong an ninh không còn nguyên vẹn hoặc phát hiện phương tiện bị rò rỉ nhiên liệu, nhân viên kiểm soát an ninh thực hiện nhiệm vụ như thế nào?",
+			"options": [
+				"Tạm giữ người và phương tiện, không cho phép phương tiện vào khu vực hạn chế; Thẩm vấn, xác minh làm rõ lí do việc cửa xả nhiên liệu của phương tiện không có niêm phong; Báo cáo Trực ca/kíp/tổ hoặc cán bộ trực xử lý",
+				"Nhắc nhở nhân viên lái xe vận chuyển nhiên liệu dán tem niêm phong, khắc phục rò rỉ nhiên liệu rồi cho vào khu vực hạn chế",
+				"Nhắc nhở nhân viên lái xe vận chuyển nhiên liệu dán tem niêm phong, khắc phục rò rỉ nhiên liệu rồi cho vào khu vực hạn chế; Báo cáo Trực ca/kíp/tổ hoặc cán bộ trực xử lý kết quả xử lý",
+				"Thẩm vấn, xác minh làm rõ lí do việc cửa xả nhiên liệu của phương tiện không có niêm phong; Nhắc nhở nhân viên lái xe vận chuyển nhiên liệu dán tem niêm phong, khắc phục rò rỉ nhiên liệu rồi cho vào khu vực hạn chế; Báo cáo Trực ca/kíp/tổ hoặc cán bộ trực xử lý"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Việc kiểm tra an ninh hàng không, lục soát khu vực hạn chế được thực hiện trong các trường hợp nào?",
+			"options": [
+				"Kiểm tra ANHK khu vực cách ly hàng ngày theo quy định; Lục soát ANHK trong trường hợp có dấu hiệu hoặc thông tin đe dọa uy hiếp an ninh hàng không; Lục soát ANHK trong trường hợp tăng cường an ninh",
+				"Tái kiểm tra ANHK khu vực hạn chế theo quy định; Kiểm tra ANHK trước khi phục vụ chuyến bay chuyên cơ; Lục soát ANHK trong trường hợp có dấu hiệu hoặc thông tin đe dọa uy hiếp an ninh hàng không; Lục soát ANHK trong trường hợp tăng cường an ninh",
+				"Kiểm tra ANHK khu vực cách ly hàng ngày theo quy định; Tái kiểm tra ANHK khu vực hạn chế theo quy định; Kiểm tra ANHK trước khi phục vụ chuyến bay chuyên cơ; Lục soát ANHK trong trường hợp tăng cường an ninh",
+				"Kiểm tra ANHK khu vực cách ly hàng ngày theo quy định; Tái kiểm tra ANHK khu vực hạn chế theo quy định; Kiểm tra ANHK trước khi phục vụ chuyến bay chuyên cơ; Lục soát ANHK trong trường hợp có dấu hiệu hoặc thông tin đe dọa uy hiếp an ninh hàng không; Lục soát ANHK trong trường hợp tăng cường an ninh"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Nhân viên kiểm soát ANHK khi thực hiện lục soát an ninh khu vực hạn chế được phân chia thành mấy nhóm?",
+			"options": ["02 nhóm", "03 nhóm", "04 nhóm", "05 nhóm"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Khi thực hiện nhiệm vụ lục soát an ninh khu vực hạn chế, nhân viên kiểm soát ANHK thuộc nhóm 1 chịu trách nhiệm lục soát khu vực nào?",
+			"options": [
+				"Khu vực phía ngoài và xung quanh nhà ga",
+				"Khu vực phía trong nhà ga gồm những khu vực công cộng mà công chúng được phép ra vào như: tiền sảnh, khu chờ làm thủ tục, khu làm thủ tục, khu vệ sinh công cộng, khu vực các quầy trống, khu vực để đồ vật nội bộ",
+				"Khu vực phí trong nhà ga ở khu vực hạn chế như khu cách ly, khu hàng miễn thuế…",
+				"Từng phòng cụ thể trong nhà ga"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Khi thực hiện nhiệm vụ lục soát an ninh khu vực hạn chế, nhân viên kiểm soát ANHK thuộc nhóm 2 chịu trách nhiệm lục soát khu vực nào?",
+			"options": [
+				"Khu vực phía ngoài và xung quanh nhà ga",
+				"Khu vực phía trong nhà ga gồm những khu vực công cộng mà công chúng được phép ra vào như: tiền sảnh, khu chờ làm thủ tục, khu làm thủ tục, khu vệ sinh công cộng, khu vực các quầy trống, khu vực để đồ vật nội bộ",
+				"Khu vực phí trong nhà ga ở khu vực hạn chế như khu cách ly, khu hàng miễn thuế…",
+				"Từng phòng cụ thể trong nhà ga"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Khi thực hiện nhiệm vụ lục soát an ninh khu vực hạn chế, nhân viên kiểm soát ANHK thuộc nhóm 3 chịu trách nhiệm lục soát khu vực nào?",
+			"options": [
+				"Khu vực phía ngoài và xung quanh nhà ga",
+				"Khu vực phía trong nhà ga gồm những khu vực công cộng mà công chúng được phép ra vào như: tiền sảnh, khu chờ làm thủ tục, khu làm thủ tục, khu vệ sinh công cộng, khu vực các quầy trống, khu vực để đồ vật nội bộ",
+				"Khu vực phí trong nhà ga ở khu vực hạn chế như khu cách ly, khu hàng miễn thuế…",
+				"Từng phòng cụ thể trong nhà ga"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Khi thực hiện nhiệm vụ lục soát an ninh khu vực hạn chế, nhân viên kiểm soát ANHK thuộc nhóm 4 chịu trách nhiệm lục soát khu vực nào?",
+			"options": [
+				"Khu vực phía ngoài và xung quanh nhà ga",
+				"Khu vực phía trong nhà ga gồm những khu vực công cộng mà công chúng được phép ra vào như: tiền sảnh, khu chờ làm thủ tục, khu làm thủ tục, khu vệ sinh công cộng, khu vực các quầy trống, khu vực để đồ vật nội bộ",
+				"Khu vực phí trong nhà ga ở khu vực hạn chế như khu cách ly, khu hàng miễn thuế…",
+				"Từng phòng cụ thể trong nhà ga"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Quy trình lục soát tại từng phòng cụ thể trong nhà ga được thực hiện theo mấy bước?",
+			"options": ["02 bước", "03 bước", "04 bước", "05 bước"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Trong khi thực hiện nhiệm vụ lục soát an ninh khu vực hạn chế, nếu phát hiện đồ vật nghi ngờ thì nhân viên kiểm soát ANHK cần lưu ý những điều gì?",
+			"options": [
+				"Không đụng chạm hoặc di chuyển đồ vật nghi ngờ; Không đổ nước hoặc đặt các đồ vật khác lên đồ vật nghi ngờ",
+				"Không ở gần xung quanh đồ vật nghi ngờ; Không dùng thiết bị vô tuyến ở gần đồ vật nghi ngờ;",
+				"Không tạo ra âm thanh, độ rung nhiệt hoặc chấn động xung quanh đồ vật nghi ngờ; Thông báo ngay cho người giám sát và điều phối để kịp thời xử lý theo quy định",
+				"Không đụng chạm hoặc di chuyển đồ vật nghi ngờ; Không đổ nước hoặc đặt các đồ vật khác lên đồ vật nghi ngờ; Không ở gần xung quanh đồ vật nghi ngờ; Không dùng thiết bị vô tuyến ở gần đồ vật nghi ngờ; Không tạo ra âm thanh, độ rung nhiệt hoặc chấn động xung quanh đồ vật nghi ngờ; Thông báo ngay cho người giám sát và điều phối để kịp thời xử lý theo quy định"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Cá nhân/đơn vị nào thực hiện lục soát an ninh hàng không trong trường hợp cần thiết theo quy định của pháp luật?",
+			"options": [
+				"Lực lượng kiểm soát an ninh hàng không của người khai thác cảng hàng không, sân bay",
+				"Lực lượng công an địa phương",
+				"Cảng vụ hàng không khu vực",
+				"Nhân viên hàng không của cảng hàng không, sân bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Việc lục soát an ninh hàng không phải được lập loại biên bản nào?",
+			"options": [
+				"Biên bản vụ việc",
+				"Biên bản vi phạm",
+				"Biên bản lục soát",
+				"Biên bản kiểm tra an ninh"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Khu vực cách ly phải được kiểm tra an ninh hàng không vào thời điểm nào ?",
+			"options": [
+				"Sau khi kết thúc hoạt động bay ngày Chủ nhật hàng tuần",
+				"Trước khi đưa vào khai thác hàng ngày",
+				"Sau khi kết thúc hoạt động bay các ngày thứ Hai, Tư, Sáu, Chủ Nhật hàng tuần",
+				"Sau khi kết thúc hoạt động bay các ngày thứ Ba, Năm, Bảy hàng tuần"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Việc giám sát an ninh hàng không tại khu vực cách ly được thực hiện với tần suất như thế nào trong thời gian khai thác",
+			"options": [
+				"Chỉ giám sát khi có vụ việc vi phạm an ninh xảy ra trong khu vực",
+				"Chỉ giám sát khi có vụ việc vi phạm an toàn xảy ra trong khu vực",
+				"Giám sát liên tục trong suốt thời gian khai thác",
+				"Giám sát từ 2 đến 3 lần trong thời gian khai thác"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Tàu bay phải được kiểm tra, giám sát an ninh hàng không tại thời điểm nào của chuyến bay",
+			"options": [
+				"Trước khi chuyến bay được thực hiện",
+				"Sau khi chuyến bay kết thúc",
+				"Khi hành khách trên tàu bay cần sự trợ giúp của y tế",
+				"Khi hành khách trên tàu bay phát hiện có vật phẩm nguy hiểm đe dọa đến an ninh, an toàn của chuyến bay"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Tàu bay phải được lục soát an ninh hàng không trong trường hợp nào?",
+			"options": [
+				"Trường hợp phát hiện đối tượng xâm nhập bất hợp pháp vào khu vực sân đỗ tàu bay",
+				"Trường hợp có dấu hiệu hoặc thông tin đe dọa liên quan đến an ninh, an toàn của chuyến bay",
+				"Trường hợp tàu bay phải hạ cánh khẩn cấp",
+				"Trường hợp hành khách hút thuốc trên tàu bay"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Việc lục soát an ninh hàng không đối với tàu bay phải được thông báo cho cá nhân/đơn vị nào?",
+			"options": [
+				"Người khai thác cảng hàng không, sân bay; người khai thác tàu bay",
+				"Người khai thác cảng hàng không, sân bay; cảng vụ hàng không liên quan",
+				"Lực lượng công an địa phương, cảng vụ hàng không liên quan",
+				"Người khai thác tàu bay, cảng vụ hàng không liên quan"
+			],
+			"correctOption": 3,
+			"points": 10
+		}
+	]
+}

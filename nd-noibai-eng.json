@@ -1,0 +1,217 @@
+{
+  "questions":[
+		{
+			"question": "Câu 1: How are the crew members checked?",
+			"options": [
+				"A- Exempted from security check",
+				"B- Only check luggage",
+				"C- Apply the same security check procedure as other passengers"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 2: How many staff are needed to operate 2 lines of x-ray machines to serve passengers?",
+			"options": [
+				"A- 06 security staff and 01 supervisor",
+				"B- 7 security staff and 01 supervisor",
+				"C- 08 security staff and 01 supervisor",
+				"D- 08 security staff"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 3: How many passenger screening checkpoints are there in Terminal 2 of Noibai International Airport?",
+			"options": ["A- 1", "B- 2", "C- 3", "D- 4"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 4: How are the passengers who carrying auxiliary medical devices inside their bodies inspected?",
+			"options": [
+				"A- Physical search",
+				"B- Inspect with Walk-Through Metal Detector and Hand-Held Metal Detector",
+				"C- Inform the airline staffs",
+				"D- All above are correct"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 5: How many passenger screening checkpoints are in Terminal 1 of Noibai International Airport?",
+			"options": [
+				"A- 2 (one at the lobby C and one at the lobby E)",
+				"B- 3 (two at the lobby C and one at the lobby E)",
+				"C- 4 (Lobby A, B, C, D - each lobby has one)",
+				"D- 8 (Lobby A, B, C, D - each lobby has two)"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 6: When checking passengers with Hand-Held Metal Detector, what should be observed?",
+			"options": [
+				"A- The expression of passengers when passing through Walk-Through Metal Detector; Observe passengers to detect suspicious signs; The alarm signal of Walk-Through Metal Detector",
+				"B- Only observe passengers to detect suspicious signs",
+				"C- Observe passengers to detect suspicious signs; The alarm signal of Walk-Through Metal Detector",
+				"D- The expression of passengers when passing through Walk-Through Metal Detector"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 7: With passengers who use an e-ticket, Which documents are needed to check?",
+			"options": [
+				"A- Boarding pass, Accepted identification documents, printed ticket",
+				"B- Only Boarding pass",
+				"C- Boarding pass, Accepted identification documents",
+				"D- Only Accepted identification documents"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 8: EXD-19 Explosive Micro Trace Detector contains 4 reagent bottles, what are the symbols for these reagent bottles?",
+			"options": [
+				"A- E; X; T; O",
+				"B- E; S; P; O",
+				"C- E; X; P; O",
+				"D- X; T; P; O"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 9: Which of the following is not a prohibited act when using an electromagnetic key?",
+			"options": [
+				"A- Failure to comply with the inspection, supervision and instructions of the aviation security staff when using the electromagnetic key",
+				"B- Use someone else's electromagnetic key to open the electromagnetic door",
+				"C- When using the electromagnetic key, the door must be closed immediately after passing",
+				"D- While on duty, the user of the personal electromagnetic key leads additional unauthorized persons through the electromagnetic door"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 10: In case of detecting prohibited items on a passenger's body, what will you do?",
+			"options": [
+				"A- Apply visual inspection or report to the supervisor",
+				"B- Handover to Airline representative",
+				"C- Handover to Northern Airports Authority",
+				"D- Refuse to complete aviation security procedures"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Câu 11: Which procedure is applied for suspicious passengers?",
+			"options": [
+				"A- As soon as discovering or receiving information about suspicious passengers, the aviation security control force must be quickly present at the place where suspicious passengers located",
+				"B- Organize a secret force to supervise suspicious passengers",
+				"C- Coordinate with relevant forces to promptly handle when suspicious passengers show signs of violation of aviation security",
+				"D- All above are correct"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 12: For international flights, which security measures must be applied for liquids, gels and aerosol in passenger's hand-luggages?",
+			"options": [
+				"A- Apply the same security check procedure as other luggages, no extra measure",
+				"B- Ask passengers to put bottles, jars, containers of liquid into transparent plastic bags inside their hand-luggages before screening",
+				"C- Ask passengers to put bottles, jars, containers of liquid into transparent plastic bags for separate screening from passenger's hand-luggages and other items",
+				"D- Ask passengers to take bottles, jars, containers of liquid out and use E.T.D machine to check one by one item"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 13: What is the security procedure to check air cargo shipments at extended aviation warehouse?",
+			"options": [
+				"A- Representatives of ALS Bac Ninh Co., Ltd., ALS Thai Nguyen Co., Ltd., ALS Dong Ha Noi Co., Ltd regist and describe classification, quantities of goods with aviation security personnel",
+				"B- Aviation security personnel instruct the dutied staffs of ALS Bac Ninh Co., Ltd., ALS Thai Nguyen Co., Ltd., ALS Dong Hanoi Co., Ltd. to put goods into X-ray scanner",
+				"C- Perform aviation secutity check measures to screen goods and storage in restricted area of export warehouse",
+				"D- All above are correct"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 14: How are wheelchairs passenger's personal belongings and accompanying passengers checked?",
+			"options": [
+				"A- By Xray scanner only",
+				"B- By security screening machines, physical search with the presence of airline staff or accompanying passengers",
+				"C- By security screening machines, physical search without the presence of airline staff or accompanying passengers",
+				"D- By physical search with the presence of airline staff or accompanying passengers"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Câu 15: What is the suspicious passenger and luggage?",
+			"options": [
+				"A- Passengers and luggages have unusual observable signs of shape, size, weight and state",
+				"B- Being provided intelligence information related to passengers and luggage with suspicious signs",
+				"C- Passengers with oversize luggages",
+				"D- A & B are correct"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 16: Which procedure is applied for checking and supervising knives, scissors, other dangerous items brought in/out restricted areas of Passenger Terminal and Cargo Terminal?",
+			"options": [
+				"A- Check the type and serial number of each item. Record in the logbook",
+				"B- Do not allow to bring any kind of knives, scissors, other dangerous items in/out restricted areas",
+				"C- Only registered knives, scissors, dangerous items are allowed to bring in/out restricted areas"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Câu 17: Which force will cooperate with aviation security personnel in checking, supervising passengers and their luggage on a special flight?",
+			"options": [
+				"A- Relevant Airport authority",
+				"B- Relevant Airport authority, Airlines",
+				"C- Relevant Airport authority, Airlines, Border Police",
+				"D- Guard Police High Command – Ministry of Public Security"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 18: When detecting checked baggage torn apart, broken lock, unauthorized intervened or damaged, what should aviation security officer do?",
+			"options": [
+				"A- Coordinate with Airlines representative to make a record of the incident and allow to load that baggage on the aircraft",
+				"B- Coordinate with Airlines representative to make a record of the incident, re-pack and allow to load that baggage on the aircraft",
+				"C- Apply the aviation security re-check measure",
+				"D- Apply the aviation security re-check procedure and recorded in a written form"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 19: What is NOT the duty of screening security staff at the air cargo terminal?",
+			"options": [
+				"A- Receive shipping declaration form and other related documents from customers to compare with actual images on the screen",
+				"B- Pay attention to images of goods across screens; Use function keys to analyze and evaluate",
+				"C- Compare the actual goods through screening with what customer have declared on the shipping declaration form",
+				"D- Pay attention to gray color images"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Câu 20: Which information should be informed to The Passenger service personnel when aviation security personnel need to apply visual inspection measures with a suspicious passenger's baggage?",
+			"options": [
+				"A- Baggage ID number, flight number, Airlines",
+				"B- Baggage ID number, Name of passenger, Airlines, Baggage describre",
+				"C- Baggage ID number, name of passenger, flight number, Airlines",
+				"D- Name of passenger, flight number, Airlines"
+			],
+			"correctOption": 2,
+			"points": 10
+		}
+  ]
+}
